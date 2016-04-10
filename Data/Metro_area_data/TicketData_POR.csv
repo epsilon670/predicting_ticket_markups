@@ -1,0 +1,208 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show,num_blogs,num_news,num_reviews,discovery,familiarity,hotttnesss,num_years_active
+9152782,2016-05-17T20:30:00-0700,The Who,Moda Center at the Rose Quarter,68.17,902.0,58,170.0,Portland,OR,Ticketmaster,$39.50,0,69685,65,16207,3483,184,0.2722043204385602,0.837273,0.645903,52
+9352311,2016-07-03T20:00:00-0700,Janet Jackson,Moda Center at the Rose Quarter,55.6,500.0,124,371.0,Portland,OR,Ticketmaster,$24.95,0,410449,112,6824,4132,59,0.3601373449252699,0.795111,0.752127,43
+9367549,2016-04-14T20:00:00-0700,Gary Clark Jr,Roseland Theater,74.26,199.88,30,128.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,309236,32,,,,,,,
+9372111,2016-03-14T20:00:00-0700,Disturbed,Roseland Theater,77.82,5555.55,14,63.0,Portland,OR,AXS,NoPriceClass,1,455175,1,,,,,,,
+9381633,2016-03-31T19:30:00-0700,Underoath,McMenamins Crystal Ballroom,57.83,199.0,10,70.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,18,,,,,,,
+9395359,2016-04-16T20:00:00-0700,2Cellos,Keller Auditorium,108.7,9999.0,15,46.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,4392693,34,,,,,,,
+9411823,2016-04-02T20:00:00-0700,Ciara,Roseland Theater,73.3,82.0,5,8.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,106251,20,,,,,,,
+9415018,2016-05-28T20:00:00-0700,Leon Bridges,Arlene Schnitzer Hall,152.75,636.54,18,46.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,8205063,76,2,0,7,0.4113479036967781,0.087578,0.429727,6
+9425581,2016-03-13T19:45:00-0700,Umphrey's McGee,McMenamins Crystal Ballroom,57.84,87.78,2,16.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,0,,,,,,,
+9425627,2016-08-20T19:00:00-0700,Demi Lovato and Nick Jonas,Moda Center at the Rose Quarter,31.74,2499.0,205,830.0,Portland,OR,Ticketmaster,$29.95,0,976211,160,6063,1776,13,0.42707395045850144,0.769929,0.835224,14
+9426932,2016-07-19T19:00:00-0700,Twenty One Pilots,Moda Center at the Rose Quarter,85.1,5000.0,133,769.0,Portland,OR,Ticketmaster,$35.00,0,3123851,128,852,266,10,0.5725633529624048,0.586834,0.78425,7
+9432568,2016-04-03T19:00:00-0700,Ellie Goulding,Moda Center at the Rose Quarter,65.55,302.4,50,214.0,Portland,OR,Ticketmaster,$35.00,0,2332047,21,10071,2357,23,0.48269966817297044,0.750632,0.901275,8
+9434937,2016-04-17T19:30:00-0700,Bonnie Raitt,Keller Auditorium,159.0,475.0,8,13.0,Portland,OR,Evenue,$46.50,0,135398,35,2255,721,66,0.3160628076798648,0.728868,0.562017,45
+9438924,2016-05-22T15:00:00-0700,Celtic Woman,Arlene Schnitzer Hall,159.44,219.0,4,12.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,227735,70,,,,,,,
+9439488,2016-10-13T19:30:00-0700,Maroon 5,Moda Center at the Rose Quarter,68.58,7995.0,695,2233.0,Portland,OR,Ticketmaster,$30.50,0,181875,214,6949,2105,92,0.38991947795223525,0.8101,0.849666,22
+9440727,2016-04-02T21:00:00-0700,Anders Osborne,Dantes,112.63,91.0,1,8.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,20,,,,,,,
+9443411,2016-03-16T19:30:00-0700,Finish Ticket,McMenamins Crystal Ballroom,27.28,59.0,4,18.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,3,,,,,,,
+9445590,2016-03-13T19:00:00-0700,Justin Bieber,Moda Center at the Rose Quarter,206.5,1600.0,120,285.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,0,,,,,,,
+9452592,2016-03-20T20:00:00-0700,Daughter,Wonder Ballroom,43.62,199.99,11,38.0,Portland,OR,Ticketfly,$18.00,1,201667,7,4497,397,27,0.484888303177617,0.61957,0.700804,6
+9453413,2016-03-26T20:00:00-0400,Lake Street Dive,State Theatre Portland Maine,72.12,169.0,10,28.0,Portland,ME,Ticketmaster,$30.00,0,1077331,13,399,175,11,0.5094867319244379,0.50701,0.618196,12
+9456682,2016-03-18T21:00:00-0400,Jukebox the Ghost,Port City Music Hall,27.11,45.0,7,30.0,Portland,ME,Ticketmaster,$15.00,0,578861,5,893,83,11,0.41372728051255425,0.531711,0.520564,13
+9457937,2016-03-22T21:00:00-0700,Phil Cook,Doug Fir Lounge ,69.76,58.14,2,8.0,Portland,OR,Ticketfly,$12.00,0,4876678,9,255,56,3,0.39271062075906116,0.370697,0.410257,16
+9457939,2016-03-23T21:00:00-0700,Greg Dulli,Doug Fir Lounge ,34.28,89.95,8,26.0,Portland,OR,Ticketfly,$22.00,1,458141,10,753,205,9,0.4241148809454919,0.449173,0.474072,29
+9457940,2016-03-28T21:00:00-0700,Polica,Doug Fir Lounge ,50.86,69.54,5,32.0,Portland,OR,Ticketfly,$20.00,0,4665213,15,1714,349,40,0.5750904634134799,0.445357,0.639432,5
+9457941,2016-03-29T21:00:00-0700,Polica,Doug Fir Lounge ,32.0,89.0,5,30.0,Portland,OR,Ticketfly,$20.00,0,4665213,16,1714,349,40,0.5750904634134799,0.445357,0.639432,5
+9457942,2016-03-30T21:00:00-0700,Field Music,Doug Fir Lounge ,68.58,57.0,2,8.0,Portland,OR,Ticketfly,$12.00,0,399137,17,1276,196,82,0.37694532481118087,0.565609,0.499341,12
+9457946,2016-04-22T21:00:00-0700,Judah and The Lion,Doug Fir Lounge ,39.08,64.33,6,20.0,Portland,OR,Ticketfly,$13.00,0,6008179,40,61,21,2,0.4844621465352863,0.311886,0.506108,5
+9459803,2016-04-14T20:00:00-0700,Arlo Guthrie,Revolution Hall Portland,179.49,149.99,1,8.0,Portland,OR,Ticketfly,$39.50,1,398453,32,537,154,37,0.4228572215020871,0.529346,0.530184,49
+9459856,2016-03-23T19:30:00-0700,Loreena McKennitt,Arlene Schnitzer Hall,120.5,269.0,4,12.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,156551,10,,,,,,,
+9461064,2016-03-25T21:00:00-0400,Percy Hill,Port City Music Hall,55.6,45.0,1,10.0,Portland,ME,Ticketmaster,$20.00,0,162633,12,17,19,0,0.3917543472277423,0.313438,0.409258,
+9462423,2016-03-30T21:00:00-0700,Wolfmother,Wonder Ballroom,107.45,91.0,4,13.0,Portland,OR,Ticketfly,$25.00,1,192603,17,1986,276,44,0.3565223741851221,0.676873,0.570694,12
+9463096,2016-03-29T20:00:00-0700,Rachel Platten,Wonder Ballroom,16.24,101.0,17,85.0,Portland,OR,Ticketfly,$20.00,0,1988795,16,165,24,1,0.6619148080054834,0.503897,0.799531,13
+9465904,2016-03-17T20:30:00-0700,Breaking Benjamin,Roseland Theater,96.78,199.0,9,33.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,99074,4,,,,,,,
+9468498,2016-03-28T20:00:00-0700,Joanna Newsom,Arlene Schnitzer Hall,87.46,144.0,15,39.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,481340,15,,,,,,,
+9468976,2016-05-03T20:00:00-0700,The Melvins and Napalm Death,Roseland Theater,73.28,96.0,7,33.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,207184,51,,,,,,,
+9469543,2016-03-20T19:30:00-0700,Slayer,Roseland Theater,191.3,179.0,4,4.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,36137,7,,,,,,,
+9469802,2016-04-26T20:00:00-0700,The 1975,Arlene Schnitzer Hall,76.84,300.0,35,121.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,66370,44,,,,,,,
+9470756,2016-05-25T20:00:00-0700,Mac DeMarco,Roseland Theater,43.8,100.0,22,98.0,Portland,OR,Etix,NoPriceClass,0,5105188,73,,,,,,,
+9470917,2016-05-19T21:00:00-0700,Nada Surf,Doug Fir Lounge ,89.94,85.0,2,12.0,Portland,OR,Ticketfly,$22.00,0,172227,67,1992,228,92,0.39048458103611905,0.678747,0.627284,24
+9474191,2016-03-18T19:00:00-0700,Yonder Mountain String Band,McMenamins Crystal Ballroom,61.5,85.82,5,21.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,5,,,,,,,
+9475465,2016-03-25T19:30:00-0700,Peter Frampton,Revolution Hall Portland,120.48,129.0,5,27.0,Portland,OR,Ticketfly,$69.50,0,486144,12,1112,299,72,0.3593422525931816,0.679797,0.578411,50
+9476550,2016-05-27T21:00:00-0700,King Gizzard And The Lizard Wizard,Mississippi Studios,83.92,69.0,1,2.0,Portland,OR,Ticketfly,NoPriceClass,0,4137561,75,,,,,,,
+9477146,2016-04-04T20:00:00-0400,The Mountain Goats,Port City Music Hall,60.32,130.0,4,30.0,Portland,ME,Ticketmaster,$20.00,0,488253,22,3642,548,276,0.45567034953047575,0.664594,0.712874,25
+9478034,2016-05-25T21:00:00-0700,Mac DeMarco,Roseland Theater,81.84,70.0,3,11.0,Portland,OR,Etix,NoPriceClass,0,5105188,73,,,,,,,
+9483194,2016-06-10T19:00:00-0700,Blue October,Roseland Theater,47.66,105.0,13,51.0,Portland,OR,ShowClix,$50.00,0,500273,89,292,33,24,0.4344212483414914,0.607631,0.615481,21
+9483670,2016-03-29T19:00:00-0700,X Ambassadors,McMenamins Crystal Ballroom,17.75,199.0,16,93.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,16,,,,,,,
+9483958,2016-04-01T21:00:00-0700,Ra Ra Riot,Revolution Hall Portland,37.89,75.0,5,27.0,Portland,OR,Ticketfly,NoPriceClass,0,320682,19,,,,,,,
+9484056,2016-03-20T19:00:00-0400,Mayday Parade,State Theatre Portland Maine,28.85,62.0,8,44.0,Portland,ME,Ticketmaster,$25.00,0,59712,7,992,349,14,0.37327594100849004,0.649055,0.567765,9
+9484101,2016-03-31T21:00:00-0700,San Fermin,Mississippi Studios,56.78,46.74,2,8.0,Portland,OR,Ticketfly,NoPriceClass,0,6185239,18,,,,,,,
+9484975,2016-04-01T20:00:00-0700,Dark Star Orchestra,McMenamins Crystal Ballroom,47.34,90.06,7,29.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,19,,,,,,,
+9484976,2016-04-02T20:00:00-0700,Dark Star Orchestra,McMenamins Crystal Ballroom,47.34,90.06,5,24.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,20,,,,,,,
+9485299,2016-05-18T20:00:00-0400,The Milk Carton Kids,State Theatre Portland Maine,44.85,35.89,1,2.0,Portland,ME,Ticketmaster,$20.00,0,4186126,66,381,111,15,0.4549994199304496,0.512141,0.556221,5
+9485369,2016-05-10T19:30:00-0700,Dream Theater,Arlene Schnitzer Hall,99.26,130.0,13,39.0,Portland,OR,Evenue,$27.50,0,8765,58,5628,1208,59,0.3135624170758772,0.802322,0.668145,31
+9486475,2016-04-08T19:00:00-0400,Puscifer,Merrill Auditorium,100.83,150.53,5,11.0,Portland,ME,NoVendorClass,NoPriceClass,NoSoldOutClass,594931,26,,,,,,,
+9486595,2016-06-15T20:00:00-0400,Brian Wilson performs Pet Sounds,Merrill Auditorium,241.25,600.0,2,4.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,94,,,,,,,
+9486816,2016-05-10T19:00:00-0700,Tech N9ne,Roseland Theater,112.74,95.0,3,9.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,283009,58,,,,,,,
+9488874,2016-03-27T21:00:00-0400,The Expendables,Asylum Maine,26.52,46.74,4,22.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,14,,,,,,,
+9489290,2016-04-15T20:00:00-0700,Sharon Jones & The Dap Kings,Keller Auditorium,115.78,123.0,10,33.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,272515,33,,,,,,,
+9490629,2016-04-15T20:00:00-0700,Richard Cheese,McMenamins Crystal Ballroom,69.76,80.94,3,14.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,33,,,,,,,
+9491372,2016-03-14T21:00:00-0400,Deer Tick,Port City Music Hall,51.33,79.0,4,14.0,Portland,ME,Ticketmaster,$18.00,0,591654,1,2714,629,65,0.398425872690144,0.592674,0.550872,12
+9491373,2016-03-17T21:00:00-0400,Enter The Haggis,Port City Music Hall,55.36,77.52,3,15.0,Portland,ME,Ticketmaster,$20.00,0,546803,4,56,3,2,0.46951403095462946,0.39553,0.490492,21
+9491374,2016-03-30T20:00:00-0400,Ezra Furman,Port City Music Hall,47.81,169.0,4,19.0,Portland,ME,Ticketmaster,$12.00,0,2355020,17,684,44,12,0.48506769405989525,0.456321,0.547633,10
+9491375,2016-04-15T19:30:00-0400,Maine Youth Rock Orchestra,Port City Music Hall,75.78,63.0,4,19.0,Portland,ME,Ticketmaster,$15.00,0,7686654,33,error_5,error_5,error_5,error_5,error_5,error_5,error_5
+9491768,2016-04-13T18:30:00-0400,Between the Buried and Me & August Burns Red,State Theatre Portland Maine,54.28,141.0,10,70.0,Portland,ME,Ticketmaster,$25.00,0,391106,31,1757,661,50,0.36782788043444864,0.661072,0.571743,16
+9491796,2016-03-23T18:30:00-0700,Between the Buried and Me and August Burns Red,Roseland Theater,47.2,141.0,10,54.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,391106,10,1757,661,50,0.36782788043444864,0.661072,0.571743,16
+9500582,2016-03-27T21:00:00-0700,White Denim,Doug Fir Lounge ,40.65,75.0,4,16.0,Portland,OR,Ticketfly,$16.00,0,589804,14,2714,436,90,0.4200359893162661,0.539433,0.534639,10
+9500655,2016-04-13T20:00:00-0700,George Clinton and the Parliament Funkadelic,McMenamins Crystal Ballroom,63.86,80.0,4,18.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,31,,,,,,,
+9500935,2016-04-20T20:00:00-0700,Courtney Barnett,McMenamins Crystal Ballroom,62.39,1234.0,28,127.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,38,,,,,,,
+9501172,2016-04-11T20:30:00-0700,Miike Snow,Roseland Theater,48.31,150.0,33,168.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,2391223,29,,,,,,,
+9501270,2016-04-02T19:30:00-0400,Parachute,Port City Music Hall,52.34,74.99,8,45.0,Portland,ME,Ticketmaster,$19.00,0,9315,20,223,38,3,0.3939322080113532,0.607437,0.557938,10
+9501749,2016-03-31T18:00:00-0400,Spring Fling with Cage The Elephant and more,Cross Insurance Arena,40.26,228.0,40,153.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,18,,,,,,,
+9501799,2016-04-25T20:00:00-0700,M83,Roseland Theater,66.86,199.99,22,106.0,Portland,OR,Etix,$35.00,0,525418,43,5612,390,135,0.4040795545058942,0.744452,0.743836,15
+9501801,2016-04-26T20:00:00-0700,M83,Roseland Theater,61.49,199.99,28,138.0,Portland,OR,Etix,$35.00,0,525418,44,5612,390,135,0.4040795545058942,0.744452,0.743836,15
+9501813,2016-04-29T20:00:00-0700,Say Anything,Wonder Ballroom,43.79,68.0,10,48.0,Portland,OR,Ticketfly,$17.50,0,235557,47,1222,227,57,0.3462206706357281,0.671825,0.548964,16
+9501837,2016-04-28T20:00:00-0700,Beach House,McMenamins Crystal Ballroom,55.02,2350.0,35,151.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,46,,,,,,,
+9501883,2016-04-07T20:00:00-0700,Tinashe,McMenamins Crystal Ballroom,50.93,89.0,7,30.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,25,,,,,,,
+9501942,2016-06-25T20:00:00-0400,Tommy Emmanuel,State Theatre Portland Maine,201.92,169.0,1,2.0,Portland,ME,Ticketmaster,$29.50,0,216176,104,232,18,8,0.41279769689355084,0.596615,0.574393,54
+9503237,2016-03-16T19:00:00-0700,The Wonder Years,Hawthorne Theatre,47.71,75.0,4,20.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,589293,3,,,,,,,
+9507334,2016-08-12T18:00:00-0400,Hunter Hayes,Maine State Pier,83.13,181.0,22,101.0,Portland,ME,Ticketmaster,$23.75,0,407294,152,1332,1609,10,0.42592791332083507,0.587848,0.584348,16
+9507975,2016-04-15T20:00:00-0700,moe. and Chris Robinson Brotherhood,Wonder Ballroom,48.52,67.26,7,38.0,Portland,OR,Ticketfly,$32.00,0,183105,33,2077,1222,31,0.37966988991265477,0.641969,0.570294,27
+9508248,2016-07-31T20:00:00-0400,Beirut,State Theatre Portland Maine,51.97,67.0,7,42.0,Portland,ME,Ticketmaster,$30.00,0,355452,140,1532,126,123,0.39431198056175354,0.707912,0.670898,10
+9509037,2016-06-06T19:30:00-0700,At The Drive-In,McMenamins Crystal Ballroom,123.25,5000.0,17,54.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,85,,,,,,,
+9509205,2016-05-05T20:30:00-0700,Magic Man & The Griswolds,Wonder Ballroom,50.87,41.0,2,12.0,Portland,OR,Ticketfly,$20.00,0,699966,53,1060,75,0,0.4699769912353551,0.500253,0.564706,7
+9509416,2016-11-04T21:00:00-0700,Peter Hook and The Light,Wonder Ballroom,55.51,109.0,10,46.0,Portland,OR,Ticketfly,$23.00,0,4154881,236,1441,472,2,0.3466214328199724,0.503933,0.418708,40
+9509741,2016-04-19T19:30:00-0700,Boyce Avenue,Wonder Ballroom,57.95,105.0,12,57.0,Portland,OR,Official artist website,$25.00,0,608550,37,228,37,0,0.4280020362602742,0.610056,0.608825,12
+9509764,2016-04-13T20:00:00-0700,Pete Yorn,Star Theater Portland,121.48,98.5,1,8.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,2030465,31,,,,,,,
+9509772,2016-03-29T19:00:00-0700,The Contortionist with Monuments and more,Hawthorne Theatre,37.89,30.0,2,14.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,16,,,,,,,
+9510740,2016-04-04T19:00:00-0700,Killswitch Engage,Roseland Theater,61.06,109.0,7,33.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,22,,,,,,,
+9510981,2016-04-09T20:00:00-0400,Waka Flocka Flame,State Theatre Portland Maine,37.96,56.0,8,44.0,Portland,ME,Ticketmaster,$20.00,0,2850016,27,4867,1163,20,0.36281707239903405,0.715457,0.627008,7
+9511025,2016-07-31T19:00:00-0700,Brand New and Modest Mouse,Moda Center at the Rose Quarter,71.6,5000.0,188,556.0,Portland,OR,Ticketmaster,$39.50,0,535518,140,5540,1275,237,0.3179748089304461,0.773091,0.626792,24
+9511027,2016-04-13T21:00:00-0700,The Arcs,Roseland Theater,53.24,91.0,12,62.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,16288,31,,,,,,,
+9511043,2016-04-29T21:00:00-0700,James Bay,Roseland Theater,116.96,299.0,13,68.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,3741276,47,,,,,,,
+9511139,2016-05-18T20:00:00-0700,Amon Amarth with Entombed and Exmortus,Roseland Theater,59.12,54.72,4,25.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,66,,,,,,,
+9511202,2016-04-12T20:00:00-0700,Third Eye Blind,Roseland Theater,73.37,1111.0,27,141.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,389114,30,,,,,,,
+9511216,2016-04-01T20:00:00-0700,Yung Lean,Hawthorne Theatre,40.24,41.0,3,14.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,7120994,19,,,,,,,
+9511311,2016-05-04T18:00:00-0700,The Summer Set,Hawthorne Theatre,70.15,55.0,3,9.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,912614,52,,,,,,,
+9511379,2016-03-17T20:00:00-0700,Geoff Tate's Operation Mindcrime,Hawthorne Theatre,34.75,25.0,1,2.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,4,,,,,,,
+9511450,2016-10-07T20:00:00-0700,Brian Wilson,Arlene Schnitzer Hall,120.5,587.21,20,66.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,547191,208,,,,,,,
+9511549,2016-04-20T19:30:00-0400,John Mellencamp,Merrill Auditorium,197.87,665.56,8,18.0,Portland,ME,NoVendorClass,NoPriceClass,NoSoldOutClass,376016,38,,,,,,,
+9511756,2016-04-19T20:00:00-0700,Flatbush Zombies,Roseland Theater,55.0,73.0,5,29.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,5081903,37,,,,,,,
+9511787,2016-04-02T20:00:00-0400,Gogol Bordello,State Theatre Portland Maine,67.19,62.0,6,30.0,Portland,ME,Ticketmaster,$25.00,0,474383,20,1950,470,71,0.43807099503817415,0.67709,0.701519,17
+9511976,2016-03-25T21:00:00-0700,Datsik with Ookay and Drezo,McMenamins Crystal Ballroom,46.16,65.0,7,38.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,12,,,,,,,
+9511997,2016-03-29T20:00:00-0700,Iggy Pop,Keller Auditorium,95.18,270.0,45,117.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,170739,16,,,,,,,
+9512321,2016-03-25T20:00:00-0700,Geographer with The Crookes,Hawthorne Theatre,36.71,29.0,2,11.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,2336633,12,,,,,,,
+9512363,2016-05-25T20:30:00-0700,Brian Jonestown Massacre,Wonder Ballroom,42.61,89.0,10,50.0,Portland,OR,Ticketfly,$20.00,0,73973,73,999,86,130,0.41623998835332304,0.638522,0.621462,28
+9512369,2016-04-15T18:30:00-0700,FILTER with Orgy and Vampires Everywhere,Dantes,58.33,45.0,2,8.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,33,,,,,,,
+9512434,2016-04-01T21:00:00-0700,The Joy Formidable,Wonder Ballroom,47.33,54.72,8,38.0,Portland,OR,Ticketfly,$18.00,0,1195278,19,2286,500,58,0.4191544927234303,0.562696,0.552757,9
+9512442,2016-03-29T19:30:00-0700,Warren Haynes,Aladdin Theater Portland,72.1,59.0,2,12.0,Portland,OR,Ticketfly,NoPriceClass,0,538056,16,,,,,,,
+9513566,2016-06-16T18:00:00-0400,Ray Lamontagne,Thompsons Point,72.1,105.0,16,73.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,95,,,,,,,
+9513666,2016-04-29T21:30:00-0700,Gin Wigmore,Star Theater Portland,54.81,42.0,1,10.0,Portland,OR,Ticketweb,$17.00,0,2501116,47,192,34,5,0.5695339478351304,0.520768,0.705092,8
+9513728,2016-08-05T18:00:00-0400,George Thorogood and The Destroyers,Maine State Pier,71.33,175.0,16,69.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,145,,,,,,,
+9513744,2016-05-19T21:00:00-0700,Charles Bradley & His Extraordinaires,McMenamins Crystal Ballroom,61.5,50.0,1,4.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,67,,,,,,,
+9513916,2016-06-24T18:00:00-0400,Barenaked Ladies,Maine State Pier,68.97,275.4,22,76.0,Portland,ME,Ticketmaster,$25.75,0,199498,103,1110,203,51,0.36305051628176294,0.684891,0.590115,28
+9514236,2016-04-06T20:00:00-0700,Santigold,Wonder Ballroom,120.5,199.0,9,22.0,Portland,OR,Ticketfly,$25.00,1,2385431,24,9078,1313,31,0.38982271897148985,0.663654,0.608805,13
+9514481,2016-08-02T18:00:00-0400,Walk the Moon with MisterWives,Thompsons Point,83.9,150.0,7,39.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,142,,,,,,,
+9514737,2016-03-22T19:30:00-0700,The Smashing Pumpkins,Arlene Schnitzer Hall,73.3,215.0,39,106.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,233074,9,,,,,,,
+9515904,2016-07-07T18:00:00-0400,Mike Love and Bruce Johnston's Beach Boys,Maine State Pier,84.31,274.0,18,64.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,116,,,,,,,
+9516583,2016-05-01T21:00:00-0700,Floating Points,Doug Fir Lounge ,83.92,69.0,1,6.0,Portland,OR,Ticketfly,$15.00,0,2486306,49,2017,267,12,0.4778907534510492,0.560105,0.627701,9
+9516585,2016-04-10T21:00:00-0700,Shook Twins with Mama Doll,Doug Fir Lounge ,95.72,79.0,1,4.0,Portland,OR,Ticketfly,$20.00,0,630444,28,79,42,1,0.4761552672289627,0.41082,0.504837,12
+9516586,2016-03-21T21:00:00-0700,Kawehi,Doug Fir Lounge ,83.92,69.0,1,4.0,Portland,OR,Ticketfly,$15.00,0,4236006,8,63,11,0,0.4914623750983846,0.339219,0.513421,
+9517417,2016-04-12T21:00:00-0400,Kvelertak,Port City Music Hall,58.48,196.0,4,19.0,Portland,ME,Ticketmaster,$15.00,0,100819,30,1877,463,72,0.39323519503399934,0.581703,0.534238,12
+9517494,2016-03-16T18:30:00-0400,Four Year Strong,Port City Music Hall,33.6,43.32,4,22.0,Portland,ME,Ticketmaster,$15.00,0,151113,3,853,295,75,0.3767329596114472,0.654467,0.578608,15
+9517565,2016-05-01T19:00:00-0700,Andy Mineo,McMenamins Crystal Ballroom,63.86,79.8,4,19.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,49,,,,,,,
+9517601,2016-05-23T20:00:00-0700,Buzzcocks,Revolution Hall Portland,56.7,98.0,7,30.0,Portland,OR,Ticketfly,NoPriceClass,0,351352,71,,,,,,,
+9517620,2016-04-10T19:00:00-0700,Twiztid,Hawthorne Theatre,109.07,90.31,1,8.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,489701,28,,,,,,,
+9517708,2016-04-30T20:00:00-0400,Tribal Seeds,Port City Music Hall,54.53,48.0,5,25.0,Portland,ME,NoVendorClass,NoPriceClass,NoSoldOutClass,538550,48,,,,,,,
+9519236,2016-07-06T19:30:00-0400,Phish,Cross Insurance Arena,144.1,9999.0,123,344.0,Portland,ME,Ticketmaster,$61.00,0,46745,115,5729,2931,123,0.3218130011539002,0.734903,0.579851,33
+9519284,2016-05-09T21:00:00-0700,Lucius,Wonder Ballroom,44.92,100.0,9,47.0,Portland,OR,Ticketfly,$20.00,0,598452,57,1429,280,8,0.4438013392162591,0.534077,0.560377,5
+9520131,2016-04-06T20:00:00-0700,Robert Cray Band,Revolution Hall Portland,103.96,86.0,2,12.0,Portland,OR,Ticketfly,NoPriceClass,0,288680,24,,,,,,,
+9520214,2016-04-09T19:00:00-0700,Snails,Roseland Theater,46.16,120.0,11,65.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,27,,,,,,,
+9521443,2016-05-07T21:00:00-0700,The Neighbourhood,Roseland Theater,60.08,149.0,17,63.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,636848,55,,,,,,,
+9521453,2016-09-09T20:00:00-0400,Leon Bridges,State Theatre Portland Maine,43.73,199.99,41,211.0,Portland,ME,Ticketmaster,$37.50,0,8205063,180,2,0,7,0.4113479036967781,0.087578,0.429727,6
+9521469,2016-05-18T19:30:00-0700,Andrew Bird,Arlene Schnitzer Hall,55.6,175.01,15,39.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,395944,66,,,,,,,
+9521580,2016-04-29T20:00:00-0400,SoMo,State Theatre Portland Maine,40.63,75.0,7,37.0,Portland,ME,Ticketmaster,$22.00,0,6720604,47,206,6,0,0.4696494266424044,0.501775,0.565554,7
+9521674,2016-05-31T18:00:00-0700,The Lumineers,Arlene Schnitzer Hall,108.7,1000.0,63,178.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,2827981,79,,,,,,,
+9522179,2016-03-22T19:30:00-0700,Bruce Springsteen and the E Street Band,Moda Center at the Rose Quarter,108.69,9000.0,290,874.0,Portland,OR,Ticketmaster,$65.00,0,227030,9,15104,5188,320,0.3351500739096001,0.829326,0.774736,51
+9522264,2016-04-26T20:00:00-0700,Pentatonix with Us The Duo,Moda Center at the Rose Quarter,91.0,596.0,39,163.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,44,,,,,,,
+9522357,2016-06-25T18:00:00-0400,Josh Turner,Maine State Pier,102.78,169.0,13,42.0,Portland,ME,Ticketmaster,$17.75,0,553241,104,479,432,19,0.4173778589992091,0.615103,0.598724,22
+9522452,2016-07-04T18:00:00-0400,The Avett Brothers,Thompsons Point,49.7,100.0,14,86.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,113,,,,,,,
+9522562,2016-05-09T19:00:00-0400,Lamb of God with Clutch and Corrosion of Conformity,State Theatre Portland Maine,65.68,100.0,10,66.0,Portland,ME,Ticketmaster,$39.50,0,127504,57,6090,1941,70,0.34595325534431154,0.795921,0.724114,22
+9523380,2016-04-14T21:00:00-0700,Sould Out Festival and Beloved withThomas Jack,McMenamins Crystal Ballroom,61.5,65.0,2,10.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,32,,,,,,,
+9523989,2016-04-11T21:00:00-0700,Lukas Graham,Doug Fir Lounge ,78.02,249.0,12,31.0,Portland,OR,Ticketfly,NoPriceClass,0,4801228,29,,,,,,,
+9527298,2016-05-14T20:00:00-0700,Leon Russell,Aladdin Theater Portland,82.72,78.0,3,20.0,Portland,OR,Ticketfly,NoPriceClass,0,111621,62,,,,,,,
+9527397,2016-04-19T20:00:00-0700,Joan Osborne,Aladdin Theater Portland,75.64,70.0,4,19.0,Portland,OR,Ticketfly,$32.50,0,118198,37,598,164,66,0.40188281967307377,0.603616,0.56563,27
+9527848,2016-07-14T20:00:00-0700,Brit Floyd,Arlene Schnitzer Hall,109.88,92.0,2,4.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,3705716,123,,,,,,,
+9527952,2016-04-21T21:00:00-0700,Fat White Family,Doug Fir Lounge ,83.92,69.0,1,4.0,Portland,OR,Ticketfly,$13.00,0,4625663,39,438,16,5,0.4367305953404368,0.422643,0.470603,16
+9527953,2016-05-13T21:00:00-0700,Lily Madeleine,Doug Fir Lounge ,83.92,69.0,1,2.0,Portland,OR,Ticketfly,NoPriceClass,0,6383499,61,,,,,,,
+9527954,2016-06-07T21:00:00-0700,Rozwell Kid,Doug Fir Lounge ,48.52,39.9,2,6.0,Portland,OR,Ticketfly,$10.00,0,1118551,86,145,5,13,0.4543864567872258,0.442274,0.503068,16
+9528654,2016-06-03T20:00:00-0700,Sam Beam and Jesca Hoop,Aladdin Theater Portland,98.5,144.0,6,21.0,Portland,OR,Ticketfly,$25.00,1,625595,82,740,155,0,0.3216275931879802,0.455966,0.362932,14
+9529053,2016-05-13T21:00:00-0700,Whitey Morgan,Dantes,117.94,95.5,1,8.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,61,,,,,,,
+9529148,2016-05-29T18:00:00-0400,Lake Street Dive,Thompsons Point,76.83,74.0,7,48.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,77,,,,,,,
+9529361,2016-05-28T21:00:00-0700,Savages,Wonder Ballroom,52.04,64.0,6,29.0,Portland,OR,Ticketfly,$18.50,0,242996,76,13,5,56,0.5766377255391132,0.340308,0.602402,6
+9529521,2016-05-06T20:00:00-0400,M. Ward,Port City Music Hall,63.38,54.72,3,18.0,Portland,ME,Official artist website,$22.00,0,503681,54,3397,700,133,0.36587370719066864,0.657022,0.56453,17
+9530316,2016-05-25T20:00:00-0700,Paul Simon,Arlene Schnitzer Hall,226.64,749.01,40,112.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,213059,73,,,,,,,
+9530326,2016-03-31T20:00:00-0700,Atlas Genius,Hawthorne Theatre,105.53,87.31,1,8.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,5539353,18,,,,,,,
+9530552,2016-05-27T21:00:00-0700,Purity Ring,Roseland Theater,61.48,2000.0,11,72.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,75,,,,,,,
+9530569,2016-04-08T22:00:00-0700,Pegboard Nerds,Euphoria Nightclub,155.9,130.0,1,3.0,Portland,OR,Ticketfly,NoPriceClass,0,6134219,26,,,,,,,
+9530586,2016-05-06T21:00:00-0700,Steel Panther,McMenamins Crystal Ballroom,49.7,49.99,2,9.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,54,,,,,,,
+9531178,2016-06-15T20:00:00-0700,John Carpenter A Live Retrospective,Arlene Schnitzer Hall,124.0,147.0,3,7.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,94,,,,,,,
+9531322,2016-07-21T16:30:00-0400,Slightly Stoopid,Maine State Pier,54.42,140.0,13,111.0,Portland,ME,Ticketmaster,$33.00,0,430868,130,570,333,12,0.3851883823012393,0.663278,0.601152,21
+9531386,2016-05-11T20:00:00-0400,Peter Wolf,Port City Music Hall,76.83,150.0,4,17.0,Portland,ME,Ticketmaster,$33.00,0,528289,59,247,69,23,0.4341280813727815,0.393634,0.453525,50
+9531520,2016-04-09T21:00:00-0700,Noah Gunderson,Doug Fir Lounge ,95.66,78.95,1,2.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,27,,,,,,,
+9531525,2016-04-28T20:00:00-0700,Years and Years,Roseland Theater,55.6,100.0,5,26.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,3976856,46,,,,,,,
+9531547,2016-06-26T18:00:00-0400,Whitesnake,Maine State Pier,59.14,269.5,9,25.0,Portland,ME,Ticketmaster,$20.75,0,505217,105,3058,592,36,0.3482583069205712,0.730461,0.621415,38
+9531782,2016-08-17T18:00:00-0400,Goo Goo Dolls,Maine State Pier,141.74,300.0,10,35.0,Portland,ME,Ticketmaster,$23.75,0,145102,157,1007,224,64,0.34746319361264844,0.72721,0.61564,30
+9531915,2016-04-30T19:00:00-0400,Hillsong United,Cross Insurance Arena,72.12,218.19,43,264.0,Portland,ME,Ticketmaster,$29.50,0,22090,48,590,255,42,0.4144240658110544,0.637421,0.617564,18
+9531917,2016-05-10T19:00:00-0700,Hillsong United,Moda Center at the Rose Quarter,26.1,1250.0,34,138.0,Portland,OR,Ticketmaster,$26.50,0,22090,58,590,255,42,0.4144240658110544,0.637421,0.617564,18
+9532250,2016-04-30T21:00:00-0700,Zhu,Roseland Theater,67.08,144.0,34,171.0,Portland,OR,Cascade Tickets,$29.50,0,1183857,48,1959,48,0,0.604552420651678,0.559962,0.793894,2
+9532256,2016-05-30T20:00:00-0700,Kaleo,Mississippi Studios,35.53,155.44,7,36.0,Portland,OR,Ticketfly,NoPriceClass,0,66144,78,,,,,,,
+9532367,2016-08-18T18:00:00-0400,The Band Perry,Maine State Pier,86.28,220.5,10,46.0,Portland,ME,Ticketmaster,$27.75,0,825630,158,1482,1653,11,0.6098640280524775,0.615139,0.874896,11
+9533026,2016-05-12T21:00:00-0700,Yuna,Doug Fir Lounge ,95.72,79.0,1,4.0,Portland,OR,Ticketfly,$17.00,0,425237,60,1256,153,5,0.3979918512985334,0.591405,0.549148,8
+9533070,2016-03-13T20:00:00-0700,DNCE,Holocene,114.6,95.0,1,4.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,0,,,,,,,
+9533234,2016-05-13T20:00:00-0700,Violent Femmes,McMenamins Crystal Ballroom,94.52,182.74,26,93.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,61,,,,,,,
+9534018,2016-06-15T18:00:00-0400,Michael Franti and Spearhead,Thompsons Point,78.0,87.0,6,43.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,94,,,,,,,
+9534141,2016-04-25T21:00:00-0700,Lapsley,Doug Fir Lounge ,48.52,89.0,7,23.0,Portland,OR,Ticketfly,$15.00,0,8068588,43,447,24,1,0.6548093250186046,0.400897,0.684904,3
+9534262,2016-05-26T20:00:00-0700,Macklemore and Ryan Lewis,Portland Memorial Coliseum ,72.56,999.0,171,492.0,Portland,OR,Ticketmaster,$39.50,0,3015056,74,3094,4346,6,0.5929895480008207,0.593557,0.821049,
+9534362,2016-06-24T20:00:00-0700,Flight of the Conchords,Keller Auditorium,142.91,3333.0,22,61.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,103,,,,,,,
+9534610,2016-05-28T20:00:00-0700,Chelsea Wolfe,Revolution Hall Portland,67.05,75.0,3,14.0,Portland,OR,Ticketfly,NoPriceClass,0,183260,76,,,,,,,
+9534732,2016-05-15T21:00:00-0700,Damien Jurado,Doug Fir Lounge ,95.72,79.0,1,6.0,Portland,OR,Ticketfly,$17.00,0,549313,63,2023,233,138,0.4140009851644729,0.613324,0.592118,21
+9535325,2016-05-10T21:00:00-0700,Blaqk Audio,Doug Fir Lounge ,67.4,199.99,4,20.0,Portland,OR,Ticketfly,$18.00,0,568095,58,145,49,12,0.4436403202631641,0.46574,0.507514,15
+9535389,2016-06-06T21:00:00-0700,Mutual Benefit,Doug Fir Lounge ,83.92,69.0,1,6.0,Portland,OR,Ticketfly,$12.00,0,3836411,85,724,109,20,0.5035243616998618,0.458032,0.569831,7
+9535815,2016-06-09T18:00:00-0400,Jackson Browne,Maine State Pier,86.67,4500.0,22,67.0,Portland,ME,Ticketmaster,$24.75,0,51843,88,2284,787,62,0.3282404598913963,0.722503,0.575742,50
+9536015,2016-03-26T20:00:00-0700,Bag Raiders,Doug Fir Lounge ,68.52,59.45,4,18.0,Portland,OR,Ticketfly,$12.00,0,975813,13,1610,47,7,0.41358679089685324,0.590688,0.570008,10
+9536205,2016-06-02T20:00:00-0700,The Kills,Roseland Theater,67.38,69.0,5,24.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,236059,81,,,,,,,
+9536221,2016-07-22T20:00:00-0700,Streetlight Manifesto,Wonder Ballroom,47.53,59.0,8,35.0,Portland,OR,Ticketfly,$20.00,0,22900,131,384,82,15,0.42215910562936654,0.593816,0.584763,14
+9536363,2016-06-20T21:00:00-0400,Boy and Bear,Port City Music Hall,54.48,169.0,4,17.0,Portland,ME,Ticketmaster,$15.00,0,2971776,99,544,55,10,0.5032210005793973,0.543699,0.644647,7
+9536469,2016-05-08T20:00:00-0700,Mayer Hawthorne,Revolution Hall Portland,70.87,122.0,4,24.0,Portland,OR,Ticketfly,$24.85,0,5613613,56,3464,325,35,0.3959134556743096,0.581639,0.537822,8
+9536596,2016-05-21T20:00:00-0700,The Expendables,McMenamins Crystal Ballroom,47.34,38.0,1,4.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,69,,,,,,,
+9536601,2016-06-04T18:00:00-0400,Brandi Carlile,Thompsons Point,86.86,85.0,6,38.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,83,,,,,,,
+9536686,2016-04-21T21:00:00-0700,Frightened Rabbit,Wonder Ballroom,50.87,95.0,10,48.0,Portland,OR,NoVendorClass,NoPriceClass,NoSoldOutClass,364665,39,,,,,,,
+9536690,2016-06-07T19:30:00-0700,Modern Baseball with Joyce Manor and Thin Lips,Hawthorne Theatre,76.47,62.7,2,12.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,86,,,,,,,
+9537249,2016-04-13T20:00:00-0700,SZA,Wonder Ballroom,47.34,75.0,8,25.0,Portland,OR,Ticketfly,NoPriceClass,0,3352181,31,,,,,,,
+9537780,2016-04-30T16:00:00-0700,DigiTour Spring Break 2016,Hawthorne Theatre,54.41,44.0,2,12.0,Portland,OR,NoRegexp,NoRegexp,NoRegexp,NoRegexp,48,error_5,error_5,error_5,error_5,error_5,error_5,error_5
+9537818,2016-05-29T21:00:00-0700,Yeasayer,Wonder Ballroom,68.56,75.0,3,18.0,Portland,OR,Ticketfly,$20.00,0,112691,77,5241,812,61,0.3919505709819035,0.609446,0.556979,10
+9537936,2016-04-25T20:00:00-0700,Joshua Radin,Aladdin Theater Portland,92.16,76.0,2,12.0,Portland,OR,Ticketfly,$25.00,0,360697,43,523,29,13,0.41068995643239187,0.60537,0.579694,12
+9537958,2016-07-16T19:00:00-0400,Bob Dylan,Thompsons Point,122.84,149.0,9,79.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,125,,,,,,,
+9538643,2016-07-17T18:00:00-0400,311,Maine State Pier,79.2,139.0,13,66.0,Portland,ME,Ticketmaster,$39.75,0,486064,126,466,65,57,0.36710995447689043,0.662285,0.571895,28
+9538652,2016-06-19T21:00:00-0400,B.o.B.,Port City Music Hall,55.7,99.0,5,29.0,Portland,ME,NoResults,NoResults,NoResults,NoResults,98,,,,,,,
+9539111,2016-04-15T20:00:00-0700,Paul McCartney,Moda Center at the Rose Quarter,119.32,9999.0,692,1945.0,Portland,OR,Ticketmaster,$49.50,0,300543,33,12883,5418,275,0.3408289239239558,0.810518,0.743605,46
+9539245,2016-08-19T19:00:00-0400,Bonnie Raitt,Maine State Pier,73.82,399.0,36,134.0,Portland,ME,Ticketmaster,$24.75,0,135398,159,2255,721,66,0.3160628076798648,0.728868,0.562017,45
+9539302,2016-07-02T19:00:00-0400,Melissa Etheridge Solo,Maine State Pier,70.15,225.0,2,12.0,Portland,ME,Ticketmaster,$16.75,0,424921,111,611,201,31,0.3621526044673349,0.656447,0.558207,31
+9539497,2016-05-28T20:00:00-0700,Saint Motel and Phases,McMenamins Crystal Ballroom,95.72,100.0,4,19.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,76,,,,,,,
+9539668,2016-06-28T20:00:00-0400,Emblem3,State Theatre Portland Maine,78.41,62.0,1,9.0,Portland,ME,Ticketmaster,$25.00,0,6439724,107,181,44,0,0.47337197024260913,0.498185,0.567092,9
+9540813,2016-03-21T20:00:00-0700,Ty Dolla Sign,Wonder Ballroom,69.76,65.01,5,25.0,Portland,OR,NoResults,NoResults,NoResults,NoResults,8,,,,,,,
+9542312,2016-04-27T21:00:00-0700,Wild Nothing,Doug Fir Lounge ,78.5,64.41,1,4.0,Portland,OR,Ticketfly,$15.00,0,2958061,45,2799,315,42,0.5110117504211314,0.56493,0.676227,7
+9542318,2016-03-23T21:00:00-0700,Chairlift,Mississippi Studios,60.32,56.0,2,9.0,Portland,OR,Ticketfly,NoPriceClass,0,567624,10,,,,,,,
+9542394,2016-03-19T21:00:00-0400,Max Creek,Port City Music Hall,201.92,169.0,2,7.0,Portland,ME,Ticketmaster,$15.00,0,388407,6,48,142,1,0.42839809803096474,0.358196,0.447539,45

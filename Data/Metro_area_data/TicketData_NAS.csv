@@ -1,0 +1,324 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show,num_blogs,num_news,num_reviews,discovery,familiarity,hotttnesss,num_years_active
+9296869,2016-06-09T13:00:00-0500,2016 CMA Music Festival 4 Day Pass,Nissan Stadium Nashville,365.15,6449.99,404,1354.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,88,,,,,,,
+9346472,2016-03-17T19:00:00-0500,The Irish Tenors,Schermerhorn Symphony Center,76.05,121.0,4,14.0,Nashville,TN,Ticketmaster,$22.00,0,429397,4,9,1,5,0.43796657672872635,0.375774,0.457535,18
+9346473,2016-03-18T20:00:00-0500,The Irish Tenors,Schermerhorn Symphony Center,118.14,121.0,2,8.0,Nashville,TN,Ticketmaster,$22.00,0,429397,5,9,1,5,0.43796657672872635,0.375774,0.457535,18
+9346474,2016-03-19T20:00:00-0500,The Irish Tenors,Schermerhorn Symphony Center,73.3,121.0,4,10.0,Nashville,TN,Ticketmaster,$22.00,0,429397,6,9,1,5,0.43796657672872635,0.375774,0.457535,18
+9346475,2016-04-14T19:00:00-0500,Chris Botti with the Nashville Symphony,Schermerhorn Symphony Center,125.81,104.5,1,4.0,Nashville,TN,Ticketmaster,$44.00,0,451102,32,355,172,29,0.3836316741737874,0.578651,0.518679,31
+9346476,2016-04-15T20:00:00-0500,Chris Botti with the Nashville Symphony,Schermerhorn Symphony Center,161.8,383.0,4,16.0,Nashville,TN,Ticketmaster,$44.00,0,451102,33,355,172,29,0.3836316741737874,0.578651,0.518679,31
+9346477,2016-04-16T20:00:00-0500,Chris Botti with the Nashville Symphony,Schermerhorn Symphony Center,125.81,438.0,5,16.0,Nashville,TN,Ticketmaster,$44.00,0,451102,34,355,172,29,0.3836316741737874,0.578651,0.518679,31
+9346478,2016-05-12T19:00:00-0500,Alabama,Schermerhorn Symphony Center,297.5,250.0,1,2.0,Nashville,TN,Ticketmaster,$59.00,0,244095,60,2008,584,17,0.3535561999135074,0.707168,0.600641,47
+9346479,2016-05-13T20:00:00-0500,Alabama,Schermerhorn Symphony Center,226.7,265.0,7,19.0,Nashville,TN,Ticketmaster,$59.00,0,244095,61,2008,584,17,0.3535561999135074,0.707168,0.600641,47
+9346480,2016-05-14T20:00:00-0500,Alabama,Schermerhorn Symphony Center,268.0,250.0,4,12.0,Nashville,TN,Ticketmaster,$59.00,0,244095,62,2008,584,17,0.3535561999135074,0.707168,0.600641,47
+9346481,2016-05-17T19:30:00-0500,Paul Anka in Concert,Schermerhorn Symphony Center,113.42,118.0,2,9.0,Nashville,TN,Ticketmaster,$49.00,0,295235,65,615,96,16,0.45586391060372616,0.617786,0.65688,61
+9346482,2016-05-31T19:30:00-0500,Michael Cavanaugh in Concert,Schermerhorn Symphony Center,104.57,99.0,2,9.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,330624,79,,,,,,,
+9381082,2016-04-11T18:00:00-0500,Underoath,Rocketown,64.25,189.53,14,55.0,Nashville,TN,Artist website,NoPriceClass,0,2357960,29,,,,,,,
+9390840,2016-04-17T19:30:00-0500,Chick Corea and Bela Fleck,Ryman Auditorium,78.02,225.0,47,128.0,Nashville,TN,Ticketmaster,$35.00,0,206143,35,1348,591,86,0.32943986271284503,0.704681,0.556847,54
+9392052,2016-03-18T20:00:00-0500,Vance Joy,Ryman Auditorium,72.59,375.0,47,111.0,Nashville,TN,Ticketmaster,$32.00,0,6148694,5,1102,178,5,0.5987234536781673,0.571873,0.800909,3
+9398548,2016-04-12T19:30:00-0500,Dailey and Vincent,Schermerhorn Symphony Center,79.2,94.05,5,21.0,Nashville,TN,Ticketmaster,$29.00,0,855484,30,77,87,5,0.4803058751187084,0.423249,0.517989,9
+9401167,2016-03-15T19:30:00-0500,The Piano Guys,Ryman Auditorium,102.8,199.95,7,18.0,Nashville,TN,Ticketmaster,$37.50,0,5872269,2,56,11,0,0.6355738488298877,0.468097,0.729495,6
+9408922,2016-06-21T19:30:00-0500,Selena Gomez,Bridgestone Arena,47.47,2199.0,329,1303.0,Nashville,TN,Ticketmaster,$36.30,0,1059348,100,9476,2202,7,0.4399476127099588,0.770825,0.862321,8
+9412159,2016-03-24T19:00:00-0500,Opry Country Classics,Ryman Auditorium,85.1,84.0,2,3.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,11,,,,,,,
+9412160,2016-03-31T19:00:00-0500,Opry Country Classics,Ryman Auditorium,101.62,85.0,2,6.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,18,,,,,,,
+9412161,2016-04-07T19:00:00-0500,Opry Country Classics,Ryman Auditorium,73.3,83.0,2,5.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,25,,,,,,,
+9412162,2016-04-14T19:00:00-0500,Opry Country Classics,Ryman Auditorium,101.62,84.0,1,2.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,32,,,,,,,
+9412163,2016-04-21T19:00:00-0500,Opry Country Classics,Ryman Auditorium,99.26,86.0,3,12.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,39,,,,,,,
+9412164,2016-04-28T19:00:00-0500,Opry Country Classics,Ryman Auditorium,101.62,84.0,1,4.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,46,,,,,,,
+9412165,2016-05-05T19:00:00-0500,Opry Country Classics,Ryman Auditorium,102.8,86.0,2,8.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,53,,,,,,,
+9412169,2016-06-11T15:00:00-0500,Opry at the Ryman,Ryman Auditorium,214.9,180.0,1,4.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,90,,,,,,,
+9412225,2016-03-15T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,37.9,126.0,3,5.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,2,,,,,,,
+9412226,2016-03-18T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,67.4,252.25,22,87.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,5,,,,,,,
+9412227,2016-03-19T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,97.25,174.08,9,40.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,6,,,,,,,
+9412228,2016-03-22T19:00:00-0500,Grand Ole Opry with Rascal Flatts,Grand Ole Opry House,247.59,207.7,1,1.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,88395,9,,,,,,,
+9412229,2016-03-25T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.1,260.13,18,80.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,12,,,,,,,
+9412230,2016-03-26T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,81.86,504.49,23,83.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,13,,,,,,,
+9412231,2016-03-29T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,90.76,218.59,9,32.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,16,,,,,,,
+9412232,2016-04-01T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,252.25,22,106.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,19,,,,,,,
+9412233,2016-04-02T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,302.69,19,69.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,20,,,,,,,
+9412234,2016-04-05T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,302.69,18,102.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,23,,,,,,,
+9412235,2016-04-08T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,252.25,17,82.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,26,,,,,,,
+9412236,2016-04-09T19:00:00-0500,Grand Ole Opry with Eric Church,Grand Ole Opry House,210.18,1008.97,29,113.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,27,,,,,,,
+9412237,2016-04-12T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,76.84,1008.97,20,78.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,30,,,,,,,
+9412238,2016-04-15T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,94.54,1008.97,19,86.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,33,,,,,,,
+9412239,2016-04-16T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,16,103.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,34,,,,,,,
+9412240,2016-04-19T19:00:00-0500,Grand Ole Opry with Rascal Flatts,Grand Ole Opry House,94.54,1008.97,19,62.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,88395,37,,,,,,,
+9412241,2016-04-22T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,20,107.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,40,,,,,,,
+9412242,2016-04-23T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,16,83.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,41,,,,,,,
+9412243,2016-04-26T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,16,86.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,44,,,,,,,
+9412244,2016-04-29T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,20,112.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,47,,,,,,,
+9412245,2016-04-30T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,21,112.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,48,,,,,,,
+9412246,2016-05-03T19:00:00-0500,Grand Ole Opry with Rascal Flatts,Grand Ole Opry House,85.57,1008.97,27,116.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,88395,51,,,,,,,
+9412247,2016-05-06T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,24,132.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,54,,,,,,,
+9412248,2016-05-07T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,21,116.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,55,,,,,,,
+9412249,2016-05-10T19:00:00-0500,Grand Ole Opry with Rascal Flatts,Grand Ole Opry House,85.57,1008.97,20,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,88395,58,,,,,,,
+9412250,2016-05-13T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,21,128.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,61,,,,,,,
+9412251,2016-05-14T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,21,109.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,62,,,,,,,
+9412252,2016-05-17T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,12,60.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,65,,,,,,,
+9412253,2016-05-20T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,26,132.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,68,,,,,,,
+9412254,2016-05-21T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,19,104.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,69,,,,,,,
+9412255,2016-05-24T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,16,99.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,72,,,,,,,
+9412256,2016-05-27T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,23,135.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,75,,,,,,,
+9412257,2016-05-28T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,20,95.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,76,,,,,,,
+9412258,2016-05-31T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,1008.97,15,103.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,79,,,,,,,
+9412259,2016-06-03T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,197.81,15,93.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,82,,,,,,,
+9412260,2016-06-04T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,181.99,17,119.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,83,,,,,,,
+9412262,2016-06-07T21:30:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,302.5,24,127.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,86,,,,,,,
+9412263,2016-06-10T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,240.0,15,89.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,89,,,,,,,
+9412264,2016-06-11T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,240.0,21,118.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,90,,,,,,,
+9412265,2016-06-14T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,181.99,13,79.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,93,,,,,,,
+9412266,2016-06-15T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,156.27,14,83.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,94,,,,,,,
+9412267,2016-06-17T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,181.99,18,119.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,96,,,,,,,
+9412268,2016-06-18T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,207.7,16,101.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,97,,,,,,,
+9412269,2016-06-21T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,260.13,9,58.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,100,,,,,,,
+9412270,2016-06-22T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,156.27,15,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,101,,,,,,,
+9412271,2016-06-24T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,234.42,15,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,103,,,,,,,
+9412272,2016-06-25T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,234.42,19,105.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,104,,,,,,,
+9412273,2016-06-28T19:00:00-0500,Grand Ole Opry with Rascal Flatts,Grand Ole Opry House,85.57,234.42,17,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,88395,107,,,,,,,
+9412274,2016-06-29T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,156.27,15,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,108,,,,,,,
+9412275,2016-07-01T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,181.99,18,124.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,110,,,,,,,
+9412276,2016-07-02T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,192.87,20,133.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,111,,,,,,,
+9412277,2016-07-05T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,234.42,11,73.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,114,,,,,,,
+9412278,2016-07-06T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,146.0,13,88.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,115,,,,,,,
+9412279,2016-07-08T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,181.99,16,112.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,117,,,,,,,
+9412280,2016-07-09T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,145.4,22,131.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,118,,,,,,,
+9412281,2016-07-12T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,172.1,10,70.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,121,,,,,,,
+9412282,2016-07-13T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,146.0,12,84.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,122,,,,,,,
+9412283,2016-07-15T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,172.1,16,116.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,124,,,,,,,
+9412284,2016-07-16T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,181.99,16,114.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,125,,,,,,,
+9412285,2016-07-19T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,156.27,13,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,128,,,,,,,
+9412286,2016-07-20T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,151.33,14,84.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,129,,,,,,,
+9412287,2016-07-22T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,156.27,17,120.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,131,,,,,,,
+9412288,2016-07-23T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,172.1,18,128.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,132,,,,,,,
+9412289,2016-07-26T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,113.42,157.0,3,16.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,135,,,,,,,
+9412290,2016-07-27T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,146.0,12,80.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,136,,,,,,,
+9412291,2016-07-29T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,156.27,18,119.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,138,,,,,,,
+9412292,2016-07-30T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,172.1,17,120.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,139,,,,,,,
+9412293,2016-08-02T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,172.1,13,94.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,142,,,,,,,
+9412294,2016-08-03T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,145.4,14,82.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,143,,,,,,,
+9412295,2016-08-05T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,156.27,15,108.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,145,,,,,,,
+9412296,2016-08-06T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,207.7,15,108.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,146,,,,,,,
+9412297,2016-08-09T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,13,86.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,149,,,,,,,
+9412298,2016-08-10T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,11,79.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,150,,,,,,,
+9412299,2016-08-12T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,15,102.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,152,,,,,,,
+9412300,2016-08-13T19:00:00-0500,Grand Ole Opry with Vince Gill,Grand Ole Opry House,85.57,338.26,28,148.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,213496,153,,,,,,,
+9412301,2016-08-16T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,192.87,13,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,156,,,,,,,
+9412302,2016-08-19T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,147.0,14,100.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,159,,,,,,,
+9412303,2016-08-20T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,147.0,11,88.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,160,,,,,,,
+9412304,2016-08-23T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,12,74.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,163,,,,,,,
+9412305,2016-08-26T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,14,96.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,166,,,,,,,
+9412306,2016-08-27T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,14,104.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,167,,,,,,,
+9412307,2016-08-30T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,12,84.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,170,,,,,,,
+9412308,2016-09-02T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,117.0,15,102.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,173,,,,,,,
+9412309,2016-09-03T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,147.0,15,110.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,174,,,,,,,
+9412310,2016-09-06T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,13,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,177,,,,,,,
+9412311,2016-09-09T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,131.0,12,84.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,180,,,,,,,
+9412312,2016-09-10T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,123.0,13,100.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,181,,,,,,,
+9412313,2016-09-13T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,147.0,10,71.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,184,,,,,,,
+9412314,2016-09-16T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,15,100.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,187,,,,,,,
+9412315,2016-09-17T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,12,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,188,,,,,,,
+9412316,2016-09-20T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,10,74.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,191,,,,,,,
+9412317,2016-09-23T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,15,104.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,194,,,,,,,
+9412318,2016-09-24T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,15,101.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,195,,,,,,,
+9412319,2016-09-27T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,10,70.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,198,,,,,,,
+9412320,2016-09-30T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,15,104.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,201,,,,,,,
+9412321,2016-10-01T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,17,122.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,202,,,,,,,
+9412322,2016-10-04T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,9,66.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,205,,,,,,,
+9412323,2016-10-07T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,263.01,17,116.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,208,,,,,,,
+9412324,2016-10-08T21:30:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,263.01,13,104.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,209,,,,,,,
+9412325,2016-10-08T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,240.0,26,179.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,209,,,,,,,
+9412326,2016-10-11T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,10,72.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,212,,,,,,,
+9412327,2016-10-14T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,147.0,18,118.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,215,,,,,,,
+9412328,2016-10-15T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,15,110.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,216,,,,,,,
+9412330,2016-10-18T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,121.0,9,69.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,219,,,,,,,
+9412331,2016-10-21T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,147.0,14,92.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,222,,,,,,,
+9412332,2016-10-22T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,240.0,16,113.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,223,,,,,,,
+9412333,2016-10-25T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,137.0,11,78.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,226,,,,,,,
+9412336,2016-10-28T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,147.0,17,114.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,229,,,,,,,
+9412338,2016-10-29T19:00:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,250.0,18,122.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,230,,,,,,,
+9420619,2016-07-23T19:30:00-0500,5 Seconds of Summer,Bridgestone Arena,54.48,3299.0,219,863.0,Nashville,TN,Ticketmaster,$26.25,0,5642214,132,1282,578,81,0.535857763285584,0.639639,0.801619,5
+9423709,2016-04-15T20:00:00-0500,Bryan Adams,Ascend Amphitheater,54.7,228.0,44,167.0,Nashville,TN,Live Nation,NoPriceClass,0,54386,33,,,,,,,
+9425635,2016-09-07T19:00:00-0500,Demi Lovato and Nick Jonas,Bridgestone Arena,34.23,2044.0,240,885.0,Nashville,TN,Ticketmaster,$26.20,0,976211,178,6063,1776,13,0.42707395045850144,0.769929,0.835224,14
+9426894,2016-03-15T20:00:00-0500,Coheed and Cambria,Marathon Music Works,55.59,249.0,13,65.0,Nashville,TN,Ticketfly,$30.00,0,200900,2,2206,628,76,0.3305257310766203,0.711343,0.566347,21
+9426943,2016-08-07T19:00:00-0500,Twenty One Pilots,Ascend Amphitheater,127.5,1253.0,112,440.0,Nashville,TN,Live Nation,NoPriceClass,0,3123851,147,,,,,,,
+9428845,2016-03-20T19:30:00-0500,Moody Blues,Ryman Auditorium,94.27,290.0,18,41.0,Nashville,TN,Ticketmaster,$55.00,0,182796,7,1355,111,42,0.33430689003213776,0.714358,0.576416,52
+9431393,2016-04-08T20:00:00-0500,Robin Trower,Marathon Music Works,61.49,49.99,1,6.0,Nashville,TN,Ticketfly,$25.00,0,243623,26,521,31,38,0.3834120181241286,0.61476,0.549685,54
+9434841,2016-05-03T19:30:00-0500,Bonnie Raitt,Ryman Auditorium,107.52,1000.0,47,113.0,Nashville,TN,Ticketmaster,$55.00,0,135398,51,2255,721,66,0.3160628076798648,0.728868,0.562017,45
+9434843,2016-05-04T19:30:00-0500,Bonnie Raitt,Ryman Auditorium,132.3,1000.0,42,112.0,Nashville,TN,Ticketmaster,$55.00,0,135398,52,2255,721,66,0.3160628076798648,0.728868,0.562017,45
+9436137,2016-07-08T20:00:00-0500,LeAnn Rimes with the Nashville Symphony,Schermerhorn Symphony Center,49.69,340.62,24,76.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,117,,,,,,,
+9441828,2016-04-15T19:30:00-0500,Mumford and Sons,Bridgestone Arena,150.0,9999.0,203,482.0,Nashville,TN,Ticketmaster,$35.35,0,2202327,33,7704,5997,95,0.4786914821581703,0.69612,0.795356,9
+9442690,2016-03-29T21:00:00-0500,Yo La Tengo,Exit In,54.33,99.0,10,47.0,Nashville,TN,Ticketfly,$20.00,1,70762,16,5194,798,259,0.32775643313145086,0.731761,0.586495,32
+9444578,2016-05-03T18:55:00-0500,Bonnie Raitt,Ryman Auditorium,262.1,240.0,4,12.0,Nashville,TN,Ticketmaster,$55.00,0,135398,51,2255,721,66,0.3160628076798648,0.728868,0.562017,45
+9445566,2016-06-27T19:30:00-0500,Justin Bieber,Bridgestone Arena,223.55,2199.0,292,859.0,Nashville,TN,Ticketmaster,$46.00,0,2596951,106,30710,11725,108,0.3768891941678082,0.842991,0.91195,8
+9452465,2016-08-17T19:00:00-0500,Dixie Chicks,Bridgestone Arena,139.38,1715.0,58,199.0,Nashville,TN,Ticketmaster,$69.00,0,61008,157,982,502,49,0.3921856270337113,0.710058,0.670223,27
+9452560,2016-03-17T20:00:00-0500,The Infamous Stringdusters,Exit In,67.05,59.0,3,20.0,Nashville,TN,Ticketfly,$15.00,0,541144,4,282,294,18,0.43025586449572134,0.515952,0.528911,10
+9454867,2016-04-22T20:00:00-0500,Ben Harper and The Innocent Criminals,Ryman Auditorium,117.31,1000.0,40,104.0,Nashville,TN,Ticketmaster,$37.50,0,76901,40,2169,751,56,0.32143977666780404,0.742762,0.589446,24
+9455591,2016-05-04T20:00:00-0500,King Gizzard and The Lizard Wizard,Mercy Lounge ,33.14,75.0,5,29.0,Nashville,TN,Songkick Tickets,$15.55,0,4137561,52,446,20,30,0.5579669395247235,0.31852,0.582897,6
+9456753,2017-02-12T19:30:00-0500,Barry Manilow,Bridgestone Arena,238.5,200.0,2,4.0,Nashville,TN,Ticketmaster,$16.45,0,1568,336,1019,212,39,0.4043547482646763,0.671846,0.641166,52
+9458631,2016-04-13T19:30:00-0500,Jethro Tull,Ryman Auditorium,100.44,189.0,26,73.0,Nashville,TN,Ticketmaster,$49.50,0,111953,31,3064,334,73,0.32042963079849296,0.754309,0.603454,49
+9461631,2016-03-18T19:30:00-0500,Rihanna,Bridgestone Arena,48.5,4950.0,191,667.0,Nashville,TN,Ticketmaster,$35.00,0,139648,5,49492,11209,111,0.33470610926387906,0.849921,0.830018,11
+9462802,2016-07-27T19:30:00-0500,Journey and Dave Mason,Ascend Amphitheater,93.16,944.0,41,165.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,136,,,,,,,
+9462860,2016-04-06T20:00:00-0500,Thao and The Get Down Stay Down,Mercy Lounge ,37.9,46.0,5,27.0,Nashville,TN,Songkick Tickets,$19.38,0,6213309,24,273,42,5,0.28425254649223664,0.314178,0.296953,13
+9465565,2016-04-03T20:00:00-0500,G Love and Special Sauce,3rd and Lindsley Bar & Grill,53.61,41.0,2,10.0,Nashville,TN,Ticketweb,NoPriceClass,0,252784,21,,,,,,,
+9466201,2016-03-30T19:30:00-0500,Andrew Bird,Ryman Auditorium,46.16,212.75,64,186.0,Nashville,TN,Ticketmaster,$36.00,0,395944,17,5289,777,155,0.3474244277613534,0.695306,0.576323,20
+9467031,2016-05-06T20:00:00-0500,The Avett Brothers,Bridgestone Arena,80.96,1084.0,143,502.0,Nashville,TN,Ticketmaster,$35.35,0,348455,54,2884,1242,72,0.3697036147346505,0.678902,0.594076,16
+9468922,2016-03-17T20:00:00-0500,Gordon Lightfoot,Ryman Auditorium,96.84,388.0,21,58.0,Nashville,TN,Ticketmaster,$39.50,0,496846,4,782,157,25,0.3609053119782039,0.657622,0.55747,58
+9470909,2016-03-15T19:30:00-0500,Saosin Featuring Anthony Green,Cannery Ballroom,41.27,90.0,4,26.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,2,,,,,,,
+9472728,2016-05-08T19:30:00-0500,Isley Brothers,Schermerhorn Symphony Center,146.46,229.0,3,18.0,Nashville,TN,Ticketmaster,$39.00,0,495074,56,1861,226,46,0.3383709663711675,0.708545,0.576464,62
+9473792,2016-05-06T20:00:00-0500,Animal Collectice,Marathon Music Works,47.53,1052.56,18,73.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,54,,,,,,,
+9474289,2016-07-06T19:00:00-0500,Duran Duran,Ascend Amphitheater,84.25,419.99,122,425.0,Nashville,TN,Live Nation,NoPriceClass,0,427500,115,,,,,,,
+9475593,2016-04-24T19:30:00-0500,Ben Folds,Ryman Auditorium,85.1,305.56,37,87.0,Nashville,TN,Ticketmaster,$39.50,0,125822,42,2573,342,136,0.3268824095937707,0.725836,0.577463,15
+9475683,2016-05-21T20:00:00-0500,Styx,Ascend Amphitheater,53.62,367.0,21,68.0,Nashville,TN,Live Nation,NoPriceClass,0,540471,69,,,,,,,
+9476642,2016-03-14T20:00:00-0500,Carly Rae Jepsen,Cannery Ballroom,22.45,90.0,15,58.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,2524811,1,,,,,,,
+9478058,2016-09-11T19:30:00-0500,Boyz II Men,Ascend Amphitheater,60.32,599.01,28,88.0,Nashville,TN,Live Nation,NoPriceClass,0,371884,182,,,,,,,
+9478211,2016-05-15T19:30:00-0500,Chris Isaak,Grand Ole Opry House,197.19,164.99,1,4.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,477865,63,,,,,,,
+9478457,2016-10-15T19:30:00-0500,Adele,Bridgestone Arena,477.25,5000.0,169,493.0,Nashville,TN,Ticketmaster,$35.35,0,537914,216,20776,6558,131,0.39058666149548404,0.839977,0.935337,10
+9478458,2016-10-16T19:30:00-0500,Adele,Bridgestone Arena,435.95,5900.0,213,614.0,Nashville,TN,Ticketmaster,$35.35,0,537914,217,20776,6558,131,0.39058666149548404,0.839977,0.935337,10
+9478608,2016-04-12T19:00:00-0500,Elle King,Cannery Ballroom,41.44,1111.0,34,149.0,Nashville,TN,Songkick Tickets,$26.75,0,833467,30,371,66,1,0.6311164003953451,0.52829,0.790063,17
+9478623,2016-04-10T19:00:00-0500,Sams Place Concert Series with Steven Curtis Chapman,Ryman Auditorium,67.41,150.0,11,65.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,28,,,,,,,
+9483205,2016-03-29T19:30:00-0500,Kirk Franklin,Ryman Auditorium,86.81,105.0,14,39.0,Nashville,TN,Ticketmaster,$20.00,0,115247,16,910,240,16,0.43747362448565236,0.686792,0.713703,24
+9483950,2016-03-13T21:00:00-0500,Ra Ra Riot,Exit In,26.1,50.0,5,30.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,0,,,,,,,
+9484210,2016-04-17T19:30:00-0500,Three Dog Night,Schermerhorn Symphony Center,74.48,212.0,10,22.0,Nashville,TN,Ticketmaster,$29.00,0,100744,35,782,69,19,0.39082338035484465,0.642857,0.587965,49
+9484265,2016-03-20T20:00:00-0500,Pusha T,Marathon Music Works,67.4,83.62,2,12.0,Nashville,TN,Ticketfly,$27.50,0,814169,7,12945,4284,48,0.44048259893926034,0.642003,0.661679,24
+9484314,2016-09-27T19:30:00-0500,Merle Haggard,Ryman Auditorium,87.46,9000.0,62,171.0,Nashville,TN,Ticketmaster,$35.00,0,366005,198,1819,929,144,0.32187362206854175,0.746444,0.595211,53
+9484317,2016-09-28T19:30:00-0500,Merle Haggard,Ryman Auditorium,89.82,9000.0,62,156.0,Nashville,TN,Ticketmaster,$35.00,0,366005,199,1819,929,144,0.32187362206854175,0.746444,0.595211,53
+9485090,2016-03-14T21:00:00-0500,Mac Sabbath,Exit In,56.78,46.74,2,12.0,Nashville,TN,Ticketfly,$15.00,0,4005461,1,error_5,error_5,error_5,error_5,error_5,error_5,error_5
+9485555,2016-03-16T21:00:00-0500,Galactic,Mercy Lounge ,42.97,65.0,6,35.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,164225,3,,,,,,,
+9486164,2016-05-10T19:30:00-0500,Georgia on My Mind with The Peach Pickers and Friends,Ryman Auditorium,76.84,375.0,14,42.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,58,,,,,,,
+9486242,2016-11-30T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,107.52,499.99,43,168.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,262,,,,,,,
+9486244,2016-12-01T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,113.42,379.0,36,143.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,263,,,,,,,
+9486246,2016-12-07T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,119.32,499.99,37,155.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,269,,,,,,,
+9486247,2016-12-08T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,114.6,429.0,33,132.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,270,,,,,,,
+9486249,2016-12-14T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,111.06,429.0,42,187.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,276,,,,,,,
+9486250,2016-12-15T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,111.06,429.0,47,176.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,277,,,,,,,
+9486252,2016-12-20T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,105.16,349.01,42,169.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,282,,,,,,,
+9486253,2016-12-21T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,106.34,349.01,46,189.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,283,,,,,,,
+9486254,2016-12-22T19:30:00-0500,Christmas at the Ryman with Amy Grant and Vince GIll,Ryman Auditorium,111.06,375.0,54,208.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,284,,,,,,,
+9486489,2016-04-30T21:00:00-0500,Polica,Mercy Lounge ,56.74,53.0,4,25.0,Nashville,TN,Songkick Tickets,$19.38,0,4665213,48,1714,349,40,0.5750904634134799,0.445357,0.639432,5
+9487323,2016-03-30T21:00:00-0500,O-Town,12th and Porter,103.51,85.6,1,8.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,133226,17,,,,,,,
+9491589,2016-04-02T20:00:00-0500,Dr. Dog,Ryman Auditorium,35.54,236.0,81,226.0,Nashville,TN,Ticketmaster,$32.50,0,42687,20,3581,672,100,0.4252166980474489,0.638884,0.635266,17
+9499458,2016-03-26T22:00:00-0500,Coolio,12th and Porter,49.69,39.99,1,4.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,560238,13,,,,,,,
+9500317,2016-04-15T21:00:00-0500,Little Green Cars,The High Watt,83.92,69.0,1,4.0,Nashville,TN,Songkick Tickets,$13.50,0,5285298,33,600,117,7,0.4477939542751508,0.501357,0.53891,8
+9500592,2016-04-17T21:00:00-0500,White Denim,Exit In,37.9,75.0,9,46.0,Nashville,TN,Ticketfly,$16.00,0,589804,35,2714,436,90,0.4200359893162661,0.539433,0.534639,10
+9500873,2016-04-12T19:30:00-0500,Tori Kelly,Ryman Auditorium,63.86,999.0,103,252.0,Nashville,TN,Ticketmaster,$35.00,0,1054791,30,478,132,1,0.5592085250706607,0.580404,0.758162,12
+9500898,2016-05-03T20:00:00-0500,Ghost,Marathon Music Works,120.5,100.0,1,4.0,Nashville,TN,Ticketfly,$27.00,0,186546,51,11720,1602,153,0.43238894770713027,0.701337,0.725944,8
+9500899,2016-05-20T20:00:00-0500,Miike Snow,Marathon Music Works,73.3,64.0,2,6.0,Nashville,TN,Ticketfly,$25.00,0,2391223,68,4917,442,38,0.4362423560638505,0.65831,0.674681,9
+9501279,2016-05-06T19:30:00-0500,Parachute,Cannery Ballroom,39.74,79.99,12,60.0,Nashville,TN,Songkick Tickets,$26.25,0,9315,54,223,38,3,0.3939322080113532,0.607437,0.557938,10
+9501631,2016-04-11T19:30:00-0500,Meat Loaf,Schermerhorn Symphony Center,120.46,356.0,16,47.0,Nashville,TN,Ticketmaster,$59.00,0,378262,29,668,175,52,0.3585186045772732,0.669532,0.566036,46
+9501870,2016-03-21T20:00:00-0500,Tinashe,Cannery Ballroom,42.27,66.12,10,47.0,Nashville,TN,Songkick Tickets,$30.25,0,2020878,8,272,13,15,0.5093396168110091,0.362612,0.532097,6
+9501952,2016-11-11T13:00:00-0500,Keith Urban,Bridgestone Arena,119.71,1100.0,64,225.0,Nashville,TN,Ticketmaster,$31.05,0,553707,243,3772,3368,35,0.4169469606167599,0.751227,0.779582,26
+9502449,2016-09-19T19:00:00-0500,Heart with Cheap Trick,Ascend Amphitheater,61.44,343.0,53,254.0,Nashville,TN,Live Nation,NoPriceClass,0,2476336,190,,,,,,,
+9502532,2016-04-25T19:30:00-0500,Boz Scaggs,Ryman Auditorium,105.16,420.0,44,146.0,Nashville,TN,Ticketmaster,$55.00,0,86623,43,959,147,68,0.38257266522878286,0.637014,0.569696,53
+9503220,2016-05-02T20:00:00-0500,Alice Cooper,Tennessee Performing Arts Center Andrew Jackson Hall ,123.25,225.0,14,47.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,538293,50,,,,,,,
+9505484,2016-07-13T19:00:00-0500,Weezer with  Panic! At The Disco,Ascend Amphitheater,67.4,500.0,137,500.0,Nashville,TN,Live Nation,NoPriceClass,0,544909,122,,,,,,,
+9506039,2016-03-14T21:00:00-0500,The Time Jumpers,3rd and Lindsley Bar & Grill,22.95,15.0,1,2.0,Nashville,TN,Ticketweb,NoPriceClass,0,509904,1,106,85,3,0.4488589055704459,0.379878,0.468914,26
+9506040,2016-03-28T21:00:00-0500,The Time Jumpers,3rd and Lindsley Bar & Grill,68.97,54.0,1,2.0,Nashville,TN,Ticketweb,NoPriceClass,0,509904,15,106,85,3,0.4488589055704459,0.379878,0.468914,26
+9506043,2016-04-19T19:30:00-0500,The Time Jumpers,Ryman Auditorium,99.65,185.0,10,50.0,Nashville,TN,Ticketmaster,$32.50,0,509904,37,106,85,3,0.4488589055704459,0.379878,0.468914,26
+9507380,2016-05-07T19:00:00-0500,Disturbed with Rob Zombie and Pop Evil,Ascend Amphitheater,56.78,399.98,45,213.0,Nashville,TN,Live Nation,NoPriceClass,0,455175,55,,,,,,,
+9507425,2016-04-21T20:00:00-0500,Alabama Shakes,Ascend Amphitheater,73.3,9999.0,142,442.0,Nashville,TN,Live Nation,$36.00,0,4601908,39,4281,1373,61,0.5166021324493136,0.629098,0.758833,7
+9507470,2016-04-13T20:00:00-0500,William Singe,Cannery Ballroom,17.82,1111.0,42,191.0,Nashville,TN,Songkick Tickets,$21.00,0,8654944,31,error_5,error_5,error_5,error_5,error_5,error_5,error_5
+9507629,2016-05-24T19:00:00-0500,Boyce Avenue,Cannery Ballroom,45.22,105.0,14,73.0,Nashville,TN,Official artist website,$25.00,0,608550,72,228,37,0,0.4280020362602742,0.610056,0.608825,12
+9508104,2016-04-20T19:30:00-0500,Dawes,Ryman Auditorium,51.79,248.0,68,171.0,Nashville,TN,Ticketmaster,$35.00,0,2335213,38,2743,1015,70,0.427935959785486,0.587256,0.586547,7
+9509033,2016-05-17T20:00:00-0500,At The Drive-In,Marathon Music Works,77.36,1000.0,39,155.0,Nashville,TN,Ticketfly,$38.00,1,206412,65,65,50,46,0.4192674645956971,0.589587,0.576816,22
+9509161,2016-03-16T19:30:00-0500,The Life and Songs of Kris Kristofferson,Bridgestone Arena,85.89,300.0,48,180.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,3,,,,,,,
+9509208,2016-05-17T19:30:00-0500,Magic Man & The Griswolds,Mercy Lounge ,37.73,79.0,11,60.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,699966,65,,,,,,,
+9509291,2016-04-29T20:00:00-0500,Houndmouth,Cannery Ballroom,46.16,70.0,13,54.0,Nashville,TN,Songkick Tickets,$25.25,0,5183683,47,679,208,15,0.4524539497371307,0.523811,0.562663,5
+9509312,2016-03-19T21:00:00-0500,The Werks,Mercy Lounge ,29.6,70.0,8,38.0,Nashville,TN,Ticketweb,NoPriceClass,0,1094248,6,,,,,,,
+9509315,2016-04-14T20:00:00-0500,Thirdstory,Mercy Lounge ,37.9,70.0,8,38.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,8563294,32,,,,,,,
+9509317,2016-05-12T21:00:00-0500,Matthew Logan Vasquez,Mercy Lounge ,35.42,70.0,8,38.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,8613264,60,,,,,,,
+9509335,2016-03-23T20:00:00-0500,Mount Moriah,The High Watt,83.92,69.0,1,4.0,Nashville,TN,Songkick Tickets,$15.55,0,65993,10,489,88,15,0.44154737368000435,0.47314,0.510412,6
+9509337,2016-03-24T20:00:00-0500,Basia Bulat,The High Watt,83.92,69.0,1,4.0,Nashville,TN,Ticketweb,NoPriceClass,0,70896,11,,,,,,,
+9509339,2016-03-25T21:00:00-0500,Lily Madeleine,The High Watt,43.8,35.0,1,4.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,6383499,12,,,,,,,
+9509341,2016-03-31T21:00:00-0500,Bright Light Social Hour,The High Watt,83.92,69.0,1,4.0,Nashville,TN,Ticketweb,NoPriceClass,0,1097652,18,,,,,,,
+9509343,2016-04-08T21:00:00-0500,Bleached,The High Watt,83.92,69.0,1,4.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,1011326,26,,,,,,,
+9509345,2016-04-16T21:00:00-0500,Cullen Omori,The High Watt,83.92,69.0,1,4.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,8637824,34,,,,,,,
+9509348,2016-04-21T21:00:00-0500,Small Black,The High Watt,83.92,69.0,1,6.0,Nashville,TN,Songkick Tickets,$15.55,0,2589501,39,621,70,38,0.44714619789191346,0.549889,0.578209,7
+9509433,2016-04-01T20:00:00-0500,Moon Taxi,Ryman Auditorium,70.02,225.0,35,96.0,Nashville,TN,Ticketmaster,$30.00,0,466296,19,334,263,4,0.4490232719391375,0.509505,0.546811,10
+9510621,2016-04-12T19:30:00-0500,All For The Hall,Bridgestone Arena,68.97,9995.73,327,843.0,Nashville,TN,Ticketmaster,$31.05,0,553707,30,3772,3368,35,0.4169469606167599,0.751227,0.779582,26
+9510732,2016-09-17T20:00:00-0500,Brian Wilson Performs Pet Sounds,Ryman Auditorium,79.2,361.0,56,134.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,188,,,,,,,
+9510996,2016-07-19T19:00:00-0500,Brand New and Modest Mouse,Ascend Amphitheater,91.0,5000.0,237,698.0,Nashville,TN,Live Nation,NoPriceClass,0,352662,128,,,,,,,
+9511086,2016-03-21T19:00:00-0500,Killswitch Engage with Memphis May Fire and 36 Crazyfists,Marathon Music Works,73.28,75.0,8,28.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,8,,,,,,,
+9511174,2016-04-07T21:00:00-0500,The Kills,Exit In,85.09,99.0,10,26.0,Nashville,TN,Ticketfly,$25.00,1,236059,25,4068,723,101,0.3651653132525643,0.684666,0.593295,16
+9511694,2016-05-02T20:00:00-0500,Brian Jonestown Massacre,Mercy Lounge ,30.06,89.0,9,43.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,73973,50,,,,,,,
+9511778,2016-06-19T19:30:00-0500,Ringo Starr and His All Starr Band,Ryman Auditorium,167.69,499.0,51,129.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,98,,,,,,,
+9512145,2016-07-02T19:30:00-0500,Noel Gallaghers High Flying Birds,Ryman Auditorium,82.74,1000.0,106,295.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,111,,,,,,,
+9512236,2016-04-01T20:00:00-0500,The Lone Bellow,3rd and Lindsley Bar & Grill,79.59,250.0,4,10.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,6198659,19,,,,,,,
+9512237,2016-04-02T20:00:00-0500,The Lone Bellow,3rd and Lindsley Bar & Grill,76.05,250.0,5,20.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,6198659,20,,,,,,,
+9512325,2016-04-11T20:00:00-0500,Geographer with The Crookes,Mercy Lounge ,22.03,75.0,7,37.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,2336633,29,,,,,,,
+9512334,2016-04-21T20:00:00-0500,Datsik,Marathon Music Works,50.86,58.0,9,40.0,Nashville,TN,Ticketfly,$20.00,0,2651466,39,1683,168,3,0.43179733636726725,0.625605,0.630488,9
+9512376,2016-05-08T18:30:00-0500,FILTER with Orgy and Vampires Everywhere,Exit In,46.15,99.0,9,46.0,Nashville,TN,Ticketfly,$22.00,0,188715,56,1065,318,18,0.38748809588976935,0.623617,0.56388,23
+9512674,2016-04-05T19:00:00-0500,Songs for the Good People with Ry Cooder,Ryman Auditorium,37.9,190.0,15,38.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,23,,,,,,,
+9513589,2016-07-29T20:00:00-0500,Ray LaMontagne,Ascend Amphitheater,75.64,275.01,75,295.0,Nashville,TN,Live Nation,NoPriceClass,0,107918,138,,,,,,,
+9513740,2016-05-04T21:00:00-0500,Charles Bradley & His Extraordinaires,Exit In,52.04,54.72,8,38.0,Nashville,TN,Ticketfly,$20.00,0,2792041,52,1910,1608,29,0.43626731401103863,0.565755,0.578056,51
+9513926,2016-07-05T19:00:00-0500,Barenaked Ladies,Ascend Amphitheater,55.58,237.0,42,206.0,Nashville,TN,Live Nation,NoPriceClass,0,199498,114,,,,,,,
+9514250,2016-04-22T19:00:00-0500,Santigold,Marathon Music Works,49.68,94.0,16,82.0,Nashville,TN,Ticketfly,$25.00,0,2385431,40,9078,1313,31,0.38982271897148985,0.663654,0.608805,13
+9514290,2016-04-16T20:00:00-0500,The Smashing Pumpkins,Ryman Auditorium,102.8,225.0,108,229.0,Nashville,TN,Ticketmaster,$52.50,0,233074,34,7149,1605,210,0.31645883337248104,0.814701,0.699053,28
+9514299,2016-08-02T19:00:00-0500,Bryan Ferry,Ryman Auditorium,68.25,532.86,79,255.0,Nashville,TN,Ticketmaster,$29.00,0,408487,142,2395,519,95,0.36669282926193814,0.656079,0.564829,46
+9514667,2016-03-25T20:00:00-0500,Legends of Southern Hip Hop,Nashville Municipal Auditorium,101.62,249.0,5,26.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,12,,,,,,,
+9516473,2016-08-13T21:30:00-0500,Grand Ole Opry with Vince Gill,Grand Ole Opry House,101.62,250.0,6,22.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,213496,153,,,,,,,
+9516474,2016-10-01T21:30:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,82.5,5,40.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,202,,,,,,,
+9516475,2016-10-15T21:30:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,82.5,5,40.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,216,,,,,,,
+9516476,2016-10-22T21:30:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,240.0,6,48.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,223,,,,,,,
+9516477,2016-10-29T21:30:00-0500,Grand Ole Opry,Grand Ole Opry House,85.57,240.0,6,48.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,230,,,,,,,
+9516485,2016-05-23T20:00:00-0500,Bloc Party,Cannery Ballroom,46.81,94.0,14,72.0,Nashville,TN,Ticketweb,NoPriceClass,0,443396,71,,,,,,,
+9516755,2016-06-23T19:30:00-0500,Bluegrass Nights at the Ryman,Ryman Auditorium,133.87,109.0,1,7.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,102,,,,,,,
+9516756,2016-06-30T19:30:00-0500,Bluegrass Nights at the Ryman,Ryman Auditorium,73.3,61.0,2,8.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,109,,,,,,,
+9517123,2016-05-01T20:00:00-0500,The Front Bottoms,Exit In,56.64,1111.0,15,73.0,Nashville,TN,Ticketfly,$20.00,0,1101535,49,827,84,71,0.4493307049017551,0.54769,0.579097,9
+9517821,2016-05-18T20:00:00-0500,Half Moon Run,Mercy Lounge ,43.8,55.0,4,20.0,Nashville,TN,Official artist website,$15.00,0,3878406,66,574,144,10,0.5272049398695468,0.546965,0.678715,6
+9519199,2016-05-02T19:30:00-0500,Punch Brothers,Schermerhorn Symphony Center,89.82,199.0,11,31.0,Nashville,TN,Ticketmaster,$39.00,0,595798,50,1028,482,23,0.45964165875317525,0.608399,0.65204,10
+9519804,2016-05-05T18:00:00-0500,Beyoncé,Nissan Stadium Nashville,67.4,9999.0,2009,6582.0,Nashville,TN,Ticketmaster US,NoPriceClass,0,553938,53,,,,,,,
+9521447,2016-05-25T20:00:00-0500,The Neighbourhood,Marathon Music Works,58.36,99.0,13,47.0,Nashville,TN,Ticketfly,$28.00,0,636848,73,2520,239,12,0.4962594425955814,0.613667,0.710173,5
+9522276,2016-05-10T20:00:00-0500,Pentatonix with Us The Duo,Bridgestone Arena,66.59,372.34,84,260.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,58,,,,,,,
+9522676,2016-05-03T21:00:00-0500,The Spill Canvas,Exit In,47.33,75.0,8,36.0,Nashville,TN,Ticketfly,$12.00,0,520329,51,171,20,16,0.3749282114736477,0.603428,0.52753,14
+9523086,2016-05-26T20:00:00-0500,Jimmy Buffett,Ascend Amphitheater,165.34,5000.0,125,504.0,Nashville,TN,Live Nation,NoPriceClass,0,374467,74,,,,,,,
+9523133,2016-04-26T20:00:00-0500,The Struts,Mercy Lounge ,31.83,78.0,8,41.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,567327,44,,,,,,,
+9523284,2016-05-05T20:00:00-0500,Old 97's,Cannery Ballroom,45.4,50.0,3,18.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,53,,,,,,,
+9523590,2016-05-11T21:30:00-0500,The Sonics with The Woggles and  Barrence Whitfield and The Savages,Exit In,52.05,51.3,8,38.0,Nashville,TN,Ticketfly,$20.00,0,62227,59,1961,2018,16,0.3356211516689812,0.678825,0.53923,56
+9523996,2016-05-06T20:00:00-0500,Lukas Graham,3rd and Lindsley Bar & Grill,41.85,1111.0,23,177.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,4801228,54,,,,,,,
+9527331,2016-04-27T21:00:00-0500,Deerhunter,Exit In,48.51,59.0,10,55.0,Nashville,TN,Ticketfly,$20.00,0,222485,45,6500,1045,196,0.3964603918446276,0.690543,0.651533,15
+9527798,2016-05-09T19:30:00-0500,Scorpions and Queensryche,Grand Ole Opry House,115.78,740.0,53,185.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,57,,,,,,,
+9528147,2016-03-12T14:00:00-0500,Dierks Bentley,Country Music Hall of Fame and Museum,94.27,125.0,3,8.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,-1,,,,,,,
+9528392,2016-07-19T20:00:00-0500,The Wombats,Cannery Ballroom,37.73,125.0,11,58.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,470480,128,,,,,,,
+9528464,2016-09-16T20:00:00-0500,Brian Wilson,Ryman Auditorium,100.26,361.0,140,382.0,Nashville,TN,Ticketmaster,$40.00,0,547191,187,4240,1041,114,0.32742786926042017,0.7216,0.573215,28
+9528468,2016-06-20T19:30:00-0500,Huey Lewis and the News,Schermerhorn Symphony Center,120.49,230.93,14,49.0,Nashville,TN,Ticketmaster,$59.00,0,363648,99,662,140,21,0.39400042585221173,0.648186,0.598361,37
+9529334,2016-05-14T21:00:00-0500,Savages,Exit In,52.04,51.3,8,36.0,Nashville,TN,Official artist website,$20.00,0,242996,62,13,5,56,0.5766377255391132,0.340308,0.602402,6
+9529385,2016-05-03T20:00:00-0500,Tokyo Police CLub,Mercy Lounge ,37.73,60.0,10,44.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,42670,51,,,,,,,
+9530292,2016-07-23T20:00:00-0500,Dave Barnes,Ryman Auditorium,61.5,149.0,14,44.0,Nashville,TN,Ticketmaster,$25.00,0,99506,132,114,59,7,0.4410290387787583,0.543655,0.564939,15
+9530312,2016-05-14T19:30:00-0500,Paul Simon,Ryman Auditorium,148.81,1007.0,157,401.0,Nashville,TN,Ticketmaster,$64.50,0,213059,62,5491,1509,145,0.324357142931844,0.777169,0.64601,46
+9530313,2016-05-15T19:30:00-0500,Paul Simon,Ryman Auditorium,151.18,2000.0,115,277.0,Nashville,TN,Ticketmaster,$64.50,0,213059,63,5491,1509,145,0.324357142931844,0.777169,0.64601,46
+9530589,2016-04-18T19:30:00-0500,Pat Benatar and Neil Giraldo,Schermerhorn Symphony Center,178.32,274.0,5,20.0,Nashville,TN,Ticketmaster,$49.00,0,576999,36,1281,187,35,0.357011357753231,0.63679,0.531425,44
+9530629,2016-08-05T19:00:00-0500,Goo Goo Dolls,Ascend Amphitheater,58.34,480.0,68,321.0,Nashville,TN,Live Nation,NoPriceClass,0,145102,145,,,,,,,
+9530997,2016-04-15T20:00:00-0500,Atlas Genius,3rd and Lindsley Bar & Grill,98.47,79.0,1,4.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,5539353,33,,,,,,,
+9531410,2016-05-26T20:00:00-0500,Damien Jurado,Mercy Lounge ,55.6,45.98,2,10.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,549313,74,,,,,,,
+9531518,2016-04-28T19:30:00-0500,Barry Manilow,Bridgestone Arena,54.42,349.0,38,142.0,Nashville,TN,Ticketmaster,$16.45,0,1568,46,1019,212,39,0.4043547482646763,0.671846,0.641166,52
+9531657,2016-05-05T20:00:00-0500,Candlebox,12th and Porter,72.45,59.28,1,4.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,238974,53,,,,,,,
+9532118,2016-04-26T19:30:00-0500,Selah and Travis Cottrell,Ryman Auditorium,181.07,149.0,1,3.0,Nashville,TN,Ticketmaster,$24.50,0,455918,44,274,40,1,0.4215442749612835,0.508295,0.512445,19
+9532235,2016-06-16T19:30:00-0500,Weird Al Yankovic,Grand Ole Opry House,123.12,275.0,38,108.0,Nashville,TN,Ticketmaster,NoPriceClass,0,132047,95,,,,,,,
+9533034,2016-05-09T20:00:00-0500,HellYeah,Cannery Ballroom,44.22,50.0,3,18.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,57,,,,,,,
+9533080,2016-05-04T19:00:00-0500,Bring Me the Horizon,Tennessee Performing Arts Center War Memorial Auditorium,114.6,110.0,4,12.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,52,,,,,,,
+9534142,2016-06-09T09:30:00-0500,2016 CMA Fan Fair X Thursday Only,Music City Center Nashville,64.25,65.95,3,38.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,88,,,,,,,
+9534143,2016-06-10T09:30:00-0500,2016 CMA Fan Fair X Friday Only,Music City Center Nashville,64.25,65.95,18,91.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,89,,,,,,,
+9534144,2016-06-11T09:30:00-0500,2016 CMA Fan Fair X Saturday Only,Music City Center Nashville,64.25,65.95,18,91.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,90,,,,,,,
+9534145,2016-06-12T09:30:00-0500,2016 CMA Fan Fair X Sunday Only,Music City Center Nashville,64.25,65.95,18,91.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,91,,,,,,,
+9534146,2016-06-09T09:29:00-0500,2016 CMA Fan Fair X 4 Day Pass,Music City Center Nashville,87.79,330.0,4,44.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,88,,,,,,,
+9534348,2016-07-14T20:00:00-0500,Flight of the Conchords,Ascend Amphitheater,79.18,3333.0,126,514.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,123,,,,,,,
+9534614,2016-05-02T21:00:00-0500,Black Lips,Exit In,56.31,74.0,7,28.0,Nashville,TN,Ticketfly,$15.00,0,349473,50,4807,913,111,0.37026293699692514,0.645809,0.559944,17
+9534922,2016-05-27T19:30:00-0500,I Love the 90's,Bridgestone Arena,91.0,399.0,7,74.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,75,,,,,,,
+9535072,2016-06-28T18:30:00-0500,Slipknot with Marilyn Manson and Of Mice and Men,Bridgestone Arena,61.49,392.0,130,492.0,Nashville,TN,Ticketmaster,$26.25,0,1012485,107,7785,2866,71,0.28270766861614627,0.824148,0.642841,21
+9535274,2016-05-25T19:30:00-0500,Bullet for My Valentine,Tennessee Performing Arts Center War Memorial Auditorium,106.32,145.0,3,22.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,73,,,,,,,
+9535850,2016-05-11T19:30:00-0500,Deftones,Ryman Auditorium,76.84,9999.0,178,469.0,Nashville,TN,Ticketmaster,$39.75,0,83230,59,5391,1735,104,0.29075242675912166,0.796867,0.610163,28
+9536060,2016-03-26T21:30:00-0500,Grand Ole Opry,Grand Ole Opry House,93.36,403.59,16,48.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,61270,13,,,,,,,
+9536475,2016-05-18T20:00:00-0500,Mayer Hawthorne,Marathon Music Works,70.89,58.0,3,14.0,Nashville,TN,Ticketfly,$20.00,0,5613613,66,3464,325,35,0.3959134556743096,0.581639,0.537822,8
+9536691,2016-05-25T20:00:00-0500,Modern Baseball with Joyce Manor and Thin Lips,Exit In,59.86,62.7,8,36.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,73,,,,,,,
+9537239,2016-04-24T19:00:00-0500,Bane,The End Nashville,240.07,199.0,1,6.0,Nashville,TN,Ticketfly,$18.00,0,456837,42,171,15,7,0.4283371667090937,0.536351,0.542692,21
+9537486,2016-05-10T19:30:00-0500,Enter Shikari,Rocketown,63.01,51.3,2,14.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,16773,58,,,,,,,
+9537516,2016-07-31T20:00:00-0500,311,Marathon Music Works,85.08,126.0,9,52.0,Nashville,TN,Ticketfly,$40.00,0,486064,140,466,65,57,0.36710995447689043,0.662285,0.571895,28
+9537662,2016-05-09T19:30:00-0500,Cyndi Lauper,Ryman Auditorium,128.76,299.0,24,71.0,Nashville,TN,Ticketmaster,$45.00,0,362622,57,3215,551,38,0.475769856233892,0.751473,0.890075,36
+9537750,2016-05-11T21:00:00-0500,Sebastian Bach,Mercy Lounge ,61.48,50.0,2,12.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,2652391,59,,,,,,,
+9537824,2016-05-21T21:00:00-0500,Yeasayer,Exit In,98.46,81.32,2,12.0,Nashville,TN,Ticketfly,$22.00,0,112691,69,5241,812,61,0.3919505709819035,0.609446,0.556979,10
+9538352,2016-05-18T19:30:00-0500,Silversun Pickups,Ryman Auditorium,82.74,1201.0,23,62.0,Nashville,TN,Ticketmaster,$35.00,0,393244,66,2700,408,121,0.3602668155486674,0.678542,0.578516,14
+9539433,2016-06-12T19:30:00-0500,Harry Connick Jr.,Ryman Auditorium,113.42,599.0,101,243.0,Nashville,TN,Ticketmaster,$45.00,0,186299,91,755,373,54,0.4228916346571497,0.674072,0.673365,39
+9539481,2016-03-18T20:00:00-0500,Bobby Bones and the Raging Idiots Album Release Concert,Mercy Lounge ,91.0,195.0,7,23.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,5,,,,,,,
+9540576,2016-05-08T19:30:00-0500,Lucinda Williams,Ryman Auditorium,61.5,249.0,54,150.0,Nashville,TN,Ticketmaster,$24.50,0,245404,56,2310,672,134,0.33087072033254206,0.707809,0.562838,38
+9540694,2016-04-28T20:00:00-0500,Neil Young with Promise of the Real,Ascend Amphitheater,81.54,1068.93,183,537.0,Nashville,TN,NoResults,NoResults,NoResults,NoResults,46,,,,,,,
+9540810,2016-06-13T19:30:00-0500,Harry Connick Jr.,Ryman Auditorium,113.42,9000.0,71,190.0,Nashville,TN,Ticketmaster,$45.00,0,186299,92,755,373,54,0.4228916346571497,0.674072,0.673365,39
+9542157,2016-03-14T20:00:00-0500,The Strumbellas,The High Watt,91.0,75.0,1,2.0,Nashville,TN,NoVendorClass,NoPriceClass,NoSoldOutClass,3548436,1,,,,,,,
+9542190,2016-03-19T21:00:00-0500,Safetysuit,Exit In,67.4,55.0,1,6.0,Nashville,TN,Ticketfly,$20.00,1,2331623,6,40,2,1,0.4554839360959574,0.490413,0.539608,14

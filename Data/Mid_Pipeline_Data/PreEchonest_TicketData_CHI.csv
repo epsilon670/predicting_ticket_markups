@@ -1,0 +1,236 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9354229,2016-04-08T20:00:00-0500,David Gilmour,United Center,103.65,8542.51,544,1397.0,Chicago,IL,Ticketmaster,$70.00,0,20890,26
+9357438,2016-04-04T20:00:00-0500,David Gilmour,United Center,61.89,1659.0,1222,2984.0,Chicago,IL,Ticketmaster,$70.00,0,20890,22
+9367901,2016-04-01T20:00:00-0500,Gary Clark Jr,Riviera Theatre (Chicago),110.27,250.0,24,58.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,309236,19
+9378495,2016-04-06T20:00:00-0500,David Gilmour,Auditorium Theatre,134.5,2448.0,203,364.0,Chicago,IL,Ticketmaster,$113.00,0,20890,24
+9381632,2016-04-07T19:00:00-0500,Underoath,Riviera Theatre (Chicago),84.92,888.0,14,38.0,Chicago,IL,Etix,NoPriceClass,0,2357960,25
+9383640,2016-04-15T20:00:00-0500,Drew Holcomb and the Neighbors,Thalia Hall Chicago,43.8,59.0,3,10.0,Chicago,IL,Songkick Tickets,$21.72,0,3469621,33
+9394142,2016-04-02T20:00:00-0500,2Cellos,Chicago Theatre,73.3,251.0,105,400.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,4392693,20
+9407961,2016-04-08T19:00:00-0500,Galactic,House of Blues Chicago,63.27,72.0,7,43.0,Chicago,IL,Live Nation,NoPriceClass,0,164225,26
+9408642,2016-04-06T19:50:00-0500,Iron Maiden,United Center,152.49,5000.0,130,387.0,Chicago,IL,Ticketmaster,$39.50,0,438390,24
+9408927,2016-06-25T19:30:00-0500,Selena Gomez,United Center,66.4,2199.0,461,1354.0,Chicago,IL,Ticketmaster,$40.50,0,1059348,104
+9409377,2016-06-10T19:30:00-0500,The Cure,UIC Pavilion,75.26,5000.0,405,1005.0,Chicago,IL,Ticketmaster,$54.00,0,474439,89
+9414618,2016-04-14T20:00:00-0500,Charles Kelley,House of Blues Chicago,43.81,75.0,14,61.0,Chicago,IL,Live Nation,NoPriceClass,0,1171291,32
+9419613,2016-06-11T19:30:00-0500,The Cure,UIC Pavilion,93.75,2040.0,299,792.0,Chicago,IL,Ticketmaster,$54.00,0,474439,90
+9423719,2016-07-21T20:00:00-0500,Bryan Adams,FirstMerit Bank Pavilion at Northerly Island,22.17,556.0,101,352.0,Chicago,IL,Live Nation,NoPriceClass,0,54386,130
+9424127,2016-03-28T17:00:00-0500,Sonata Arctica,Concord Music Hall,53.22,70.0,7,39.0,Chicago,IL,Songkick Tickets,$32.24,0,419723,15
+9428094,2016-03-20T15:00:00-0500,They Might Be Giants,Vic Theatre,52.45,120.0,7,14.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,242200,7
+9428980,2016-04-06T20:00:00-0500,Ani DiFranco,Park West ,61.5,77.0,8,32.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,521301,24
+9431382,2016-04-07T21:00:00-0500,Savages,Metro,49.65,1000.0,16,79.0,Chicago,IL,Metro,$24.00,0,242996,25
+9432962,2016-04-16T20:00:00-0500,Junior Boys,Metro,48.91,69.0,2,8.0,Chicago,IL,Etix,$16.00,0,362018,34
+9434824,2016-03-22T19:30:00-0500,Bonnie Raitt,Chicago Theatre,82.6,2500.0,60,174.0,Chicago,IL,Ticketmaster,$49.50,0,135398,9
+9449196,2016-04-15T20:00:00-0500,Joe Satriani,Chicago Theatre,82.74,326.0,32,86.0,Chicago,IL,Ticketmaster,$35.00,0,217121,33
+9449215,2016-06-30T19:00:00-0500,James Taylor with Jackson Browne,Wrigley Field,72.12,1500.0,494,1793.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,431970,109
+9449996,2016-03-21T19:00:00-0500,Jose Gonzalez,Rockefeller Chapel,66.22,99.0,8,13.0,Chicago,IL,Ticketweb,$30.00,0,542593,8
+9450531,2016-04-01T19:30:00-0500,Earth Wind and Fire,United Center,50.5,735.0,108,400.0,Chicago,IL,Ticketmaster,$25.00,0,357928,19
+9454859,2016-04-16T20:00:00-0500,Ben Harper and The Innocent Criminals,Riviera Theatre (Chicago),76.84,409.01,27,97.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,76901,34
+9455070,2016-03-16T19:00:00-0500,Rend Collective,House of Blues Chicago,51.94,58.65,4,20.0,Chicago,IL,Live Nation,NoPriceClass,0,3850246,3
+9456557,2016-05-17T18:30:00-0500,The Used,House of Blues Chicago,81.56,199.0,23,112.0,Chicago,IL,Live Nation,NoPriceClass,0,162392,65
+9456558,2016-05-18T18:30:00-0500,The Used,House of Blues Chicago,95.7,199.0,18,85.0,Chicago,IL,Live Nation,NoPriceClass,0,162392,66
+9456559,2016-05-17T18:29:00-0500,The Used 2 Night Passes,House of Blues Chicago,272.72,229.0,1,6.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,65
+9457578,2016-04-10T20:00:00-0500,St. Germain,Vic Theatre,96.88,119.0,7,39.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,521797,28
+9458546,2016-05-11T19:00:00-0500,Above and Beyond Acoustic,Chicago Theatre,46.16,612.0,299,751.0,Chicago,IL,Ticketmaster,$45.00,0,81224,59
+9460408,2016-03-19T17:30:00-0500,Nick Carter,House of Blues Chicago,68.64,65.0,3,13.0,Chicago,IL,Live Nation,NoPriceClass,0,469946,6
+9461641,2016-04-15T19:30:00-0500,Rihanna,United Center,120.44,4950.0,333,1110.0,Chicago,IL,Ticketmaster,$29.50,0,139648,33
+9462623,2016-08-09T19:30:00-0500,Josh Groban,FirstMerit Bank Pavilion at Northerly Island,57.96,669.0,105,511.0,Chicago,IL,Live Nation,NoPriceClass,0,474091,149
+9462737,2016-09-16T12:59:00-0500,Riot Fest Chicago 3 Day Pass,Douglas Park,205.47,777.0,17,143.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,187
+9462859,2016-04-01T20:30:00-0500,Thao and The Get Down Stay Down,Thalia Hall Chicago,49.7,40.97,2,10.0,Chicago,IL,Ticketweb,NoPriceClass,0,6213309,19
+9467025,2016-04-22T20:00:00-0500,The Avett Brothers,Chicago Theatre,96.9,400.0,75,227.0,Chicago,IL,Ticketmaster,$45.00,0,348455,40
+9467026,2016-04-23T20:00:00-0500,The Avett Brothers,Chicago Theatre,120.5,900.0,71,201.0,Chicago,IL,Ticketmaster,$45.00,0,348455,41
+9468977,2016-04-22T20:00:00-0500,The Melvins and Napalm Death,Metro,60.31,77.52,10,50.0,Chicago,IL,Etix,$32.00,0,191492,40
+9469003,2016-03-25T20:00:00-0500,Judah and the Lion,Metro,51.6,59.51,7,35.0,Chicago,IL,Etix,$15.00,0,6008179,12
+9469252,2016-03-19T19:30:00-0500,Rachel Platten with Eric Hutchinson,Park West ,73.29,101.0,9,22.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,6
+9469541,2016-03-19T20:00:00-0500,Stick Figure,Concord Music Hall,46.55,43.0,5,19.0,Chicago,IL,Ticketfly,$15.00,0,514431,6
+9470236,2016-05-12T18:30:00-0500,Above and Beyond Acoustic,Chicago Theatre,55.6,1999.9,176,552.0,Chicago,IL,Ticketmaster,$45.00,0,81224,60
+9470870,2016-04-28T20:00:00-0500,Courtney Barnett,Riviera Theatre (Chicago),99.06,495.0,12,43.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,3909026,46
+9470916,2016-05-12T20:00:00-0500,Nada Surf,Thalia Hall Chicago,42.45,85.0,8,39.0,Chicago,IL,Ticketweb,NoPriceClass,0,172227,60
+9473164,2016-03-13T19:00:00-0500,Megadeth,Aragon Ballroom,93.36,98.04,9,32.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,0
+9475573,2016-03-17T20:00:00-0500,Melanie Martinez,Vic Theatre,81.95,149.0,13,51.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,6647159,4
+9477336,2016-05-13T20:00:00-0500,Ben Folds,Riviera Theatre (Chicago),63.86,105.0,8,38.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,125822,61
+9477855,2016-10-27T20:00:00-0500,Marillion,Vic Theatre,105.53,87.31,2,10.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,243083,228
+9478078,2016-06-24T17:30:00-0500,Blue October,House of Blues Chicago,56.78,166.67,11,60.0,Chicago,IL,Live Nation,$50.00,0,500273,103
+9478235,2016-10-27T19:59:00-0500,Marillion 2 Day Pass,Vic Theatre,209.85,175.72,1,8.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,228
+9478236,2016-10-28T20:00:00-0500,Marillion,Vic Theatre,105.53,199.0,7,35.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,243083,229
+9478397,2016-07-10T19:30:00-0500,Adele,United Center,356.5,711711.0,269,697.0,Chicago,IL,Ticketmaster,$39.95,0,537914,119
+9478398,2016-07-11T19:30:00-0500,Adele,United Center,327.0,9682.0,442,1401.0,Chicago,IL,Ticketmaster,$39.95,0,537914,120
+9478399,2016-07-13T19:30:00-0500,Adele,United Center,327.0,5000.0,465,1313.0,Chicago,IL,Ticketmaster,$39.95,0,537914,122
+9478641,2016-03-20T20:00:00-0500,Brian Fallon,House of Blues Chicago,44.97,199.0,4,23.0,Chicago,IL,Live Nation,NoPriceClass,0,2373782,7
+9482701,2016-05-13T20:30:00-0500,Babymetal,House of Blues Chicago,114.6,350.0,21,82.0,Chicago,IL,Live Nation,NoPriceClass,0,5643294,61
+9483207,2016-04-01T19:30:00-0500,Kirk Franklin,Chicago Theatre,76.83,356.0,26,81.0,Chicago,IL,Ticketmaster,$29.50,0,115247,19
+9484283,2016-04-05T20:00:00-0500,Pusha T,Vic Theatre,53.48,139.32,20,102.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,814169,23
+9484702,2016-04-02T21:00:00-0500,Murder By Death,Metro,50.87,84.0,7,41.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,89489,20
+9484907,2016-03-30T19:00:00-0500,Shellac,Bottom Lounge,59.28,999.0,7,22.0,Chicago,IL,Ticketweb,NoPriceClass,0,237744,17
+9484924,2016-04-08T21:00:00-0500,Jauz,Concord Music Hall,49.7,150.0,34,159.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,8395978,26
+9485313,2016-04-30T20:00:00-0500,Dream Theater,Chicago Theatre,71.42,450.0,54,169.0,Chicago,IL,Ticketmaster,$29.75,0,8765,48
+9485387,2016-04-03T19:30:00-0500,2Cellos,Chicago Theatre,84.9,241.58,81,259.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,4392693,21
+9486005,2016-09-02T13:00:00-0500,North Coast Music Festival - 3 DAY PASS,Union Park,186.31,195.0,7,29.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,173
+9486485,2016-04-16T20:00:00-0500,Polica,Thalia Hall Chicago,70.82,57.9,1,6.0,Chicago,IL,Songkick Tickets,$27.42,0,4665213,34
+9486565,2016-04-01T19:00:00-0500,Nicky Jam,Aragon Ballroom,123.12,135.0,13,76.0,Chicago,IL,Ticketmaster,$48.00,0,430967,19
+9486802,2016-04-28T19:00:00-0500,Tech N9ne,Concord Music Hall,60.69,108.0,10,48.0,Chicago,IL,Songkick Tickets,$43.29,0,283009,46
+9486891,2016-03-13T20:30:00-0500,Titus Andronicus,Thalia Hall Chicago,34.36,33.37,4,17.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,0
+9487595,2016-04-19T17:30:00-0500,"Basement, Turnstile, Defeater, Colleen Green and more",Bottom Lounge,49.7,57.0,5,28.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,37
+9490994,2016-03-18T20:00:00-0500,The Mavericks,Thalia Hall Chicago,60.3,90.0,4,20.0,Chicago,IL,Ticketweb,NoPriceClass,0,439914,5
+9492173,2016-03-18T20:00:00-0500,Manic Focus,Concord Music Hall,45.55,122.0,8,36.0,Chicago,IL,Songkick Tickets,$26.19,0,5079143,5
+9499233,2016-04-08T19:00:00-0500,The Expendables,Bottom Lounge,36.19,52.44,7,35.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,430327,26
+9499234,2016-04-14T20:00:00-0500,Father John Misty,Riviera Theatre (Chicago),53.24,1999.9,44,184.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5113323,32
+9500601,2016-04-30T20:00:00-0500,White Denim,Thalia Hall Chicago,56.78,100.0,9,41.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,589804,48
+9500866,2016-04-21T19:00:00-0500,The Avett Brothers,Chicago Theatre,82.74,5000.0,162,547.0,Chicago,IL,Ticketmaster,$45.00,0,348455,39
+9501031,2016-03-25T18:30:00-0500,The Cult,House of Blues Chicago,35.42,150.0,26,132.0,Chicago,IL,Live Nation,NoPriceClass,0,397363,12
+9501275,2016-04-07T18:00:00-0500,Parachute,House of Blues Chicago,47.97,58.67,7,41.0,Chicago,IL,Live Nation,NoPriceClass,0,9315,25
+9501379,2016-03-23T20:00:00-0500,Adam Lambert,Vic Theatre,58.35,195.0,26,92.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,2436746,10
+9501469,2016-08-27T19:00:00-0500,Luke Bryan,Wrigley Field,148.82,745.0,98,335.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,368352,167
+9501666,2016-06-09T19:30:00-0500,Tame Impala,UIC Pavilion,70.15,1111.0,139,407.0,Chicago,IL,Ticketmaster,$39.00,0,927852,88
+9502284,2016-08-25T19:00:00-0500,Glenn Hughes,Reggies Rock Club,85.1,99.99,3,9.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,165
+9502346,2016-03-22T19:00:00-0500,Charlie Puth,Park West ,27.22,500.0,26,126.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5318433,9
+9502423,2016-07-19T18:30:00-0500,Heart with Cheap Trick,FirstMerit Bank Pavilion at Northerly Island,37.9,556.0,136,484.0,Chicago,IL,Live Nation,NoPriceClass,0,2476336,128
+9503060,2016-03-31T22:00:00-0500,Flatbush Zombies,Concord Music Hall,44.76,83.0,9,52.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5081903,18
+9503081,2016-05-20T19:30:00-0500,Jonny Lang,House of Blues Chicago,73.28,150.0,8,41.0,Chicago,IL,Live Nation,NoPriceClass,0,1053,68
+9503082,2016-05-14T20:00:00-0500,Snarky Puppy,Concord Music Hall,60.71,70.68,6,25.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,29793,62
+9503222,2016-04-15T20:00:00-0500,Father John Misty,Riviera Theatre (Chicago),61.37,250.0,47,189.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5113323,33
+9503498,2016-03-31T17:00:00-0500,We The Kings,Bottom Lounge,43.04,59.28,8,43.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,569961,18
+9505455,2016-04-29T20:30:00-0500,Behemoth,Thalia Hall Chicago,43.04,50.0,3,15.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,11056,47
+9505656,2016-03-18T19:30:00-0500,Brit Floyd,Chicago Theatre,81.56,338.0,29,90.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,3705716,5
+9505689,2016-05-05T20:00:00-0500,Widespread Panic,Chicago Theatre,96.9,2000.0,154,423.0,Chicago,IL,Ticketmaster,$49.50,0,377326,53
+9505690,2016-05-06T20:00:00-0500,Widespread Panic,Chicago Theatre,96.89,2000.0,188,542.0,Chicago,IL,Ticketmaster,$49.50,0,377326,54
+9505691,2016-05-07T20:00:00-0500,Widespread Panic,Chicago Theatre,91.0,4204.2,219,627.0,Chicago,IL,Ticketmaster,$49.50,0,377326,55
+9505809,2016-03-15T19:30:00-0500,Andra Day,Lincoln Hall Chicago,55.99,43.0,1,3.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5954334,2
+9506167,2016-08-26T20:00:00-0500,Billy Joel,Wrigley Field,72.12,1578.25,1019,3503.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,296988,166
+9506556,2016-08-20T19:30:00-0500,Pearl Jam,Wrigley Field,199.56,9999.0,743,2057.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,312553,160
+9506593,2016-05-06T18:00:00-0500,Say Anything,Concord Music Hall,48.52,60.42,8,34.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,235557,54
+9506595,2016-05-21T20:00:00-0500,Moderat,Concord Music Hall,57.9,166.66,14,60.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,2379286,69
+9506608,2016-08-22T19:30:00-0500,Pearl Jam,Wrigley Field,132.29,3000.0,936,2691.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,312553,162
+9506827,2016-07-09T20:00:00-0500,Sting and Peter Gabriel,United Center,86.28,3519.0,673,1848.0,Chicago,IL,Ticketmaster,$50.00,0,165478,118
+9507085,2016-03-24T20:30:00-0500,Lucius,Metro,50.35,199.0,18,79.0,Chicago,IL,Etix,$24.00,0,598452,11
+9507186,2016-05-10T21:00:00-0500,Tortoise,Metro,48.91,55.0,6,23.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,58
+9507204,2016-05-06T21:00:00-0500,Bob Mould,Metro,67.4,100.0,8,33.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,154576,54
+9507205,2016-04-29T21:00:00-0500,RJD2,Metro,65.72,79.0,5,21.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,47
+9507415,2016-03-18T20:00:00-0500,Greg Dulli,Old Town School of Folk Music,270.75,225.0,1,1.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,458141,5
+9507645,2016-05-15T20:59:00-0500,Gary Numan Three Day Pass,Metro,148.17,123.45,1,2.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,63
+9507681,2016-04-29T21:00:00-0500,J Boog,1st Ward,60.32,49.02,2,12.0,Chicago,IL,Ticketfly,$17.00,0,1077783,47
+9508011,2016-03-24T20:00:00-0500,Pete Yorn,Park West ,67.4,110.0,11,48.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,2030465,11
+9508067,2016-03-24T20:00:00-0500,Biz Markie 80's vs. 90's  Party,House of Blues Chicago,72.12,59.0,1,6.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,11
+9508118,2016-06-23T18:30:00-0500,Thrice,House of Blues Chicago,81.95,399.99,26,114.0,Chicago,IL,Live Nation,$40.00,0,498261,102
+9508121,2016-03-26T21:00:00-0500,Turnpike Troubadours,Joes on Weed Street,37.9,99.0,6,28.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,13
+9508132,2016-04-06T17:00:00-0500,X Ambassadors,House of Blues Chicago,40.26,133.57,42,152.0,Chicago,IL,Live Nation,NoPriceClass,0,6664009,24
+9508187,2016-03-25T20:00:00-0500,Snails,Concord Music Hall,37.3,199.99,44,191.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,8287143,12
+9508274,2016-03-13T20:00:00-0500,CHVRCHES,Riviera Theatre (Chicago),48.66,400.0,41,128.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5933069,0
+9509035,2016-05-19T19:30:00-0500,At The Drive-In,Riviera Theatre (Chicago),64.3,1000.0,57,215.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,206412,67
+9509077,2016-06-17T14:00:00-0500,Windy City LakeShake Festival - 3 DAY PASS,FirstMerit Bank Pavilion at Northerly Island,329.75,616.0,20,83.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,96
+9509194,2016-04-23T19:30:00-0500,Magic Man & The Griswolds,Metro,44.97,73.0,9,39.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,699966,41
+9509314,2016-03-14T20:00:00-0500,CHVRCHES,Riviera Theatre (Chicago),52.05,122.0,34,83.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5933069,1
+9509414,2016-10-28T20:00:00-0500,Peter Hook and The Light,Metro,43.78,109.0,6,31.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,4154881,229
+9509746,2016-05-20T19:30:00-0500,Boyce Avenue,Vic Theatre,60.7,98.5,3,13.0,Chicago,IL,Etix,$26.50,0,608550,68
+9509769,2016-04-27T20:00:00-0500,Dawes,Vic Theatre,100.83,125.0,9,24.0,Chicago,IL,Etix,$32.50,0,2335213,45
+9509776,2016-04-06T19:30:00-0500,The Contortionist with Monuments and more,Subterranean,99.76,80.09,1,8.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,24
+9510219,2016-03-19T20:00:00-0500,Mavis Staples,Thalia Hall Chicago,119.32,99.0,1,1.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,390099,6
+9510220,2016-03-26T21:00:00-0500,Young Fathers,Bottom Lounge,55.38,72.0,9,39.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,413460,13
+9510230,2016-03-26T19:00:00-0500,Yung Lean,Concord Music Hall,41.69,83.0,10,44.0,Chicago,IL,Club Tix,NoPriceClass,0,7120994,13
+9510502,2016-07-16T16:00:00-0500,Laid Back Festival with Gregg Allman Band and more,FirstMerit Bank Pavilion at Northerly Island,68.7,781.1,43,203.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,125
+9510988,2016-07-02T19:15:00-0500,Brand New and Modest Mouse,FirstMerit Bank Pavilion at Northerly Island,79.19,999.0,274,785.0,Chicago,IL,Live Nation,NoPriceClass,0,352662,111
+9511111,2017-03-12T22:00:00-0500,Paul Van Dyk,The Mid Chicago,81.25,199.95,4,11.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,364
+9511161,2016-05-05T19:30:00-0500,Amon Amarth with Entombed and Exmortus,Riviera Theatre (Chicago),55.6,75.0,5,14.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,53
+9511304,2016-04-24T18:00:00-0500,The Summer Set,Bottom Lounge,46.16,67.0,8,31.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,912614,42
+9511307,2016-04-15T20:30:00-0500,Eric Paslay,Joes on Weed Street,42.62,163.0,19,87.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,33
+9511392,2016-04-30T20:00:00-0500,Pegboard Nerds,Concord Music Hall,43.4,75.0,10,40.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,6134219,48
+9511654,2016-07-23T20:00:00-0500,Coldplay,Soldier Field,89.81,9999.0,1197,4015.0,Chicago,IL,Ticketmaster,$26.50,0,197928,132
+9511793,2016-03-22T21:00:00-0500,Gogol Bordello,Metro,36.7,67.26,8,31.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,474383,9
+9511794,2016-03-23T21:00:00-0500,Gogol Bordello,Metro,36.71,67.26,9,38.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,474383,10
+9511815,2016-04-18T16:15:00-0500,Issues with Crown The Empire and more,House of Blues Chicago,53.23,64.98,4,18.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,36
+9511978,2016-04-15T22:00:00-0500,TJR,The Mid Chicago,144.1,120.0,2,12.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,893311,33
+9511999,2016-04-06T20:00:00-0500,Iggy Pop,Chicago Theatre,85.1,1284.0,163,471.0,Chicago,IL,Ticketmaster,$39.50,0,170739,24
+9512324,2016-04-10T21:00:00-0500,Geographer with The Crookes,Empty Bottle,101.07,81.2,1,8.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,2333830,28
+9512356,2016-05-13T21:00:00-0500,Brian Jonestown Massacre,Metro,48.9,122.0,9,43.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,73973,61
+9512531,2016-05-20T19:30:00-0500,At The Drive-In,Riviera Theatre (Chicago),71.32,299.0,47,188.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,206412,68
+9512561,2016-09-18T20:00:00-0500,Lush,Vic Theatre,60.71,59.0,3,14.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,20179,189
+9513178,2016-03-25T20:00:00-0500,Pink Martini,Chicago Symphony Hall,117.35,95.0,4,16.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,553725,12
+9513448,2016-04-28T20:00:00-0500,Charles Bradley And His Extraordinaires,Thalia Hall Chicago,50.57,69.0,4,28.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,2792041,46
+9513490,2016-05-13T20:00:00-0500,Jeff Tweedy,Vic Theatre,116.96,325.0,11,39.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,490682,61
+9513599,2016-08-06T20:00:00-0500,Ray LaMontagne,FirstMerit Bank Pavilion at Northerly Island,72.51,1000.0,150,503.0,Chicago,IL,Live Nation,NoPriceClass,0,107918,146
+9513634,2016-05-14T20:00:00-0500,Jeff Tweedy,Vic Theatre,96.9,330.0,11,34.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,490682,62
+9513777,2016-05-21T20:00:00-0500,Old 97's,Thalia Hall Chicago,49.53,83.0,10,51.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,69
+9513784,2016-03-19T19:00:00-0500,Let's Dance - The Tour featuring Silento,Aragon Ballroom,62.62,105.0,17,70.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,6
+9514247,2016-04-17T20:00:00-0500,Santigold,Concord Music Hall,54.07,149.95,34,149.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,2385431,35
+9514288,2016-04-14T19:30:00-0500,The Smashing Pumpkins,Civic Opera House Chicago,111.45,5000.0,128,320.0,Chicago,IL,Ticketmaster,$46.50,0,233074,32
+9514380,2016-06-03T19:00:00-0500,Enrique Bunbury,House of Blues Chicago,87.46,125.0,10,57.0,Chicago,IL,Live Nation,NoPriceClass,0,76789,82
+9514381,2016-06-04T19:00:00-0500,Enrique Bunbury,House of Blues Chicago,87.46,119.9,8,42.0,Chicago,IL,Live Nation,NoPriceClass,0,76789,83
+9514494,2016-08-19T19:30:00-0500,Walk the Moon with MisterWives,Aragon Ballroom,74.47,155.0,68,255.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,159
+9514913,2016-07-24T20:00:00-0500,Coldplay,Soldier Field,54.54,26000.0,1340,5760.0,Chicago,IL,Ticketmaster,$26.50,0,197928,133
+9515799,2016-03-16T19:30:00-0500,New Order,Chicago Theatre,92.5,712.62,120,364.0,Chicago,IL,Ticketmaster,$49.50,0,434538,3
+9517001,2016-06-10T12:00:00-0500,Spring Awakening Music Festival 3 Day Pass,Jackson Park,418.25,479.0,4,34.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,89
+9517423,2016-04-23T18:30:00-0500,Kvelertak,Bottom Lounge,46.16,58.0,7,29.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,100819,41
+9517447,2016-05-10T20:00:00-0500,Unknown Mortal Orchestra,Thalia Hall Chicago,51.73,66.67,4,18.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,3869306,58
+9517547,2016-06-04T18:30:00-0500,The Matches,Metro,47.33,70.0,3,12.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,330859,83
+9517576,2016-04-02T19:00:00-0500,Delta Rae,Bottom Lounge,32.0,82.0,10,45.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,3570191,20
+9517656,2016-04-01T18:00:00-0500,Iration,House of Blues Chicago,49.68,59.0,5,29.0,Chicago,IL,Live Nation,NoPriceClass,0,84879,19
+9519117,2016-04-23T20:00:00-0500,Keb Mo,Park West ,72.49,77.0,5,24.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,157227,41
+9519224,2016-06-24T19:00:00-0500,Phish,Wrigley Field,64.21,42042.0,1187,4039.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,46745,103
+9519225,2016-06-25T19:00:00-0500,Phish,Wrigley Field,67.4,5000.0,1206,4127.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,46745,104
+9519781,2016-05-13T19:30:00-0500,Punch Brothers,Thalia Hall Chicago,78.85,64.72,2,12.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,595798,61
+9519782,2016-05-14T19:30:00-0500,Punch Brothers,Thalia Hall Chicago,64.62,99.0,4,17.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,595798,62
+9519790,2016-06-19T19:00:00-0500,The Lumineers,Chicago Theatre,100.44,1000.0,213,540.0,Chicago,IL,Ticketmaster,$25.00,0,2827981,98
+9519797,2016-05-27T18:00:00-0500,Beyoncé,Soldier Field,73.3,99999.0,2314,7089.0,Chicago,IL,Ticketmaster,$45.00,0,553938,75
+9520013,2016-07-15T15:00:00-0500,Pitchfork Music Festival - FRIDAY ONLY,Union Park,122.07,350.0,3,24.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,124
+9520014,2016-07-16T12:00:00-0500,Pitchfork Music Festival - SATURIDAY ONLY,Union Park,181.07,159.0,2,6.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,125
+9520015,2016-07-17T12:00:00-0500,Pitchfork Music Festival - SUNDAY ONLY,Union Park,179.5,160.0,2,8.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,126
+9520016,2016-07-05T14:59:00-0500,Pitchfork Music Festival - 3 DAY PASS,Union Park,203.1,269.0,16,34.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,114
+9520208,2016-03-20T15:00:00-0500,Zakir Hussain and the Masters of Percussion,Chicago Symphony Hall,93.75,125.0,11,36.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,7
+9520261,2016-04-01T20:00:00-0500,Boombox - Night One,Concord Music Hall,51.27,39.0,1,2.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,19
+9520263,2016-04-02T20:00:00-0500,Boombox - Night One,Concord Music Hall,51.27,39.0,1,2.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,20
+9520535,2016-04-16T21:00:00-0500,Twiddle,Concord Music Hall,48.9,40.0,3,14.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,947444,34
+9520544,2016-10-28T20:00:00-0500,Lila Downs and Mariachi Los Camperos,Auditorium Theatre,113.42,251.0,17,67.0,Chicago,IL,Ticketmaster,$40.00,0,16573,229
+9521550,2016-06-16T20:30:00-0500,M. Ward,Thalia Hall Chicago,43.04,99.0,5,20.0,Chicago,IL,Ticketweb,NoPriceClass,0,503681,95
+9522456,2016-05-12T20:00:00-0500,Del The Funky Homosapien,Reggies Rock Club,54.42,100.0,6,22.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,60
+9522572,2016-04-26T18:30:00-0500,Apocalyptica,House of Blues Chicago,62.68,135.0,9,39.0,Chicago,IL,Live Nation,NoPriceClass,0,216253,44
+9522665,2016-04-17T18:30:00-0500,The Spill Canvas,Bottom Lounge,37.48,75.0,9,37.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,520329,35
+9524209,2016-07-22T19:30:00-0500,Borns,Metro,54.42,199.99,41,172.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,8239708,131
+9527346,2016-05-28T18:00:00-0500,Beyonce,Soldier Field,66.22,69696.9,4275,14266.0,Chicago,IL,Ticketmaster,$45.00,0,553938,76
+9527365,2016-04-05T21:00:00-0500,The Sword,Thalia Hall Chicago,35.37,41.0,3,18.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,69617,23
+9527667,2016-07-20T19:30:00-0500,Alabama Shakes,Aragon Ballroom,95.72,1111.0,69,246.0,Chicago,IL,Ticketmaster,$50.00,0,4601908,129
+9527889,2016-07-19T19:30:00-0500,Alabama Shakes,Civic Opera House Chicago,85.09,9999.0,284,666.0,Chicago,IL,Ticketmaster,$42.00,0,4601908,128
+9528062,2016-08-27T19:00:00-0500,Glenn Hughes with Joanne Shaw Taylor,Reggies Rock Club,107.52,89.0,1,4.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,167
+9528587,2016-04-29T20:00:00-0500,Generation Axe,Copernicus Center,102.79,198.1,8,36.0,Chicago,IL,Ticketfly,$43.00,0,404702,47
+9528639,2016-06-11T20:30:00-0500,Sam Beam,Thalia Hall Chicago,79.08,94.5,3,14.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,173786,90
+9528813,2016-07-21T19:30:00-0500,Borns,Metro,57.9,1112.0,23,101.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,8239708,130
+9529088,2016-06-25T18:30:00-0500,Reveredn Horton Heat with Unknown Hinson,House of Blues Chicago,119.3,98.98,1,8.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,104
+9529120,2016-07-13T19:30:00-0500,The Wombats,Metro,48.51,177.55,14,77.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,470480,122
+9529372,2016-05-19T18:30:00-0500,Emblem3,House of Blues Chicago,44.92,9999.0,22,126.0,Chicago,IL,Live Nation,NoPriceClass,0,6439724,67
+9529951,2016-04-08T20:00:00-0500,Power 92 15th Anniversary Concert with Chance The Rapper,Chicago Theatre,82.74,306.0,196,595.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,26
+9530378,2016-04-28T19:30:00-0500,Coasts,Lincoln Hall Chicago,48.36,36.53,1,6.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,8670179,46
+9530445,2016-06-12T17:00:00-0500,Bela Fleck and the Flecktones,Thalia Hall Chicago,95.72,79.0,1,6.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,433400,91
+9530446,2016-06-12T20:30:00-0500,Bela Fleck and the Flecktones,Thalia Hall Chicago,119.32,145.0,3,5.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,433400,91
+9530449,2016-04-09T21:00:00-0500,Rufus Du Sol,Bottom Lounge,79.14,119.0,7,26.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,7759619,27
+9530467,2016-04-30T19:30:00-0500,Bane,Beat Kitchen,90.74,72.47,2,10.0,Chicago,IL,Ticketfly,$20.00,1,456837,48
+9530625,2016-07-26T19:00:00-0500,Goo Goo Dolls,FirstMerit Bank Pavilion at Northerly Island,57.96,895.0,111,379.0,Chicago,IL,Live Nation,NoPriceClass,0,145102,135
+9530996,2016-04-12T19:00:00-0500,Atlas Genius,Bottom Lounge,37.86,99.0,13,57.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5539353,30
+9531095,2016-03-19T20:00:00-0500,Jake Bugg,Metro,56.78,180.0,13,42.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,4172111,6
+9531582,2016-04-27T18:30:00-0500,The Darkness,House of Blues Chicago,67.4,140.0,5,18.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,45
+9531752,2016-08-21T18:30:00-0500,Wilco,Jay Pritzker Pavilion,91.0,2000.0,112,357.0,Chicago,IL,Etix,NoPriceClass,0,61494,161
+9532360,2016-05-08T20:00:00-0500,Zhu,Concord Music Hall,61.49,149.01,44,245.0,Chicago,IL,Club Tix,$30.00,0,1183857,56
+9532456,2016-03-18T22:00:00-0500,Richie Hawtin,Spybar Chicago,94.54,99.0,5,8.0,Chicago,IL,Ticketfly,$20.00,0,146504,5
+9532836,2016-03-25T20:00:00-0500,Chi-Town Spring Down with Lil Jon and more,Hilton Chicago and Towers,113.36,93.95,1,10.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,12
+9532980,2016-06-11T19:15:00-0500,Steely Dan,FirstMerit Bank Pavilion at Northerly Island,77.12,614.18,125,462.0,Chicago,IL,Live Nation,NoPriceClass,0,87233,90
+9533072,2016-04-08T21:00:00-0500,DJ Snake,Aragon Ballroom,63.85,215.95,50,220.0,Chicago,IL,Ticketmaster,$33.00,0,297319,26
+9533220,2016-04-01T19:00:00-0500,Cheap Trick,Metro,107.52,500.0,43,99.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,21872,19
+9534011,2016-07-16T20:00:00-0500,Yo Gotti,Chicago Theatre,300.25,250.0,1,8.0,Chicago,IL,Ticketmaster,$10.00,0,385292,125
+9534012,2016-04-16T20:00:00-0500,Yo Gotti with K. Michelle and more,Chicago Theatre,144.09,231.0,12,50.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,34
+9534273,2016-06-09T20:00:00-0500,Macklemore and Ryan Lewis,Riviera Theatre (Chicago),83.13,375.0,63,235.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,5705329,88
+9534364,2016-06-19T19:00:00-0500,Flight of the Conchords,Jay Pritzker Pavilion,106.34,329.0,73,265.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,98
+9535372,2016-03-26T20:00:00-0500,Patti Smith,Old Town School of Folk Music,300.25,250.0,1,2.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,94437,13
+9535486,2016-03-16T18:30:00-0500,XXYYXX,Bottom Lounge,46.16,52.0,6,27.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,4971388,3
+9535506,2016-04-23T20:00:00-0500,Anthony Hamilton,Arie Crown Theater,73.3,424.68,23,97.0,Chicago,IL,Ticketmaster,$35.50,0,553161,41
+9536188,2016-05-17T19:00:00-0500,Sixx A.M.,Concord Music Hall,74.85,61.31,2,14.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,591951,65
+9536201,2016-05-23T20:00:00-0500,The Kills,Riviera Theatre (Chicago),58.35,78.0,5,22.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,236059,71
+9537117,2016-06-23T19:00:00-0500,Bad Company with Joe Walsh,FirstMerit Bank Pavilion at Northerly Island,85.09,1999.0,148,557.0,Chicago,IL,Live Nation,NoPriceClass,0,364801,102
+9537504,2016-06-03T20:00:00-0500,Sturgill Simpson,Riviera Theatre (Chicago),66.22,200.0,31,146.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,6140284,82
+9537666,2016-05-16T19:30:00-0500,Cyndi Lauper,Chicago Theatre,98.79,399.0,70,236.0,Chicago,IL,Ticketmaster,$40.00,0,362622,64
+9537777,2016-04-19T18:30:00-0500,DigiTour Spring Break 2016,Metro,81.86,71.0,5,25.0,Chicago,IL,NoRegexp,NoRegexp,NoRegexp,NoRegexp,37
+9537930,2016-05-15T17:30:00-0500,Enter Shikari,Bottom Lounge,57.96,75.0,5,23.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,16773,63
+9538518,2016-06-28T19:30:00-0500,Lila Downs with the Chicago Symphony Orchestra,Chicago Symphony Hall,123.25,165.0,25,108.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,107
+9538635,2016-07-08T19:30:00-0500,311,FirstMerit Bank Pavilion at Northerly Island,65.43,140.0,20,130.0,Chicago,IL,Live Nation,NoPriceClass,0,486064,117
+9539378,2016-05-14T17:30:00-0500,Allen Stone,House of Blues Chicago,81.87,67.26,1,4.0,Chicago,IL,Live Nation,NoPriceClass,0,1896080,62
+9539428,2016-05-18T19:30:00-0500,Harry Connick Jr.,Chicago Theatre,140.95,420.0,36,136.0,Chicago,IL,Ticketmaster,$49.00,0,186299,66
+9539463,2016-05-07T19:30:00-0500,Night Ranger,House of Blues Chicago,85.1,95.0,5,16.0,Chicago,IL,Live Nation,NoPriceClass,0,312457,55
+9539538,2016-05-14T19:30:00-0500,American Authors,Subterranean,68.97,70.55,8,18.0,Chicago,IL,Ticketfly,$20.00,0,5677419,62
+9539547,2016-03-26T22:00:00-0500,NGHTMRE,The Mid Chicago,61.48,88.88,7,30.0,Chicago,IL,NoVendorClass,NoPriceClass,NoSoldOutClass,8455678,13
+9540796,2016-04-14T20:00:00-0500,"103.5 Kiss FM Spring show with Alessia Cara, Mike Posner and Daya",Vic Theatre,85.1,74.95,2,10.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,32
+9542153,2016-05-14T20:00:00-0500,"Legends Of Southern Hip Hop with Juvenile, Mystikal and more",UIC Pavilion,186.58,295.0,4,20.0,Chicago,IL,NoResults,NoResults,NoResults,NoResults,62

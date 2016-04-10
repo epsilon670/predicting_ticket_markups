@@ -1,0 +1,154 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9333720,2016-07-01T20:00:00-0600,Janet Jackson,Pepsi Center,76.05,389.0,34,130.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,410449,110
+9338545,2016-03-29T19:30:00-0600,The Who,Pepsi Center,79.64,700.0,77,345.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,69685,16
+9364262,2016-04-05T20:00:00-0600,Gary Clark Jr,Ogden Theatre,86.24,168.16,19,96.0,Denver,CO,AXS,$36.00,0,309236,23
+9369374,2016-03-22T20:00:00-0600,Il Volo,Paramount Theatre Denver,73.69,184.18,5,27.0,Denver,CO,AXS,$49.50,0,187568,9
+9383212,2016-04-03T19:30:00-0600,Underoath,Ogden Theatre,63.32,1111.0,27,146.0,Denver,CO,Songkick Tickets,$34.00,0,2357960,21
+9397983,2016-04-23T20:00:00-0600,2Cellos,Buell Theatre,209.0,349.0,5,17.0,Denver,CO,AXS,$35.00,0,4392693,41
+9403399,2016-03-18T19:00:00-0600,Tobymac,Denver Coliseum,651.5,550.0,1,2.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,292015,5
+9408645,2016-04-13T19:50:00-0600,Iron Maiden,Pepsi Center,70.15,637.0,57,211.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,438390,31
+9408934,2016-07-02T20:00:00-0600,Selena Gomez,Pepsi Center,59.51,1295.0,190,797.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,1059348,111
+9415016,2016-05-25T20:00:00-0600,Leon Bridges,Paramount Theatre Denver,135.6,418.59,17,46.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,8205063,73
+9416998,2016-03-25T20:00:00-0600,Railroad Earth,Fillmore Auditorium Denver,49.7,120.0,6,17.0,Denver,CO,Live Nation,NoPriceClass,0,501238,12
+9416999,2016-03-26T19:00:00-0600,Railroad Earth,Fillmore Auditorium Denver,50.88,71.82,7,25.0,Denver,CO,Live Nation,NoPriceClass,0,501238,13
+9420633,2016-08-24T19:30:00-0600,5 Seconds of Summer,Pepsi Center,46.55,1225.0,137,652.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,5642214,164
+9424081,2016-04-06T20:00:00-0600,Gary Clark Jr,Ogden Theatre,94.26,199.99,16,70.0,Denver,CO,AXS,$36.00,0,309236,24
+9425621,2016-08-09T19:00:00-0600,Demi Lovato and Nick Jonas,Pepsi Center,55.99,980.0,116,570.0,Denver,CO,Altitude tickets,NoPriceClass,0,976211,149
+9426476,2016-03-30T19:00:00-0600,Carrie Underwood,Pepsi Center,72.51,500.0,172,725.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,208604,17
+9426893,2016-03-27T18:00:00-0600,Coheed and Cambria,Fillmore Auditorium Denver,61.38,195.0,13,61.0,Denver,CO,Live Nation,NoPriceClass,0,200900,14
+9439484,2016-10-06T19:30:00-0600,Maroon 5,Pepsi Center,94.93,5000.0,373,1539.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,181875,207
+9445422,2016-04-04T19:30:00-0600,Justin Bieber,Pepsi Center,221.25,3024.0,228,761.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,2596951,22
+9449990,2016-03-17T20:00:00-0600,Jose Gonzalez,Paramount Theatre Denver,96.11,145.0,6,27.0,Denver,CO,AXS,$30.75,0,542593,4
+9461815,2016-05-20T20:00:00-0600,The Used,Ogden Theatre,63.86,99.0,20,112.0,Denver,CO,Songkick Tickets,$39.00,0,162392,68
+9461816,2016-05-21T20:00:00-0600,The Used,Ogden Theatre,54.42,99.0,25,136.0,Denver,CO,Songkick Tickets,$39.00,0,162392,69
+9462084,2016-05-25T20:00:00-0600,Prong,Bluebird Theater,47.32,75.0,8,36.0,Denver,CO,AXS,$13.00,0,149100,73
+9462087,2016-05-06T20:00:00-0600,Primal Fear,Bluebird Theater,60.32,77.52,5,23.0,Denver,CO,Songkick Tickets,$44.00,0,5619103,54
+9462090,2016-04-14T20:00:00-0600,Wolf Alice,Bluebird Theater,49.68,67.0,7,39.0,Denver,CO,Songkick Tickets,$25.75,0,4126816,32
+9462095,2016-03-15T20:00:00-0600,Daughter,Ogden Theatre,19.73,199.0,25,83.0,Denver,CO,Songkick Tickets,$29.75,0,201667,2
+9462097,2016-03-13T20:00:00-0600,Penny and Sparrow,Bluebird Theater,60.32,49.02,2,10.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,0
+9462376,2016-04-13T20:00:00-0600,St Germain,Ogden Theatre,61.5,119.0,11,56.0,Denver,CO,Songkick Tickets,$52.00,0,521797,31
+9462629,2016-08-19T19:30:00-0600,Josh Groban,Pepsi Center,117.35,5000.0,58,320.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,474091,159
+9462673,2016-03-23T19:00:00-0600,They Might Be Giants,Ogden Theatre,49.0,79.0,10,39.0,Denver,CO,Songkick Tickets,$35.50,0,242200,10
+9462740,2016-09-02T12:59:00-0600,Riot Fest Denver 3 Day Pass,National Western Events Center,188.48,229.0,12,71.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,173
+9462814,2016-08-20T19:00:00-0600,Journey and The Doobie Brothers,Pepsi Center,67.78,1225.0,72,352.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,160
+9462887,2016-03-27T18:00:00-0600,Tonight Alive,Marquis Theater Denver,69.74,57.0,2,10.0,Denver,CO,Ticketweb,$20.00,0,3317791,14
+9463101,2016-03-25T21:00:00-0600,Rachel Platten,Ogden Theatre,9.58,199.0,14,63.0,Denver,CO,Songkick Tickets,$29.75,0,1988795,12
+9467864,2016-04-08T19:30:00-0600,Peter Yarrow and Paul Stookey,Paramount Theatre Denver,90.21,164.18,5,29.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,26
+9468252,2016-04-08T21:00:00-0600,Vibe Street,Bluebird Theater,50.86,75.0,5,21.0,Denver,CO,Songkick Tickets,$19.75,0,7842874,26
+9468257,2016-05-24T20:00:00-0600,Nada Surf,Bluebird Theater,73.28,85.0,7,31.0,Denver,CO,Songkick Tickets,$36.00,0,172227,72
+9469724,2016-04-27T20:00:00-0600,The Melvins and Napalm Death,Ogden Theatre,72.1,96.0,7,35.0,Denver,CO,Songkick Tickets,$30.25,0,191492,45
+9471109,2016-04-16T20:00:00-0600,Cloud Cult,Bluebird Theater,60.3,51.3,5,23.0,Denver,CO,AXS,$20.00,0,307496,34
+9475697,2016-05-16T20:00:00-0600,Ben Folds,Paramount Theatre Denver,81.95,199.0,16,70.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,125822,64
+9476373,2016-03-15T20:00:00-0600,Future with Ty Dolla Sign,Fillmore Auditorium Denver,137.86,250.0,32,130.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,2
+9476689,2016-04-11T19:00:00-0600,Elvis Costello,Paramount Theatre Denver,98.47,275.0,25,110.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,201754,29
+9478400,2016-07-16T19:30:00-0600,Adele,Pepsi Center,435.95,4999.0,205,540.0,Denver,CO,Altitude tickets,NoPriceClass,0,537914,125
+9478401,2016-07-17T19:30:00-0600,Adele,Pepsi Center,347.39,9999.0,244,685.0,Denver,CO,Altitude tickets,NoPriceClass,0,537914,126
+9478644,2016-03-23T19:00:00-0600,Brian Fallon,Summit Music Hall,47.33,69.54,9,39.0,Denver,CO,Ticketfly,$22.50,0,2373782,10
+9483190,2016-06-17T20:30:00-0600,Blue October,Ogden Theatre,49.68,200.0,16,70.0,Denver,CO,Songkick Tickets,$39.00,0,500273,96
+9484128,2016-04-02T19:30:00-0600,X Ambassadors,Ogden Theatre,96.9,199.99,10,36.0,Denver,CO,Songkick Tickets,$29.75,0,6664009,20
+9484274,2016-03-12T20:00:00-0600,Pusha T,Ogden Theatre,120.49,99.99,1,5.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,-1
+9485367,2016-05-03T19:30:00-0600,Dream Theater,Paramount Theatre Denver,76.05,175.0,11,38.0,Denver,CO,Altitude tickets,$35.00,0,8765,51
+9485945,2016-07-14T19:30:00-0600,Chris Tomlin,Pepsi Center,76.05,225.0,59,365.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,424916,123
+9486832,2016-05-21T19:00:00-0600,Tech N9ne,Fillmore Auditorium Denver,67.07,195.0,17,76.0,Denver,CO,Live Nation,NoPriceClass,0,283009,69
+9491761,2016-03-14T17:30:00-0600,Between the Buried and Me & August Burns Red,Summit Music Hall,58.21,69.0,7,33.0,Denver,CO,Ticketfly,$29.00,0,468456,1
+9494655,2016-03-24T20:00:00-0600,White Denim,Bluebird Theater,62.66,55.86,5,21.0,Denver,CO,Songkick Tickets,$27.75,0,589804,11
+9499932,2016-03-17T20:00:00-0600,Turner Jackson,Bluebird Theater,53.59,75.0,3,16.0,Denver,CO,Songkick Tickets,$19.75,0,3754826,4
+9499933,2016-03-19T20:00:00-0600,Intronaut,Bluebird Theater,52.04,75.0,5,23.0,Denver,CO,Songkick Tickets,$19.75,0,541095,6
+9499934,2016-04-04T20:00:00-0600,Ra Ra Riot,Bluebird Theater,61.48,52.44,5,23.0,Denver,CO,Songkick Tickets,$25.75,0,320682,22
+9499935,2016-06-10T21:00:00-0600,Dale Watson,Bluebird Theater,67.38,56.0,5,23.0,Denver,CO,Songkick Tickets,$27.75,0,228639,89
+9500217,2016-03-19T19:00:00-0600,Migos,City Hall Denver,61.5,78.66,3,13.0,Denver,CO,Ticketfly,NoPriceClass,0,753123,6
+9500522,2016-04-09T20:00:00-0600,Father John Misty,Ellie Caulkins Opera House,54.88,150.0,77,265.0,Denver,CO,AXS,$31.50,1,5113323,27
+9500570,2016-05-26T19:30:00-0600,Florence and the Machine,Pepsi Center,72.52,399.0,212,1058.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,595947,74
+9501136,2016-05-12T20:00:00-0600,Tori Kelly,Ogden Theatre,50.87,199.0,53,216.0,Denver,CO,Songkick Tickets,$41.50,0,1054791,60
+9501534,2016-03-30T20:00:00-0600,Adam Lambert,Paramount Theatre Denver,50.09,980.0,40,145.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,2436746,17
+9501815,2016-05-03T18:30:00-0600,Say Anything,Summit Music Hall,44.97,68.0,11,50.0,Denver,CO,Ticketfly,$18.50,0,235557,51
+9501875,2016-03-29T20:00:00-0600,Tinashe,Ogden Theatre,44.98,200.0,17,78.0,Denver,CO,Songkick Tickets,$34.00,0,2020878,16
+9503012,2016-06-01T19:00:00-0600,Disco Biscuits,Ogden Theatre,115.78,166.0,3,12.0,Denver,CO,Artist website,NoPriceClass,0,248957,80
+9503013,2016-06-02T19:00:00-0600,Disco Biscuits,Ogden Theatre,115.78,166.0,3,12.0,Denver,CO,Artist website,NoPriceClass,0,248957,81
+9503014,2016-06-03T19:00:00-0600,Disco Biscuits,Ogden Theatre,121.68,166.0,3,12.0,Denver,CO,Artist website,NoPriceClass,0,248957,82
+9503501,2016-04-03T18:00:00-0600,We The Kings,Marquis Theater Denver,85.1,70.0,1,2.0,Denver,CO,Ticketfly,$25.00,0,569961,21
+9503522,2016-04-16T20:00:00-0600,Sound Remedy,Ogden Theatre,32.0,200.0,10,51.0,Denver,CO,Songkick Tickets,$27.75,0,4818578,34
+9507112,2016-05-04T20:00:00-0600,The Slackers,Bluebird Theater,55.58,54.0,5,21.0,Denver,CO,Songkick Tickets,$22.75,0,50545,52
+9507113,2016-05-12T20:00:00-0600,Tortoise,Bluebird Theater,41.44,63.84,6,21.0,Denver,CO,Songkick Tickets,$34.00,0,136413,60
+9507130,2016-05-10T20:00:00-0600,Explosions in the Sky,Ogden Theatre,60.31,1112.0,15,68.0,Denver,CO,Songkick Tickets,$39.00,0,561284,58
+9507188,2016-07-09T20:00:00-0600,Dragged Into Sunlight,Bluebird Theater,54.94,74.0,5,21.0,Denver,CO,Songkick Tickets,$20.75,0,1283225,118
+9507990,2016-03-20T20:00:00-0600,Sam Lee Album Release,Bluebird Theater,52.25,75.0,5,19.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,7
+9507991,2016-03-29T20:00:00-0600,Shannon and the Clams,Bluebird Theater,32.0,51.3,6,21.0,Denver,CO,Songkick Tickets,$22.75,0,664502,16
+9507992,2016-03-31T21:00:00-0600,Dopapod,Bluebird Theater,70.92,59.28,5,19.0,Denver,CO,Songkick Tickets,$27.75,0,2254512,18
+9507993,2016-04-01T21:00:00-0600,Dopapod,Bluebird Theater,70.92,59.28,5,19.0,Denver,CO,Songkick Tickets,$27.75,0,2254512,19
+9507994,2016-04-02T21:00:00-0600,Dopapod,Bluebird Theater,70.92,83.0,6,26.0,Denver,CO,Songkick Tickets,$27.75,0,2254512,20
+9507995,2016-04-05T20:00:00-0600,Lissie,Bluebird Theater,64.36,80.0,5,25.0,Denver,CO,Songkick Tickets,$27.75,0,582389,23
+9507997,2016-04-09T21:00:00-0600,Pegboard Nerds with Grabbitz,Bluebird Theater,60.3,99.99,9,44.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,27
+9507998,2016-04-12T20:00:00-0600,Lucinda Williams,Bluebird Theater,86.26,91.2,5,19.0,Denver,CO,Songkick Tickets,$57.00,0,245404,30
+9507999,2016-04-13T20:00:00-0600,Lucinda Williams,Bluebird Theater,82.72,91.2,6,25.0,Denver,CO,Songkick Tickets,$57.00,0,245404,31
+9508001,2016-04-15T21:00:00-0600,Bombino,Bluebird Theater,70.92,60.42,6,26.0,Denver,CO,Songkick Tickets,$27.75,0,4083611,33
+9508094,2016-04-07T20:00:00-0600,Pete Yorn,Ogden Theatre,67.4,105.0,10,57.0,Denver,CO,Songkick Tickets,$39.50,0,2030465,25
+9508095,2016-04-11T20:00:00-0600,Parov Stelar,Ogden Theatre,66.52,79.0,7,35.0,Denver,CO,Songkick Tickets,$44.00,0,8597639,29
+9508097,2016-05-24T20:00:00-0600,Snarky Puppy,Ogden Theatre,63.84,78.0,6,29.0,Denver,CO,Songkick Tickets,$35.00,0,29793,72
+9508129,2016-06-25T19:00:00-0600,Thrice,Summit Music Hall,50.67,150.0,11,48.0,Denver,CO,Ticketfly,$22.50,0,498261,104
+9508188,2016-04-10T20:00:00-0600,Father John Misty,Ellie Caulkins Opera House,55.59,400.0,51,248.0,Denver,CO,AXS,$31.50,1,5113323,28
+9509739,2016-07-12T20:00:00-0600,Sting and Peter Gabriel,Pepsi Center,76.04,9999.0,324,1272.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,165478,121
+9510344,2016-03-28T20:00:00-0600,Wild Feathers,Bluebird Theater,63.86,64.98,4,17.0,Denver,CO,Songkick Tickets,$27.75,0,3589121,15
+9510345,2016-05-17T20:00:00-0600,Brian Jonestown Massacre,Bluebird Theater,56.72,51.98,5,19.0,Denver,CO,Songkick Tickets,$34.00,0,73973,65
+9510803,2016-10-04T20:00:00-0600,Brian Wilson Performs Pet Sounds,Paramount Theatre Denver,100.83,365.0,26,97.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,205
+9510814,2016-10-10T20:00:00-0600,Brian Wilson Performs Pet Sounds,Paramount Theatre Denver,102.01,82.0,1,8.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,211
+9511308,2016-04-29T18:00:00-0600,The Summer Set,Marquis Theater Denver,70.15,62.7,4,15.0,Denver,CO,Ticketfly,$17.00,0,912614,47
+9511518,2016-03-31T19:30:00-0600,Bruce Springsteen and the E Street Band,Pepsi Center,81.41,5555.55,457,1476.0,Denver,CO,Altitude tickets,NoPriceClass,0,227030,18
+9511772,2016-04-14T21:00:00-0600,Flatbush Zombies,Cervantes,73.78,73.0,3,20.0,Denver,CO,Ticketfly,$25.00,0,5081903,32
+9511777,2016-04-15T21:00:00-0600,Flatbush Zombies,Cervantes,52.98,73.0,4,22.0,Denver,CO,Ticketfly,$25.00,0,5081903,33
+9511783,2016-06-28T19:30:00-0600,Ringo Starr and His All Starr Band,Paramount Theatre Denver,153.93,504.85,34,109.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,107
+9512233,2016-04-02T20:00:00-0600,Iggy Pop,Ellie Caulkins Opera House,97.67,220.0,41,124.0,Denver,CO,AXS,$49.95,0,170739,20
+9512680,2016-03-25T21:00:00-0600,Anuhea and Through The Roots,Bluebird Theater,55.6,75.0,4,17.0,Denver,CO,Songkick Tickets,$19.75,0,670215,12
+9513474,2016-04-01T20:00:00-0600,Warren Haynes and the Ashes and Dust Band,Ogden Theatre,86.28,128.99,8,37.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,19
+9514126,2016-03-24T20:00:00-0600,Santigold,Ogden Theatre,59.12,1000.0,17,74.0,Denver,CO,Songkick Tickets,$39.50,0,2385431,11
+9514127,2016-04-23T21:00:00-0600,Half Moon Run,Ogden Theatre,51.47,70.0,11,60.0,Denver,CO,Songkick Tickets,$34.00,0,3878406,41
+9514825,2016-03-30T18:30:00-0600,The Smashing Pumpkins,Ellie Caulkins Opera House,91.0,155.0,58,203.0,Denver,CO,AXS,$49.50,0,233074,17
+9516373,2016-04-28T20:00:00-0600,Kvelertak with Torche and Wild Thorne,Bluebird Theater,59.0,75.0,4,17.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,46
+9516685,2016-05-05T19:00:00-0600,Chris Stapleton,Fillmore Auditorium Denver,83.38,1234.56,208,692.0,Denver,CO,Live Nation,NoPriceClass,0,793839,53
+9516686,2016-05-06T19:00:00-0600,Chris Stapleton,Fillmore Auditorium Denver,91.0,9999.0,124,725.0,Denver,CO,Live Nation,NoPriceClass,0,793839,54
+9516754,2016-04-26T20:00:00-0600,Foals,Ogden Theatre,48.52,129.99,15,71.0,Denver,CO,Songkick Tickets,$34.00,0,525043,44
+9516761,2016-04-20T20:00:00-0600,Randy and Mr Lahey,Summit Music Hall,80.37,70.68,7,26.0,Denver,CO,Ticketfly,$20.00,0,154041,38
+9516819,2016-04-25T20:00:00-0600,The Arcs,Ogden Theatre,55.6,91.0,21,105.0,Denver,CO,Songkick Tickets,$39.00,0,16288,43
+9516941,2016-03-18T20:00:00-0600,Coleman Hell,Marquis Theater Denver,48.76,39.9,2,18.0,Denver,CO,Ticketfly,$10.00,0,6850064,5
+9517430,2016-06-17T20:00:00-0600,Gordon Lightfoot,Paramount Theatre Denver,98.47,317.0,12,55.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,496846,96
+9517557,2016-05-04T19:30:00-0600,Andy Mineo,Summit Music Hall,49.69,60.0,7,32.0,Denver,CO,Ticketfly,$22.00,0,5467058,52
+9519429,2016-04-11T20:00:00-0600,Deer Tick,Bluebird Theater,79.2,90.0,5,26.0,Denver,CO,Songkick Tickets,$34.00,0,591654,29
+9520961,2016-05-12T19:30:00-0600,Frankie Valli and the Four Seasons,Buell Theatre,108.7,662.0,58,252.0,Denver,CO,AXS,$49.50,0,30108,60
+9520984,2016-05-14T21:00:00-0600,The Neighbourhood,Ogden Theatre,64.99,300.0,18,79.0,Denver,CO,Songkick Tickets,$45.75,0,636848,62
+9521460,2016-09-26T19:00:00-0600,Leon Bridges,Fillmore Auditorium Denver,72.11,195.0,50,215.0,Denver,CO,Live Nation,NoPriceClass,0,8205063,197
+9521969,2016-09-14T20:30:00-0600,Mana,Pepsi Center,90.21,527.0,105,613.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,106220,185
+9523382,2016-05-05T21:00:00-0600,Turkuaz,Bluebird Theater,59.14,49.02,4,17.0,Denver,CO,Songkick Tickets,$23.75,0,1427937,53
+9523385,2016-04-10T21:00:00-0600,Freddie Gibbs,Bluebird Theater,72.1,62.7,5,20.0,Denver,CO,Songkick Tickets,$27.75,0,2793016,28
+9523386,2016-04-21T20:00:00-0600,Highly Suspect,Bluebird Theater,47.28,53.0,7,35.0,Denver,CO,Songkick Tickets,$22.75,0,3790131,39
+9523508,2016-04-29T21:00:00-0600,Apocalyptica,Ogden Theatre,69.76,82.0,6,26.0,Denver,CO,Songkick Tickets,$34.00,0,216253,47
+9523993,2016-04-18T19:00:00-0600,Lukas Graham,Marquis Theater Denver,53.7,199.0,20,138.0,Denver,CO,Ticketfly,$10.00,0,2511176,36
+9527373,2016-06-02T19:00:00-0600,Buzzcocks,Summit Music Hall,84.55,75.0,4,19.0,Denver,CO,Ticketfly,$60.00,0,351352,81
+9528584,2016-04-13T20:00:00-0600,Generation Axe,Paramount Theatre Denver,132.69,174.0,10,44.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,8721654,31
+9528927,2016-04-24T20:00:00-0600,"Ladies Night Out with Keith Sweat, Ginuwine and Jon B",Bellco Theatre,120.45,190.0,13,67.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,42
+9528961,2016-04-06T20:00:00-0600,Atlas Genius,Bluebird Theater,59.12,99.0,12,52.0,Denver,CO,Songkick Tickets,$25.75,0,5539353,24
+9529379,2016-06-09T19:00:00-0600,Emblem3,Summit Music Hall,49.69,122.0,14,65.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,6439724,88
+9530007,2016-04-09T20:00:00-0600,Machine Gun Kelly,Summit Music Hall,95.7,80.0,7,27.0,Denver,CO,Ticketfly,$30.00,0,6630384,27
+9530868,2016-05-30T20:00:00-0600,Subhumans,Bluebird Theater,59.14,49.02,4,17.0,Denver,CO,Songkick Tickets,$22.75,0,36548,78
+9530871,2016-06-09T20:00:00-0600,Local H,Bluebird Theater,67.4,67.0,5,19.0,Denver,CO,Songkick Tickets,$27.75,0,138547,88
+9530872,2016-08-03T20:00:00-0600,Hayes Carll,Bluebird Theater,75.66,63.0,4,17.0,Denver,CO,Songkick Tickets,$36.00,0,6910,143
+9530873,2016-05-20T20:00:00-0600,Paul Simon,Bellco Theatre,111.72,749.01,138,469.0,Denver,CO,AXS,$64.50,0,213059,68
+9530892,2016-04-15T21:00:00-0600,Marshmello,Ogden Theatre,36.73,200.0,43,192.0,Denver,CO,Songkick Tickets,$22.75,0,8613384,33
+9530893,2016-04-24T20:00:00-0600,Frightened Rabbit,Ogden Theatre,54.72,95.0,11,50.0,Denver,CO,Songkick Tickets,$25.75,0,364665,42
+9531645,2016-03-21T20:00:00-0600,Banners,Marquis Theater Denver,26.1,20.0,1,4.0,Denver,CO,Ticketfly,$15.00,0,8685879,8
+9531749,2016-04-22T19:00:00-0600,Candlebox,Marquis Theater Denver,65.04,59.28,3,12.0,Denver,CO,Ticketfly,$20.00,0,238974,40
+9531787,2016-05-05T21:00:00-0600,ZHU,Ogden Theatre,65.04,9999.0,34,179.0,Denver,CO,AXS,$30.00,0,1183857,53
+9531847,2016-06-05T20:00:00-0600,Old 97's,Bluebird Theater,75.66,63.0,4,17.0,Denver,CO,Songkick Tickets,$39.00,0,308713,84
+9532884,2016-06-25T12:00:00-0600,Westword Music Showcase,Westword Music Showcase Multiple Venues,80.38,133.0,4,26.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,104
+9533040,2016-05-31T18:00:00-0600,HellYeah,Summit Music Hall,119.31,100.32,7,30.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,79
+9533219,2016-04-01T20:30:00-0600,Frankie Ballard,Grizzly Rose ,61.48,199.0,5,25.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,1623692,19
+9533924,2016-05-14T20:00:00-0600,Blaqk Audio,Bluebird Theater,70.94,64.0,5,25.0,Denver,CO,Songkick Tickets,$27.75,0,568095,62
+9534002,2016-09-17T19:00:00-0600,Def Leppard with REO Speedwagon and Tesla,Pepsi Center,70.15,833.0,57,252.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,188
+9535724,2016-05-13T21:00:00-0600,Mayer Hawthorne,Ogden Theatre,67.39,77.0,7,33.0,Denver,CO,Songkick Tickets,$37.00,0,5613613,61
+9536212,2016-05-21T13:00:00-0600,Project Pabst,RiNo Neighborhood,91.0,157.0,9,62.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,69
+9536697,2016-06-11T20:00:00-0600,Modern Baseball with Joyce Manor and Thin Lips,Summit Music Hall,68.98,89.0,9,44.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,90
+9537173,2016-04-24T20:00:00-0600,William Elliott Whitmore,Bluebird Theater,66.22,55.0,4,17.0,Denver,CO,Songkick Tickets,$27.75,0,185409,42
+9537882,2016-04-26T21:00:00-0600,Hudson Mohawke,Cervantes,34.95,46.74,3,22.0,Denver,CO,Ticketfly,NoPriceClass,0,674970,44
+9538544,2016-08-10T18:30:00-0600,UB40,Denver Botanic Gardens York Street,120.5,100.0,1,6.0,Denver,CO,NoResults,NoResults,NoResults,NoResults,150
+9539593,2016-04-27T20:00:00-0600,Joshua Radin,The Soiled Dove Underground,120.49,149.99,2,6.0,Denver,CO,Ticketfly,$40.00,1,360697,45
+9541584,2016-05-12T21:00:00-0600,Father,Cervantes,60.34,49.02,1,4.0,Denver,CO,Ticketfly,NoPriceClass,0,234137,60
+9542272,2016-06-14T20:00:00-0600,Pat Benatar with Neil Giraldo,Paramount Theatre Denver,144.49,159.0,2,8.0,Denver,CO,NoVendorClass,NoPriceClass,NoSoldOutClass,576999,93

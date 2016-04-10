@@ -1,0 +1,183 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9352333,2016-08-07T20:00:00-0400,Janet Jackson,Philips Arena,49.7,2222.22,295,999.0,Atlanta,GA,Ticketmaster,$45.00,0,410449,147
+9381625,2016-04-23T19:30:00-0400,Underoath,The Tabernacle Atlanta,72.2,1111.0,22,108.0,Atlanta,GA,Live Nation,NoPriceClass,0,2357960,41
+9392053,2016-03-19T20:00:00-0400,Vance Joy,The Tabernacle Atlanta,92.18,325.0,21,77.0,Atlanta,GA,Live Nation,NoPriceClass,0,6148694,6
+9408915,2016-06-09T19:30:00-0400,Selena Gomez,Philips Arena,85.04,1500.0,106,359.0,Atlanta,GA,Ticketmaster,$35.00,0,1059348,88
+9411812,2016-04-23T20:00:00-0400,Ciara,Center Stage Theatre,55.99,119.0,14,89.0,Atlanta,GA,Ticketmaster,$29.00,0,106251,41
+9420620,2016-07-24T19:30:00-0400,5 Seconds of Summer,Lakewood Amphitheatre,34.36,850.0,188,914.0,Atlanta,GA,Live Nation,NoPriceClass,0,5642214,133
+9422900,2016-03-19T19:30:00-0400,Legends of Southern Hip Hop,Fox Theatre Atlanta,132.3,1200.0,13,35.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,6
+9425408,2016-03-17T20:00:00-0400,Joan Baez,Symphony Hall Atlanta,35.92,392.0,24,76.0,Atlanta,GA,Ticketmaster,$29.50,0,222376,4
+9425600,2016-06-29T19:00:00-0400,Demi Lovato and Nick Jonas,Philips Arena,46.86,1749.0,182,780.0,Atlanta,GA,Ticketmaster,$29.95,0,976211,108
+9426889,2016-03-14T19:00:00-0400,Coheed and Cambria,The Tabernacle Atlanta,70.82,99.0,8,39.0,Atlanta,GA,Live Nation,NoPriceClass,0,200900,1
+9428103,2016-04-08T20:30:00-0400,They Might Be Giants,Variety Playhouse,60.32,1112.0,13,73.0,Atlanta,GA,Ticketmaster,$25.00,0,242200,26
+9432150,2016-05-04T19:00:00-0400,Prong,Masquerade Atlanta,48.37,70.0,4,18.0,Atlanta,GA,Ticketmaster,$16.00,0,149100,52
+9441117,2016-03-26T19:00:00-0400,Skizzy Mars,Masquerade Atlanta,29.62,999.0,16,59.0,Atlanta,GA,Ticketmaster,$14.00,0,4516073,13
+9443419,2016-12-19T20:00:00-0400,V103 40th Anniversary Winterfest Concert,Philips Arena,182.25,165.0,2,8.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,281
+9443710,2016-06-24T19:00:00-0400,The Cure,Lakewood Amphitheatre,37.88,1899.0,242,1421.0,Atlanta,GA,Live Nation,NoPriceClass,0,474439,103
+9445426,2016-04-12T19:30:00-0400,Justin Bieber,Philips Arena,214.9,3500.0,289,926.0,Atlanta,GA,Ticketmaster,$50.50,0,2596951,30
+9451285,2016-03-23T19:30:00-0400,Joe Satriani,Symphony Hall Atlanta,43.01,11484.0,6,33.0,Atlanta,GA,Ticketmaster,$29.50,0,217121,10
+9452596,2016-04-01T20:30:00-0400,Daughter,Terminal West,42.58,65.0,13,34.0,Atlanta,GA,Ticketfly,$20.00,1,201667,19
+9455706,2016-04-13T19:30:00-0400,Justin Bieber,Philips Arena,209.0,5500.0,231,876.0,Atlanta,GA,Ticketmaster,$50.50,0,2596951,31
+9459675,2016-04-16T20:00:00-0400,Jethro Tull - Written and Performed by Ian Anderson,Fox Theatre Atlanta,64.25,395.0,35,142.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,34
+9461076,2016-04-29T21:00:00-0400,polica,Terminal West,60.3,89.0,6,35.0,Atlanta,GA,Ticketfly,$16.00,0,4665213,47
+9461149,2016-04-06T20:00:00-0400,Robin Trower,Variety Playhouse,83.44,78.53,7,35.0,Atlanta,GA,Ticketmaster,$40.00,0,243623,24
+9461589,2016-05-18T19:30:00-0400,Rihanna,Philips Arena,61.5,4930.0,374,1278.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,66
+9462347,2016-04-17T19:30:00-0400,Steve Hackett,Symphony Hall Atlanta,117.35,190.0,9,21.0,Atlanta,GA,Ticketmaster,$29.50,0,486354,35
+9462611,2016-03-18T20:00:00-0400,The Infamous Stringdusters,Variety Playhouse,54.36,52.44,8,37.0,Atlanta,GA,Ticketmaster,$20.00,0,541144,5
+9462617,2016-07-17T19:00:00-0400,Josh Groban,Chastain Park Amphitheatre,80.2,648.0,88,500.0,Atlanta,GA,Live Nation,NoPriceClass,0,474091,126
+9462786,2016-06-08T19:00:00-0400,Journey and The Doobie Brothers,Lakewood Amphitheatre,37.89,710.5,158,819.0,Atlanta,GA,Live Nation,NoPriceClass,0,94887,87
+9462896,2016-04-02T18:00:00-0400,DAD FEST,Masquerade Atlanta,233.78,196.0,2,7.0,Atlanta,GA,NoRegexp,NoRegexp,NoRegexp,NoRegexp,20
+9462897,2016-03-19T18:00:00-0400,The Decibel Magazine Tour with Abbath,Masquerade Atlanta,73.06,60.42,2,12.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,6
+9465188,2016-04-02T20:00:00-0400,Andrew Bird,The Tabernacle Atlanta,66.22,229.0,20,85.0,Atlanta,GA,Live Nation,NoPriceClass,0,395944,20
+9465237,2016-04-01T20:30:00-0400,G. Love and Special Sauce,Variety Playhouse,58.81,79.0,11,56.0,Atlanta,GA,Ticketmaster,$27.50,0,252784,19
+9468614,2016-03-18T20:00:00-0400,Logic,The Tabernacle Atlanta,43.46,1111.0,61,216.0,Atlanta,GA,Live Nation,NoPriceClass,0,614453,5
+9472817,2016-04-03T19:00:00-0400,Stick Figure,Terminal West,35.53,66.0,7,39.0,Atlanta,GA,Ticketfly,$14.00,0,514431,21
+9473806,2016-05-07T20:00:00-0400,Animal Collective,Buckhead Theatre,62.68,1111.0,28,134.0,Atlanta,GA,Ticketmaster,$30.00,0,137427,55
+9474113,2016-04-15T19:00:00-0400,Duran Duran,Philips Arena,83.92,1073.1,115,399.0,Atlanta,GA,Ticketmaster,$29.95,0,427500,33
+9475558,2016-04-05T19:30:00-0400,Melanie Martinez,Buckhead Theatre,67.39,144.0,54,112.0,Atlanta,GA,Ticketmaster,$26.50,0,6647159,23
+9476549,2016-04-22T13:00:00-0400,Sweetwater Festival 3 Day Pass,Centennial Olympic Park,123.25,423.0,12,37.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,40
+9476785,2016-05-13T11:30:00-0400,Shaky Knees Music Festival 3 Day Pass,Centennial Olympic Park,213.4,850.0,18,60.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,61
+9477596,2016-05-20T13:00:00-0400,Shaky Beats Music Festival 3 Day Pass,Centennial Olympic Park,223.53,250.0,9,31.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,68
+9477608,2016-03-16T20:00:00-0400,Rickie Lee Jones,Variety Playhouse,85.1,76.76,2,8.0,Atlanta,GA,Ticketmaster,$33.00,0,374600,3
+9477725,2016-03-15T20:00:00-0400,Gordon Lightfoot,Symphony Hall Atlanta,70.94,169.0,6,17.0,Atlanta,GA,Ticketmaster,$29.50,0,496846,2
+9478065,2016-05-07T19:30:00-0400,Blue October,Masquerade Atlanta,52.59,90.0,17,88.0,Atlanta,GA,ShowClix,$50.00,0,500273,55
+9478461,2016-10-28T19:30:00-0400,Adele,Philips Arena,378.92,5000.0,272,694.0,Atlanta,GA,Ticketmaster,$39.50,0,537914,229
+9478462,2016-10-29T19:30:00-0400,Adele,Philips Arena,462.7,3500.0,198,498.0,Atlanta,GA,Ticketmaster,$39.50,0,537914,230
+9478609,2016-04-13T20:00:00-0400,Elle King,Variety Playhouse,63.78,200.0,14,68.0,Atlanta,GA,Ticketmaster,$20.00,0,833467,31
+9482669,2016-03-15T20:00:00-0400,Fetty Wap,The Tabernacle Atlanta,66.72,217.68,34,142.0,Atlanta,GA,Live Nation,NoPriceClass,0,8472253,2
+9482719,2016-03-17T19:30:00-0400,Kirk Franklin,The Tabernacle Atlanta,50.87,251.0,16,60.0,Atlanta,GA,Live Nation,NoPriceClass,0,115247,4
+9484259,2016-03-21T20:00:00-0400,Pusha T,Center Stage Theatre,40.26,153.0,24,124.0,Atlanta,GA,Ticketmaster,$34.00,0,814169,8
+9485351,2016-03-14T18:00:00-0400,The Word Alive,Masquerade Atlanta,41.43,61.56,3,20.0,Atlanta,GA,Ticketmaster,$18.00,0,2341487,1
+9485933,2016-08-13T13:00:00-0400,The Wrecking Ball ATL 2016 - 2 DAY PASS,Masquerade Atlanta,179.48,150.0,2,12.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,153
+9489960,2016-04-13T20:00:00-0400,Jesse Cook,Buckhead Theatre,91.0,79.0,3,8.0,Atlanta,GA,Ticketmaster,$37.00,0,134753,31
+9490874,2016-03-16T18:30:00-0400,Secrets,Masquerade Atlanta,30.81,77.0,4,24.0,Atlanta,GA,Ticketmaster,$13.50,0,338659,3
+9491680,2016-03-24T20:00:00-0400,Get The Led Out,Egyptian Ballroom at Fox Theatre Atlanta,114.6,125.0,4,16.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,11
+9492144,2016-04-22T19:30:00-0400,Rend Collective,The Tabernacle Atlanta,44.86,150.0,11,53.0,Atlanta,GA,Live Nation,NoPriceClass,0,3850246,40
+9492545,2016-03-15T19:00:00-0400,Larry and His Flask,Drunken Unicorn,55.59,44.99,1,6.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,1091625,2
+9493404,2016-04-29T20:00:00-0400,Father John Misty,The Tabernacle Atlanta,51.3,1111.0,53,297.0,Atlanta,GA,Live Nation,NoPriceClass,0,5113323,47
+9493900,2016-04-01T20:30:00-0400,Dr. Dog,Buckhead Theatre,32.0,109.0,18,83.0,Atlanta,GA,Ticketmaster,$25.00,0,42687,19
+9495512,2016-03-12T20:00:00-0400,Moody Blues,Fox Theatre Atlanta,98.79,168.0,17,55.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,-1
+9500874,2016-04-15T20:00:00-0400,Tori Kelly,The Tabernacle Atlanta,81.56,1111.0,50,184.0,Atlanta,GA,Live Nation,NoPriceClass,0,1054791,33
+9501051,2016-04-12T20:00:00-0400,The Cult,Variety Playhouse,88.46,165.0,14,50.0,Atlanta,GA,Ticketmaster,$38.00,0,397363,30
+9501297,2016-05-13T19:00:00-0400,Flatbush Zombies,Masquerade Atlanta,39.48,73.0,13,61.0,Atlanta,GA,Ticketmaster,$20.00,0,5081903,61
+9501625,2016-05-07T19:30:00-0400,Floetry and Mint Condition,Fox Theatre Atlanta,132.3,211.0,17,68.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,55
+9501663,2016-05-03T19:00:00-0400,Woods,Masquerade Atlanta,49.11,55.0,7,30.0,Atlanta,GA,Ticketmaster,$13.00,0,499335,51
+9501826,2016-05-21T18:00:00-0400,Say Anything,Masquerade Atlanta,38.09,68.0,14,80.0,Atlanta,GA,Ticketmaster,$19.50,0,235557,69
+9501845,2016-05-20T13:00:00-0400,Luke Bryan with Little Big Town and Dustin Lynch,Lakewood Amphitheatre,65.04,5000.0,428,1696.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,68
+9501846,2016-05-21T19:00:00-0400,Luke Bryan with Little Big Town and Dustin Lynch,Lakewood Amphitheatre,68.58,9999.0,926,3295.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,69
+9501868,2016-03-19T20:00:00-0400,Tinashe,Center Stage Theatre,27.28,66.12,15,80.0,Atlanta,GA,Ticketmaster,$29.00,0,2020878,6
+9502345,2016-03-14T19:00:00-0400,Charlie Puth,Terminal West,21.12,500.0,24,113.0,Atlanta,GA,Ticketfly,$20.00,1,5318433,1
+9502608,2016-04-06T20:00:00-0400,Beirut,Buckhead Theatre,51.69,144.0,12,57.0,Atlanta,GA,Ticketmaster,$30.00,0,355452,24
+9503090,2016-04-21T20:00:00-0400,George Perris,Buckhead Theatre,144.1,120.0,1,4.0,Atlanta,GA,Ticketmaster,$45.00,0,1983651,39
+9503268,2016-06-16T19:00:00-0400,Weezer,Lakewood Amphitheatre,44.65,599.0,227,1209.0,Atlanta,GA,Live Nation,NoPriceClass,0,544909,95
+9505471,2016-05-02T21:00:00-0400,Parachute,Terminal West,35.54,42.0,4,18.0,Atlanta,GA,Ticketfly,$21.00,0,9315,50
+9505721,2016-04-01T19:30:00-0400,America,Symphony Hall Atlanta,92.18,400.0,10,32.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,321711,19
+9506373,2016-05-06T19:30:00-0400,Disturbed with Rob Zombie,Lakewood Amphitheatre,49.11,415.0,149,734.0,Atlanta,GA,Live Nation,NoPriceClass,0,455175,54
+9507620,2016-05-06T19:30:00-0400,Boyce Avenue,Center Stage Theatre,49.31,97.0,10,57.0,Atlanta,GA,Ticketmaster,$25.00,0,608550,54
+9508113,2016-06-10T20:00:00-0400,Thrice,The Tabernacle Atlanta,46.55,199.0,22,102.0,Atlanta,GA,Live Nation,NoPriceClass,0,498261,89
+9508208,2016-04-06T20:00:00-0400,Tech N9ne,Center Stage Theatre,55.6,57.0,7,40.0,Atlanta,GA,Ticketmaster,$30.00,0,283009,24
+9509210,2016-05-18T19:30:00-0400,Magic Man & The Griswolds,Terminal West,51.26,73.0,8,43.0,Atlanta,GA,Ticketfly,$22.00,0,699966,66
+9509402,2016-04-20T19:00:00-0400,Denzel Curry,Masquerade Atlanta,31.98,75.0,7,36.0,Atlanta,GA,Ticketmaster,$15.00,0,6890294,38
+9509422,2016-11-15T20:30:00-0400,Peter Hook and The Light,Terminal West,43.04,60.42,6,35.0,Atlanta,GA,Ticketfly,$25.00,0,4154881,247
+9509786,2016-04-21T18:30:00-0400,The Contortionist with Monuments and more,Masquerade Atlanta,39.85,52.0,9,48.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,39
+9510183,2016-04-22T19:00:00-0400,Bane,Masquerade Atlanta,36.57,70.0,5,33.0,Atlanta,GA,Ticketmaster,$12.00,0,21223,40
+9510218,2016-04-30T18:00:00-0400,Foundation,Masquerade Atlanta,83.92,72.22,3,11.0,Atlanta,GA,Ticketmaster,NoPriceClass,0,249855,48
+9510439,2016-05-28T19:00:00-0400,Dave Matthews Band,Lakewood Amphitheatre,83.12,9888.8,236,856.0,Atlanta,GA,Live Nation,NoPriceClass,0,334506,76
+9510497,2016-05-07T16:00:00-0400,Laid Back Festival with Gregg Allman Band and more,Lakewood Amphitheatre,47.06,365.0,116,620.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,55
+9510617,2016-07-15T13:00:00-0400,Dierks Bentley with Randy Houser and Cam,Lakewood Amphitheatre,36.72,499.0,129,660.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,124
+9510993,2016-07-10T19:00:00-0400,Brand New and Modest Mouse,Chastain Park Amphitheatre,81.56,9999.0,195,664.0,Atlanta,GA,Live Nation,NoPriceClass,0,352662,119
+9511118,2016-04-05T20:00:00-0400,Ace Frehley,Variety Playhouse,63.6,74.1,11,58.0,Atlanta,GA,Ticketmaster,$37.50,0,307655,23
+9511127,2016-04-22T21:00:00-0400,Esperanza Spalding,Center Stage Theatre,61.5,59.0,5,29.0,Atlanta,GA,Ticketmaster,$34.50,0,560672,40
+9511148,2016-04-17T19:30:00-0400,Amon Amarth with Entombed and Exmortus,The Tabernacle Atlanta,54.42,229.0,16,96.0,Atlanta,GA,Live Nation,NoPriceClass,0,216859,35
+9511315,2016-05-22T18:00:00-0400,The Summer Set,Masquerade Atlanta,61.5,198.0,8,37.0,Atlanta,GA,Ticketmaster,$17.00,0,912614,70
+9511660,2016-07-17T19:30:00-0400,Shawn Mendes,Fox Theatre Atlanta,101.62,550.0,212,572.0,Atlanta,GA,evenue website,NoPriceClass,0,8008073,126
+9511810,2016-04-05T19:00:00-0400,Issues with Crown The Empire and more,Masquerade Atlanta,33.18,110.0,17,77.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,23
+9511949,2016-07-01T20:00:00-0400,Noel Gallaghers High Flying Birds,The Tabernacle Atlanta,64.98,1111.0,93,352.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,110
+9512296,2016-04-29T21:00:00-0400,Sevendust,Center Stage Theatre,51.99,70.0,8,37.0,Atlanta,GA,Ticketmaster,$27.00,0,280948,47
+9512300,2016-03-31T21:00:00-0400,Twiddle,Terminal West,23.21,26.0,3,18.0,Atlanta,GA,Ticketfly,$12.00,0,947444,18
+9512392,2016-05-01T17:30:00-0400,FILTER with Orgy and Vampires Everywhere,Masquerade Atlanta,39.52,99.0,10,52.0,Atlanta,GA,Ticketmaster,$21.00,0,188715,49
+9513590,2016-07-30T20:00:00-0400,Ray LaMontagne,Fox Theatre Atlanta,99.26,297.0,108,354.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,107918,139
+9513692,2016-03-25T21:00:00-0400,Anderson East,Terminal West,44.39,198.0,8,32.0,Atlanta,GA,Ticketfly,$12.00,1,3742616,12
+9513759,2016-05-07T20:00:00-0400,Old 97's,Terminal West,48.35,83.0,9,51.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,55
+9514255,2016-04-28T20:00:00-0400,Santigold,The Tabernacle Atlanta,54.29,202.0,23,97.0,Atlanta,GA,Live Nation,NoPriceClass,0,2385431,46
+9514469,2016-04-24T20:00:00-0400,Bush,The Tabernacle Atlanta,67.4,250.0,35,145.0,Atlanta,GA,Live Nation,NoPriceClass,0,478333,42
+9516459,2016-04-25T19:00:00-0400,NOFX,The Tabernacle Atlanta,50.76,200.0,15,80.0,Atlanta,GA,Live Nation,NoPriceClass,0,214756,43
+9516657,2016-04-30T19:00:00-0400,Old Crow Medicine Show,Fox Theatre Atlanta,95.72,329.01,38,134.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,74249,48
+9516766,2016-04-02T21:00:00-0400,Belinda Carlise,Center Stage Theatre,89.82,255.64,14,46.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,20
+9517549,2016-06-17T19:00:00-0400,The Matches,Masquerade Atlanta,35.39,60.0,9,44.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,330859,96
+9517660,2016-04-16T20:00:00-0400,Iration,Variety Playhouse,57.59,112.86,10,50.0,Atlanta,GA,Ticketmaster,$20.00,0,84879,34
+9517710,2016-03-25T20:30:00-0400,Yacht Rock Revue,Variety Playhouse,56.58,52.44,8,40.0,Atlanta,GA,Ticketmaster,$20.00,0,2949166,12
+9519082,2016-04-11T20:00:00-0400,Deerhunter,Variety Playhouse,37.88,56.0,11,55.0,Atlanta,GA,Ticketmaster,$20.00,0,222485,29
+9519098,2016-05-13T11:30:00-0400,Shaky Knees Music Festival - FRIDAY ONLY,Centennial Olympic Park,191.67,162.0,3,10.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,61
+9519099,2016-05-14T11:30:00-0400,Shaky Knees Music Festival - SATURDAY ONLY,Centennial Olympic Park,196.41,162.0,1,8.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,62
+9519100,2016-05-15T11:30:00-0400,Shaky Knees Music Festival - SUNDAY ONLY,Centennial Olympic Park,196.41,162.0,1,8.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,63
+9519258,2016-06-10T20:00:00-0400,Chris Botti and Joshua Bell,Chastain Park Amphitheatre,232.6,225.0,5,18.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,89
+9519406,2016-04-23T19:30:00-0400,Celtic Woman,Fox Theatre Atlanta,133.48,244.0,27,108.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,227735,41
+9519726,2016-04-28T19:30:00-0400,Third Day and Steven Curtis Chapman,Fox Theatre Atlanta,56.78,300.0,34,101.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,382312,46
+9519731,2016-03-31T21:00:00-0400,Baauer,Variety Playhouse,49.69,66.0,9,36.0,Atlanta,GA,Ticketmaster US,NoPriceClass,0,5502993,18
+9519806,2016-05-01T18:00:00-0400,Beyoncé,Georgia Dome,106.34,9700.0,1939,6294.0,Atlanta,GA,Ticketmaster,$45.00,0,553938,49
+9520198,2016-03-20T19:00:00-0400,"Legends of Southern Hip Hop featuring Juvenile, Mystikal and more",Fox Theatre Atlanta,123.25,1100.0,15,44.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,7
+9521558,2016-05-19T19:00:00-0400,Daryl Hall and John Oates with Sharon Jones and the Dap Kings and more,Lakewood Amphitheatre,31.82,9999.0,183,971.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,67
+9521757,2016-08-26T13:00:00-0400,Brantley Gilbert with Justin Moore and Colt Ford,Lakewood Amphitheatre,39.08,509.0,120,698.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,166
+9521767,2016-10-22T13:00:00-0400,Florida Georgia Line with Cole Swindell and more,Lakewood Amphitheatre,70.15,599.0,116,676.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,223
+9521976,2016-10-26T20:00:00-0400,Mana,Philips Arena,70.73,606.9,245,1066.0,Atlanta,GA,Ticketmaster,$49.50,0,106220,227
+9522580,2016-05-16T19:00:00-0400,Apocalyptica,Masquerade Atlanta,44.47,75.0,12,62.0,Atlanta,GA,Ticketmaster,$25.00,0,216253,64
+9522672,2016-05-02T19:00:00-0400,The Spill Canvas,Masquerade Atlanta,31.24,53.0,9,46.0,Atlanta,GA,Ticketmaster,$15.00,0,520329,50
+9523589,2016-05-10T19:00:00-0400,The Sonics with The Woggles and  Barrence Whitfield and The Savages,Terminal West,66.2,64.38,8,45.0,Atlanta,GA,Ticketfly,$30.00,0,62227,58
+9524101,2016-05-06T19:00:00-0400,Freddie Gibbs,Masquerade Atlanta,39.69,64.0,9,40.0,Atlanta,GA,Ticketmaster,$20.00,0,2793016,54
+9524270,2016-05-24T20:00:00-0400,The Neighbourhood,Buckhead Theatre,57.43,144.0,12,48.0,Atlanta,GA,Ticketmaster,$34.00,0,681887,72
+9527218,2016-06-03T19:00:00-0400,Maze featuring Frankie Beverly and Gladys Knight,Chastain Park Amphitheatre,154.72,275.0,17,94.0,Atlanta,GA,Live Nation,NoPriceClass,0,415088,82
+9527381,2016-03-26T20:00:00-0400,Rusted Root,Variety Playhouse,56.74,53.0,10,44.0,Atlanta,GA,Ticketmaster,$25.00,0,512687,13
+9527663,2016-09-09T20:00:00-0400,Brian Wilson,Fox Theatre Atlanta,93.57,299.0,100,373.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,547191,180
+9527670,2016-04-22T19:00:00-0400,The Steeldrivers,Terminal West,238.49,199.99,1,4.0,Atlanta,GA,Ticketfly,$20.00,0,199283,40
+9528388,2016-06-21T20:00:00-0400,The Wombats,Center Stage Theatre,41.31,125.0,10,56.0,Atlanta,GA,Ticketmaster,$20.00,0,470480,100
+9528641,2016-05-26T20:00:00-0400,Sam Beam,Buckhead Theatre,91.0,75.0,1,2.0,Atlanta,GA,Ticketmaster,$35.00,0,625595,74
+9528816,2016-05-04T19:00:00-0400,Queensryche,Masquerade Atlanta,108.15,89.55,2,14.0,Atlanta,GA,Ticketmaster,NoPriceClass,0,39576,52
+9529178,2016-04-10T19:30:00-0400,The Melvins and Napalm Death,Masquerade Atlanta,42.6,156.0,6,34.0,Atlanta,GA,Ticketmaster,$22.00,0,207184,28
+9529296,2016-03-20T20:00:00-0400,Majid Jordan,Vinyl Atlanta,140.95,225.0,2,2.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,8373298,7
+9530279,2016-04-10T18:30:00-0400,Vishal Daldani,Cobb Energy Performing Arts Centre,153.13,155.4,3,10.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,28
+9530452,2016-04-22T20:00:00-0400,Sister Hazel,Variety Playhouse,80.5,145.0,8,40.0,Atlanta,GA,Ticketmaster,$26.00,0,7973413,40
+9531597,2016-05-03T20:00:00-0400,Paul Simon,Fox Theatre Atlanta,128.76,749.01,125,369.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,213059,51
+9531704,2016-03-24T19:00:00-0400,Skinny Lister,Masquerade Atlanta,32.0,198.0,8,39.0,Atlanta,GA,Ticketmaster,$15.00,0,904039,11
+9531910,2016-05-06T19:00:00-0400,Bring Me The Horizon,The Tabernacle Atlanta,59.14,456.99,46,249.0,Atlanta,GA,Live Nation,NoPriceClass,0,347077,54
+9532223,2016-08-06T18:00:00-0400,Flashback Festival,Lakewood Amphitheatre,55.6,1147.5,46,358.0,Atlanta,GA,NoRegexp,NoRegexp,NoRegexp,NoRegexp,146
+9532998,2016-04-26T20:30:00-0400,Joy Formidable,Terminal West,49.69,60.0,5,24.0,Atlanta,GA,Ticketfly,$18.00,0,1195278,44
+9533014,2016-04-27T20:00:00-0400,Steel Panther,The Tabernacle Atlanta,70.82,176.0,10,48.0,Atlanta,GA,Live Nation,NoPriceClass,0,2330488,45
+9533864,2016-05-13T20:00:00-0400,Juan de Marcos and the Afro-Cuban All Stars,Variety Playhouse,100.7,199.0,3,13.0,Atlanta,GA,Ticketmaster,$30.00,0,299887,61
+9533921,2016-06-19T19:30:00-0400,Weird Al Yankovic,Fox Theatre Atlanta,117.35,406.98,46,139.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,132047,98
+9533958,2016-06-10T20:00:00-0400,Chris Botti and Joshua Bell,Symphony Hall Atlanta,126.79,270.0,11,54.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,89
+9533985,2016-08-12T19:00:00-0400,Def Leppard with REO Speedwagon and Tesla,Lakewood Amphitheatre,40.26,600.0,171,907.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,152
+9534044,2016-05-05T20:00:00-0400,Lukas Graham,Vinyl Atlanta,117.34,109.99,4,40.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,4801228,53
+9534360,2016-07-12T19:00:00-0400,Flight of the Conchords,Chastain Park Amphitheatre,86.67,3333.0,34,153.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,121
+9534470,2016-06-29T18:30:00-0400,Slipknot and Marilyn Manson,Lakewood Amphitheatre,32.81,525.0,125,777.0,Atlanta,GA,Live Nation,NoPriceClass,0,1012485,108
+9534539,2016-05-06T19:00:00-0400,Lauryn Hill,Chastain Park Amphitheatre,93.75,325.0,33,146.0,Atlanta,GA,Live Nation,NoPriceClass,0,6061929,54
+9534540,2016-05-07T19:00:00-0400,Scorpions,Chastain Park Amphitheatre,93.75,368.42,28,126.0,Atlanta,GA,Live Nation,NoPriceClass,0,201063,55
+9534541,2016-05-20T19:00:00-0400,Willie Nelson and Merle Haggard,Chastain Park Amphitheatre,93.75,399.0,21,86.0,Atlanta,GA,Live Nation,NoPriceClass,0,143930,68
+9534542,2016-06-11T19:00:00-0400,Harry Connick Jr.,Chastain Park Amphitheatre,122.07,459.0,18,86.0,Atlanta,GA,Live Nation,NoPriceClass,0,186299,90
+9534543,2016-06-19T19:00:00-0400,Kenny Rogers,Chastain Park Amphitheatre,93.75,399.0,33,161.0,Atlanta,GA,Live Nation,NoPriceClass,0,353317,98
+9534544,2016-06-26T19:00:00-0400,Steely Dan,Chastain Park Amphitheatre,84.86,421.05,34,151.0,Atlanta,GA,Live Nation,NoPriceClass,0,87233,105
+9534545,2016-07-01T19:00:00-0400,Bad Company and Joe Walsh,Chastain Park Amphitheatre,54.42,473.68,30,178.0,Atlanta,GA,Live Nation,NoPriceClass,0,364801,110
+9534547,2016-07-14T19:00:00-0400,Boyz II Men,Chastain Park Amphitheatre,93.75,368.42,31,144.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,371884,123
+9534548,2016-07-16T19:00:00-0400,Pat Benatar with Neil Giraldo and Melissa Etheridge,Chastain Park Amphitheatre,93.73,421.05,33,161.0,Atlanta,GA,Live Nation,NoPriceClass,0,576999,125
+9534549,2016-09-04T19:00:00-0400,Goo Goo Dolls,Chastain Park Amphitheatre,73.3,315.79,30,168.0,Atlanta,GA,Live Nation,NoPriceClass,0,8572449,175
+9534592,2016-05-03T19:00:00-0400,Chelsea Wolfe,Masquerade Atlanta,54.46,57.0,4,18.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,183260,51
+9535458,2016-10-26T20:01:00-0400,Mana,Philips Arena Parking Lots,40.26,40.0,5,5.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,227
+9535485,2016-03-15T21:00:00-0400,XXYYXX,Terminal West,83.92,69.0,1,4.0,Atlanta,GA,Ticketfly,$15.00,0,4971388,2
+9536046,2016-05-18T18:00:00-0400,Otep,Masquerade Atlanta,72.11,59.0,2,8.0,Atlanta,GA,Ticketmaster,$16.00,0,105933,66
+9536225,2016-11-11T19:00:00-0400,Streetlight Manifesto,Masquerade Atlanta,76.37,100.0,10,46.0,Atlanta,GA,Ticketmaster,$19.50,0,22900,243
+9536590,2016-06-12T20:30:00-0400,Oh Wonder,Terminal West,74.46,150.0,5,24.0,Atlanta,GA,Ticketfly,$18.00,0,8418168,91
+9536731,2016-04-30T20:30:00-0400,Snarky Puppy,The Tabernacle Atlanta,118.02,179.0,11,48.0,Atlanta,GA,Live Nation,NoPriceClass,0,29793,48
+9536732,2016-05-03T19:30:00-0400,Bullet for my Valentine with Asking Alexandria,The Tabernacle Atlanta,63.86,229.0,19,98.0,Atlanta,GA,Live Nation,NoPriceClass,0,137158,51
+9537042,2016-03-26T20:00:00-0400,Tyrese,Fox Theatre Atlanta,126.93,256.48,15,52.0,Atlanta,GA,NoVendorClass,NoPriceClass,NoSoldOutClass,466639,13
+9537481,2016-05-01T18:30:00-0400,Enter Shikari,Masquerade Atlanta,60.32,49.02,2,14.0,Atlanta,GA,Ticketmaster,$21.00,0,188715,49
+9537514,2016-07-29T20:00:00-0400,311,The Tabernacle Atlanta,111.05,249.0,15,68.0,Atlanta,GA,Live Nation,NoPriceClass,0,486064,138
+9537515,2016-07-30T20:00:00-0400,311,The Tabernacle Atlanta,96.89,299.0,26,109.0,Atlanta,GA,Live Nation,NoPriceClass,0,486064,139
+9537543,2016-05-02T20:30:00-0400,Lupe Fiasco,Variety Playhouse,107.41,121.0,7,37.0,Atlanta,GA,Ticketmaster,$45.00,0,268664,50
+9537676,2016-06-05T20:00:00-0400,Cyndi Lauper,Symphony Hall Atlanta,104.81,337.05,27,108.0,Atlanta,GA,Ticketmaster,$35.50,0,362622,84
+9537696,2016-05-17T18:30:00-0400,Insane Clown Posse,Masquerade Atlanta,61.21,57.0,6,31.0,Atlanta,GA,Ticketmaster,$22.50,0,48999,65
+9537889,2016-06-23T21:00:00-0400,B.o.B,The Loft Atlanta,108.57,87.56,1,8.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,102
+9537926,2016-04-27T20:00:00-0400,B.A.P.,Cobb Energy Performing Arts Centre,150.0,400.0,12,32.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,45
+9539685,2016-07-03T19:00:00-0400,The String Cheese Incident,Chastain Park Amphitheatre,85.1,999.0,34,138.0,Atlanta,GA,Live Nation,NoPriceClass,0,182943,112
+9539686,2016-07-04T19:00:00-0400,The String Cheese Incident,Chastain Park Amphitheatre,99.65,999.0,29,125.0,Atlanta,GA,Live Nation,NoPriceClass,0,182943,113
+9540674,2016-06-18T19:00:00-0400,Hot 107.9 Birthday Bash,Philips Arena,48.52,900.0,223,1064.0,Atlanta,GA,NoResults,NoResults,NoResults,NoResults,97
+9541570,2016-05-02T20:00:00-0400,Father,Center Stage Theatre,108.7,90.0,2,7.0,Atlanta,GA,Ticketmaster,$20.00,0,234137,50

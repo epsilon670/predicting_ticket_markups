@@ -1,0 +1,136 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9352316,2016-07-13T20:00:00-0500,Janet Jackson,Toyota Center,87.06,573.85,155,572.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,410449,122
+9372086,2016-03-24T19:00:00-0500,Disturbed,House of Blues Houston,78.65,255.0,40,133.0,Houston,TX,Live Nation,NoPriceClass,0,455175,11
+9381626,2016-03-21T19:30:00-0500,Underoath,Warehouse Live,113.42,119.99,4,8.0,Houston,TX,AXS,$25.00,0,2357960,8
+9404101,2016-03-18T19:30:00-0500,The Piano Guys,Revention Music Center,150.0,200.0,4,8.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5872269,5
+9408917,2016-06-15T19:00:00-0500,Selena Gomez,Toyota Center,81.57,2474.0,170,862.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1059348,94
+9420397,2016-03-25T19:00:00-0500,Big Head Todd and the Monsters,House of Blues Houston,57.96,167.0,15,80.0,Houston,TX,Live Nation,NoPriceClass,0,506841,12
+9425636,2016-09-09T19:30:00-0500,Demi Lovato and Nick Jonas,Toyota Center,68.97,1715.0,105,501.0,Houston,TX,Venue Website,NoPriceClass,0,976211,180
+9426477,2016-04-19T19:00:00-0500,Carrie Underwood,Toyota Center,110.26,555.56,143,662.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,7078209,37
+9426890,2016-03-17T19:00:00-0500,Coheed and Cambria,Revention Music Center,66.2,83.43,19,89.0,Houston,TX,Live Nation,NoPriceClass,0,200900,4
+9428095,2016-04-01T21:00:00-0500,They Might Be Giants,Warehouse Live,52.04,83.0,10,50.0,Houston,TX,Ticketfly,NoPriceClass,0,242200,19
+9431483,2016-03-24T20:00:00-0500,Matthew Morrison,Jones Hall,37.11,27.0,1,2.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1635789,11
+9431484,2016-03-25T20:00:00-0500,Matthew Morrison,Jones Hall,166.52,139.0,1,4.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1635789,12
+9431485,2016-03-26T20:00:00-0500,Matthew Morrison,Jones Hall,166.91,137.0,1,2.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1635789,13
+9432712,2016-05-09T19:30:00-0500,Celtic Woman,Revention Music Center,166.52,139.0,1,4.0,Houston,TX,Live Nation,NoPriceClass,0,227735,57
+9432753,2016-05-21T19:00:00-0500,Ellie Goulding,Toyota Center,82.35,1052.0,63,354.0,Houston,TX,Ticketing Central,$29.50,0,2332047,69
+9434840,2016-04-29T20:00:00-0500,Bonnie Raitt,Revention Music Center,85.1,448.0,92,270.0,Houston,TX,Live Nation,$47.50,0,135398,47
+9435508,2016-05-08T17:00:00-0500,Celtic Woman,Revention Music Center,43.8,449.0,11,53.0,Houston,TX,Live Nation,NoPriceClass,0,227735,56
+9443417,2016-03-26T18:30:00-0500,Finish Ticket,House of Blues Houston - Bronze Peacock Room,41.32,98.0,8,43.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,13
+9445425,2016-04-09T19:30:00-0500,Justin Bieber,Toyota Center,371.25,5000.0,143,476.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,2596951,27
+9448309,2016-04-20T19:00:00-0500,Umphreys McGee,House of Blues Houston,43.85,197.0,13,64.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,38
+9461737,2016-05-15T19:30:00-0500,Rihanna,Toyota Center,143.25,5480.0,100,437.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,139648,63
+9462407,2016-03-15T19:00:00-0500,Wolfmother,House of Blues Houston,28.46,149.99,13,70.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,2
+9463190,2016-03-13T21:00:00-0500,UFO,Concert Pub North,32.0,51.3,2,8.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,0
+9463631,2016-03-17T19:00:00-0500,Troye Sivan,House of Blues Houston,48.52,149.05,35,107.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,7589349,4
+9466091,2016-03-24T20:30:00-0500,Logic,Warehouse Live,72.42,1111.0,28,91.0,Houston,TX,Ticketfly,$28.00,0,614453,11
+9468967,2016-05-14T19:30:00-0500,The Cure,Toyota Center,95.11,1234.6,205,803.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,474439,62
+9472830,2016-04-13T20:00:00-0500,Stick Figure,Warehouse Live,60.3,66.0,6,33.0,Houston,TX,Ticketfly,$15.00,0,514431,31
+9475583,2016-04-10T19:30:00-0500,Melanie Martinez,Warehouse Live,90.64,200.0,18,52.0,Houston,TX,Ticketfly,$27.50,1,6647159,28
+9475590,2016-04-16T20:00:00-0500,Ben Folds,Cullen Performance Hall,79.2,271.78,23,62.0,Houston,TX,Ticketmaster,$29.50,0,125822,34
+9475710,2016-05-01T20:30:00-0500,Lauren Hill,Revention Music Center,89.71,349.0,18,98.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,49
+9475772,2016-03-16T18:30:00-0500,Cannibal Corpse,House of Blues Houston,26.1,66.0,9,44.0,Houston,TX,Live Nation,NoPriceClass,0,145766,3
+9476372,2016-03-13T20:00:00-0500,Future with Ty Dolla Sign,Revention Music Center,239.31,700.0,21,88.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,0
+9478468,2016-11-08T20:00:00-0500,Adele,Toyota Center,388.75,3462.77,125,390.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,537914,240
+9478469,2016-11-09T20:00:00-0500,Adele,Toyota Center,428.87,9900.0,120,342.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,537914,241
+9482735,2016-03-25T21:00:00-0500,Clay Walker,Arena Theatre,128.65,181.0,3,10.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,304656,12
+9483214,2016-04-11T19:30:00-0500,Kirk Franklin,Revention Music Center,76.84,224.72,7,25.0,Houston,TX,Live Nation,NoPriceClass,0,115247,29
+9483859,2016-04-15T21:00:00-0500,Drive By Truckers,Warehouse Live,61.49,94.0,8,39.0,Houston,TX,Ticketfly,NoPriceClass,0,226352,33
+9484263,2016-03-17T20:00:00-0500,Pusha T,Warehouse Live,91.0,93.48,2,8.0,Houston,TX,Ticketfly,NoPriceClass,0,814169,4
+9484530,2016-03-18T18:00:00-0500,Blessthefall,Warehouse Live,45.74,67.0,7,35.0,Houston,TX,Ticketfly,NoPriceClass,0,582704,5
+9485298,2016-04-15T20:00:00-0500,The Milk Carton Kids,Cullen Performance Hall,83.92,144.0,5,19.0,Houston,TX,Ticketmaster,$22.00,0,4186126,33
+9485368,2016-03-19T18:00:00-0500,The Word Alive,Walters Downtown,75.14,61.56,1,6.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,6
+9485462,2016-06-20T19:00:00-0500,Pat Benatar and Neil Giraldo,House of Blues Houston,66.22,295.0,13,36.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,274825,99
+9486782,2016-04-02T19:00:00-0500,Tech N9ne,Warehouse Live,49.63,108.0,11,56.0,Houston,TX,Ticketfly,$27.50,0,283009,20
+9487480,2016-04-01T21:00:00-0500,Jauz,Stereo Live,61.12,85.0,12,50.0,Houston,TX,Eventbrite,$15.00,0,8395978,19
+9489267,2016-05-01T20:00:00-0500,Charles Kelley,House of Blues Houston,30.82,199.01,18,103.0,Houston,TX,Live Nation,NoPriceClass,0,1171291,49
+9493575,2016-04-17T20:00:00-0500,Bon Qui Qui featuring Anjelah Johnson,Revention Music Center,73.3,235.0,36,129.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,35
+9500626,2016-04-22T19:00:00-0500,Los Lonely Boys,House of Blues Houston,37.9,249.0,15,64.0,Houston,TX,Live Nation,NoPriceClass,0,256120,40
+9500872,2016-04-10T20:00:00-0500,Tori Kelly,Revention Music Center,56.6,240.0,42,181.0,Houston,TX,Live Nation,NoPriceClass,0,1054791,28
+9501097,2016-04-26T19:00:00-0500,Ghost,House of Blues Houston,52.76,199.0,16,78.0,Houston,TX,Live Nation,NoPriceClass,0,6321069,44
+9501180,2016-03-13T19:00:00-0500,Miike Snow,House of Blues Houston,55.6,150.0,13,44.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,0
+9501828,2016-05-27T19:00:00-0500,Say Anything,House of Blues Houston,38.01,195.0,16,99.0,Houston,TX,Live Nation,NoPriceClass,0,235557,75
+9501874,2016-03-26T19:00:00-0500,Tinashe,House of Blues Houston,37.11,195.0,21,95.0,Houston,TX,Live Nation,NoPriceClass,0,2020878,13
+9503532,2016-03-13T19:00:00-0500,Emily Kinney,House of Blues Houston,48.52,46.74,2,12.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,0
+9506342,2016-03-30T19:00:00-0500,Daughter,Numbers,72.71,1111.0,10,47.0,Houston,TX,Ticketweb,NoPriceClass,0,201667,17
+9507442,2016-04-23T19:00:00-0500,Jonny Lang,House of Blues Houston,55.6,399.0,18,84.0,Houston,TX,Live Nation,NoPriceClass,0,1053,41
+9507617,2016-05-03T18:00:00-0500,Boyce Avenue,House of Blues Houston,44.78,195.0,20,98.0,Houston,TX,Live Nation,$22.50,0,608550,51
+9507692,2016-05-12T19:00:00-0500,Floetry,House of Blues Houston,63.29,195.0,16,63.0,Houston,TX,Live Nation,NoPriceClass,0,378151,60
+9507983,2016-05-15T18:30:00-0500,Magic Man & The Griswolds,House of Blues Houston,33.18,195.0,15,88.0,Houston,TX,Live Nation,NoPriceClass,0,699966,63
+9508122,2016-06-08T18:30:00-0500,Thrice,House of Blues Houston,47.9,456.99,31,134.0,Houston,TX,Live Nation,NoPriceClass,0,498261,87
+9508150,2016-04-28T20:00:00-0500,My Morning Jacket,Revention Music Center,74.49,456.99,43,215.0,Houston,TX,Live Nation,NoPriceClass,0,408208,46
+9509057,2016-04-14T19:00:00-0500,Kurt Vile and the Violators,House of Blues Houston,43.8,195.0,13,65.0,Houston,TX,Live Nation,NoPriceClass,0,4294851,32
+9509091,2016-04-06T19:00:00-0500,Dr. Dog,House of Blues Houston,48.06,195.0,16,84.0,Houston,TX,Live Nation,NoPriceClass,0,42687,24
+9509276,2016-04-16T20:00:00-0500,Dawes,Warehouse Live,40.25,93.45,9,60.0,Houston,TX,Ticketfly,NoPriceClass,0,2335213,34
+9509790,2016-04-26T18:30:00-0500,The Contortionist with Monuments and more,Scout Bar Houston,57.63,49.0,3,17.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,44
+9510254,2016-05-14T20:30:00-0500,Loretta Lynn,Arena Theatre,141.74,146.88,3,14.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,321136,62
+9511146,2016-04-15T19:00:00-0500,Amon Amarth with Entombed and Exmortus,House of Blues Houston,52.76,149.0,15,89.0,Houston,TX,Live Nation,NoPriceClass,0,216859,33
+9511417,2016-03-22T20:00:00-0500,Deftones,Revention Music Center,76.8,179.0,40,188.0,Houston,TX,Live Nation,NoPriceClass,0,83230,9
+9511761,2016-05-08T20:30:00-0500,Flatbush Zombies,Warehouse Live,52.64,60.42,4,15.0,Houston,TX,Ticketfly,$23.00,0,5081903,56
+9511807,2016-03-28T18:00:00-0500,Issues with Crown The Empire and more,House of Blues Houston,44.13,195.0,14,70.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,15
+9511957,2016-04-09T19:00:00-0500,M83,White Oak Music Hall,61.44,99.99,9,42.0,Houston,TX,Stubwire,$27.50,0,525418,27
+9511973,2016-04-29T19:00:00-0500,CHVRCHES,White Oak Music Hall,73.28,175.0,8,38.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5933069,47
+9512009,2016-07-07T20:00:00-0500,Halsey,Revention Music Center,99.26,115.0,3,14.0,Houston,TX,Live Nation,NoPriceClass,0,8067338,116
+9512050,2016-07-08T20:00:00-0500,Halsey,Revention Music Center,49.52,10000.0,222,790.0,Houston,TX,Live Nation,NoPriceClass,0,8067338,117
+9512395,2016-05-10T17:30:00-0500,FILTER with Orgy and Vampires Everywhere,House of Blues Houston,26.1,195.0,12,60.0,Houston,TX,Live Nation,NoPriceClass,0,188715,58
+9512449,2017-03-14T19:00:00-0500,L7,House of Blues Houston,76.49,195.0,4,18.0,Houston,TX,Live Nation,NoPriceClass,0,6321069,366
+9513725,2016-03-19T18:00:00-0500,The Devil Wears Prada,Scout Bar Houston,68.39,59.0,3,18.0,Houston,TX,Ticketfly,$20.00,0,144240,6
+9513788,2016-04-03T16:00:00-0500,Let's Dance - The Tour featuring Silento,Revention Music Center,68.56,141.8,6,40.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,21
+9514225,2016-03-21T19:00:00-0500,Santigold,House of Blues Houston,48.24,195.0,26,119.0,Houston,TX,Live Nation,NoPriceClass,0,2385431,8
+9514291,2016-04-20T19:30:00-0500,The Smashing Pumpkins,Cullen Performance Hall,96.9,440.0,73,225.0,Houston,TX,Ticketmaster,$65.00,0,233074,38
+9514352,2016-05-31T19:00:00-0500,Enrique Bunbury,House of Blues Houston,69.85,299.0,18,89.0,Houston,TX,Live Nation,NoPriceClass,0,76789,79
+9515819,2016-05-10T20:00:00-0500,Disclosure,Revention Music Center,62.68,149.0,52,229.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,58
+9516453,2016-03-20T14:00:00-0500,NOFX,House of Blues Houston,55.46,195.0,16,78.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,214756,7
+9516653,2016-05-08T19:00:00-0500,Jason Bonhams Led Zeppelin Experience,House of Blues Houston,52.76,299.0,29,128.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,56
+9516669,2016-06-27T20:00:00-0500,Brit Floyd,Revention Music Center,100.79,249.0,13,56.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,3705716,106
+9517121,2016-04-27T19:30:00-0500,The Front Bottoms,Warehouse Live,43.79,110.0,11,74.0,Houston,TX,Ticketfly,NoPriceClass,0,1101535,45
+9519803,2016-05-07T18:00:00-0500,Beyoncé,NRG Stadium,91.0,9999.0,2163,6837.0,Houston,TX,Ticketmaster,$45.00,0,553938,55
+9520555,2016-05-28T19:00:00-0500,Flogging Molly,House of Blues Houston,61.33,220.0,16,72.0,Houston,TX,Live Nation,NoPriceClass,0,356538,76
+9520786,2016-03-20T19:00:00-0500,Firekid,House of Blues Houston,26.1,38.76,4,26.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,214756,7
+9521446,2016-05-18T20:00:00-0500,The Neighbourhood,Revention Music Center,84.84,199.0,25,120.0,Houston,TX,Live Nation,NoPriceClass,0,636848,66
+9522576,2016-05-09T19:00:00-0500,Apocalyptica,House of Blues Houston,52.04,195.0,16,85.0,Houston,TX,Live Nation,NoPriceClass,0,216253,57
+9522686,2016-05-14T19:00:00-0500,Mint Condition,House of Blues Houston,119.32,249.0,11,54.0,Houston,TX,Live Nation,NoPriceClass,0,21435,62
+9522695,2016-05-06T19:00:00-0500,Gipsy Kings,House of Blues Houston,110.43,399.0,25,98.0,Houston,TX,Live Nation,NoPriceClass,0,178419,54
+9523330,2016-06-16T19:00:00-0500,Merle Haggard,Arena Theatre,221.98,255.0,2,8.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,366005,95
+9527178,2016-05-21T19:00:00-0500,The Lumineers,White Oak Music Hall,181.86,277.77,10,52.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,2827981,69
+9527287,2016-05-21T19:30:00-0500,Alabama,Sam Houston Race Park,74.48,351.33,18,94.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,244095,69
+9527293,2016-05-29T13:00:00-0500,The Flaming Lips,White Oak Music Hall,72.1,69.99,3,18.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,7453,77
+9527766,2016-10-01T19:30:00-0500,Mana,Toyota Center,86.67,1421.0,154,949.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,106220,202
+9527928,2016-06-04T10:55:00-0500,Free Press Summerfest 2 Day Pass,Eleanor Tinsley Park On Buffalo Bayou,178.71,333.0,18,78.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,83
+9530014,2016-03-22T19:00:00-0500,Moon Taxi,House of Blues Houston,39.08,167.0,6,21.0,Houston,TX,Live Nation,NoPriceClass,0,466296,9
+9530073,2016-05-12T19:00:00-0500,LANY,Warehouse Live,64.49,199.99,16,90.0,Houston,TX,Ticketfly,NoPriceClass,0,8376228,60
+9530339,2016-04-27T19:00:00-0500,Atlas Genius,House of Blues Houston,34.73,195.0,14,81.0,Houston,TX,Live Nation,NoPriceClass,0,5539353,45
+9530347,2016-05-07T19:00:00-0500,Fonseca,House of Blues Houston,69.76,299.0,12,61.0,Houston,TX,Live Nation,NoPriceClass,0,101022,55
+9530976,2016-03-14T19:00:00-0500,Beartooth,House of Blues Houston,29.46,58.0,3,16.0,Houston,TX,Live Nation,NoPriceClass,0,6321069,1
+9531100,2016-05-21T20:30:00-0500,Paquita La Del Barrio,Arena Theatre,141.13,233.83,2,10.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,98124,69
+9531105,2016-04-02T20:00:00-0500,Dru Hill,Arena Theatre,143.9,163.33,2,10.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,226134,20
+9531107,2016-11-05T20:30:00-0500,The Temptations,Arena Theatre,119.32,99.0,1,4.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,4906683,237
+9531183,2016-04-20T21:00:00-0500,Curren$y,Warehouse Live,73.3,69.0,2,10.0,Houston,TX,Ticketfly,$30.00,0,5334228,38
+9531319,2016-07-15T18:30:00-0500,Slightly Stoopid,White Oak Music Hall,75.64,83.0,5,27.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,430868,124
+9531538,2016-06-05T20:00:00-0500,Whitesnake,Revention Music Center,120.32,299.0,12,60.0,Houston,TX,Live Nation,NoPriceClass,0,505217,84
+9531554,2016-08-10T19:00:00-0500,Frankie Ballard,House of Blues Houston,66.1,195.0,7,30.0,Houston,TX,Live Nation,NoPriceClass,0,1050031,150
+9531577,2016-04-19T19:00:00-0500,The Darkness,House of Blues Houston,69.74,211.0,26,114.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,37
+9531639,2016-03-15T19:00:00-0500,Banners,House of Blues Houston,48.64,69.0,2,13.0,Houston,TX,Live Nation,NoPriceClass,0,5401363,2
+9531655,2016-04-07T20:00:00-0500,Candlebox,Scout Bar Houston,69.76,63.0,4,21.0,Houston,TX,Ticketfly,$22.00,0,238974,25
+9531829,2016-04-24T20:00:00-0500,Cypress Hill,House of Blues Houston,76.25,195.0,19,109.0,Houston,TX,Live Nation,NoPriceClass,0,500307,42
+9532347,2016-04-07T19:00:00-0500,DJ Biz Markie's 80's vs 90's Party,House of Blues Houston,32.0,195.0,12,72.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,25
+9532385,2016-07-14T20:00:00-0500,Weird Al Yankovic,Brown Theatre (Houston),179.5,345.0,23,79.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,123
+9532860,2016-05-11T20:00:00-0500,Caifanes,House of Blues Houston,53.24,399.0,18,79.0,Houston,TX,Live Nation,NoPriceClass,0,367950,59
+9532989,2016-05-13T19:00:00-0500,La Ley,House of Blues Houston,102.02,195.0,9,36.0,Houston,TX,Live Nation,NoPriceClass,0,262243,61
+9533083,2016-04-15T19:30:00-0500,Disney In Concert,Jones Hall,39.47,29.0,1,2.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,33
+9533355,2016-05-13T21:00:00-0500,Marshmello,Stereo Live,67.39,99.99,4,32.0,Houston,TX,Eventbrite,$15.00,0,8613384,61
+9533468,2016-08-13T19:00:00-0500,Zac Brown Band,Minute Maid Park,135.05,430.0,56,130.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,514278,153
+9534455,2016-04-21T19:00:00-0500,George Clinton,House of Blues Houston,81.56,199.0,15,72.0,Houston,TX,Live Nation,NoPriceClass,0,350400,39
+9534570,2016-04-16T21:00:00-0500,Yellow Claw,Stereo Live,95.72,90.0,3,14.0,Houston,TX,Eventbrite,$30.00,0,3735966,34
+9535352,2016-03-13T20:00:00-0500,Nervo,Proof Rooftop Lounge,48.39,43.33,3,22.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,0
+9535990,2016-07-26T19:30:00-0500,Malala Yousafzai,NRG Arena,119.32,124.0,3,18.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,135
+9536482,2016-04-28T19:00:00-0500,Lucinda Williams,House of Blues Houston,85.88,250.0,15,57.0,Houston,TX,Live Nation,NoPriceClass,0,245404,46
+9536521,2016-05-13T20:00:00-0500,"Houston Music Festival with Keith Sweat, Bobby Brown and more",NRG Arena,119.32,191.0,3,17.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,61
+9537480,2016-04-28T18:30:00-0500,Enter Shikari,Scout Bar Houston,61.67,53.0,3,20.0,Houston,TX,Ticketfly,$16.00,0,16773,46
+9537494,2016-05-10T19:00:00-0500,Sturgill Simpson,White Oak Music Hall,85.1,200.0,14,73.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,6140284,58
+9537736,2016-05-05T20:00:00-0500,Sebastian Bach,Scout Bar Houston,75.64,62.0,2,12.0,Houston,TX,Ticketfly,$23.50,0,2652391,53
+9537771,2016-04-06T18:30:00-0500,DigiTour Spring Break 2016,Warehouse Live,87.24,71.82,2,12.0,Houston,TX,NoRegexp,NoRegexp,NoRegexp,NoRegexp,24
+9538646,2016-05-11T19:00:00-0500,B.o.B.,House of Blues Houston,66.22,54.72,2,12.0,Houston,TX,NoResults,NoResults,NoResults,NoResults,59
+9539406,2016-05-02T19:00:00-0500,Silversun Pickups,Revention Music Center,95.71,116.33,10,51.0,Houston,TX,Live Nation,NoPriceClass,0,393244,50
+9539452,2016-05-02T20:00:00-0500,Harry Connick Jr.,Jones Hall,184.11,349.0,13,48.0,Houston,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,186299,50
+9540956,2016-06-17T19:00:00-0500,Bob Schneider,House of Blues Houston,73.8,250.0,10,49.0,Houston,TX,Live Nation,NoPriceClass,0,423560,96

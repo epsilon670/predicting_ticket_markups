@@ -1,0 +1,131 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9326623,2016-03-22T20:00:00-0500,Patty Griffin,Bass Concert Hall,122.86,245.0,6,24.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,28382,9
+9369370,2016-03-16T20:00:00-0500,Il Volo,Bass Concert Hall,51.27,224.25,12,50.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,187568,3
+9392997,2016-05-26T20:00:00-0500,Janet Jackson,Frank Erwin Events Center,73.71,750.0,51,178.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,410449,74
+9408918,2016-06-17T19:30:00-0500,Selena Gomez,Frank Erwin Events Center,92.17,2199.0,76,294.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1059348,96
+9420349,2016-05-18T18:00:00-0500,Leon Bridges with Andra Day,Stubbs BarBQ,92.38,164.3,36,166.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,66
+9422060,2016-09-30T13:00:00-0500,Austin City Limits Music Festival Weekend 1,Zilker Park,314.0,2000.0,117,592.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,201
+9422079,2016-10-07T13:00:00-0500,Austin City Limits Music Festival Weekend 2,Zilker Park,340.0,2000.0,91,462.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,208
+9426931,2016-07-06T19:00:00-0500,Twenty One Pilots,Austin360 Amphitheater,105.15,5000.0,169,821.0,Austin,TX,Ticketmaster,$22.50,0,3123851,115
+9430769,2016-03-31T20:00:00-0500,They Might Be Giants,Stubbs BarBQ,60.32,83.0,6,28.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,18
+9434930,2016-04-27T20:00:00-0500,Bonnie Raitt,ACL Live at The Moody Theater,158.06,394.69,19,49.0,Austin,TX,Ticketfly,$49.00,0,135398,45
+9438037,2016-04-07T12:00:00-0500,Euphoria Music Festival Pass,Carson Creek Ranch,205.85,650.0,7,15.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,25
+9443416,2016-03-25T18:30:00-0500,Finish Ticket,The Parish,64.19,49.95,1,2.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1390422,12
+9443725,2016-05-13T19:30:00-0500,The Cure,Frank Erwin Events Center,80.38,777.0,196,491.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,474439,61
+9448291,2016-04-24T19:30:00-0500,Tony Bennett,Bass Concert Hall,135.84,469.99,24,104.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,500873,42
+9448379,2016-04-22T18:30:00-0500,Umphreys McGee,Stubbs BarBQ,60.32,79.0,6,38.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,40
+9449220,2016-03-26T20:00:00-0500,Big Head Todd and The Monsters,Stubbs BarBQ,61.5,59.28,5,23.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,367320,13
+9452460,2016-08-07T19:00:00-0500,Dixie Chicks,Austin360 Amphitheater,222.55,980.0,70,223.0,Austin,TX,Ticketmaster,$47.50,0,61008,147
+9461630,2016-05-14T19:30:00-0500,Rihanna,Frank Erwin Events Center,91.0,2300.0,172,578.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,62
+9462778,2016-05-18T19:00:00-0500,Journey and The Doobie Brothers,Austin360 Amphitheater,43.79,980.0,158,789.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,66
+9463284,2016-03-23T18:00:00-0500,Abbath,Emos,72.43,59.28,2,10.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,8530404,10
+9463287,2016-04-12T20:00:00-0500,Savages,Emos,41.25,53.58,3,18.0,Austin,TX,Front Gate Tickets,$20.00,0,242996,30
+9465864,2016-03-25T19:00:00-0500,Logic,Stubbs BarBQ,71.35,1999.9,28,141.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,12
+9469922,2016-05-05T20:00:00-0500,The 1975,Austin360 Amphitheater,60.3,312.12,86,341.0,Austin,TX,Ticketmaster,$29.50,0,66370,53
+9472385,2016-03-24T19:00:00-0500,Ben Rector,Stubbs BarBQ,40.86,78.0,8,31.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,11
+9474198,2016-04-02T20:00:00-0500,Yonder Mountain String Band,Stubbs BarBQ,80.91,74.0,2,16.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,58290,20
+9474277,2016-04-22T19:00:00-0500,Duran Duran,Austin360 Amphitheater,34.75,479.0,121,478.0,Austin,TX,Ticketmaster,$29.95,0,427500,40
+9475584,2016-04-07T20:00:00-0500,Melanie Martinez,Emos,112.82,135.0,9,42.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,6647159,25
+9475711,2016-05-02T19:00:00-0500,Lauryn Hill,Stubbs BarBQ,97.15,125.0,10,53.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,50
+9476281,2016-04-15T20:00:00-0500,Ben Folds,Bass Concert Hall,67.4,145.0,37,123.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,125822,33
+9476690,2016-04-21T20:00:00-0500,Herbie Hancock,Bass Concert Hall,72.12,281.75,8,28.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,224916,39
+9478057,2016-05-19T18:00:00-0500,Leon Bridges with Andra Day,Stubbs BarBQ,122.07,160.0,7,33.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,67
+9478465,2016-11-04T19:30:00-0500,Adele,Frank Erwin Events Center,12513.25,10600.0,1,2.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,537914,236
+9483192,2016-04-29T19:30:00-0500,Blue October,Stubbs BarBQ,67.27,115.0,18,78.0,Austin,TX,ShowClix,$50.00,0,500273,47
+9483228,2016-04-15T20:00:00-0500,Eric Church,ACL Live at The Moody Theater,356.5,660.0,12,26.0,Austin,TX,Ticketfly,$42.00,1,61270,33
+9486781,2016-04-01T20:00:00-0500,Tech N9ne,Emos,44.0,73.0,7,28.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,283009,19
+9490438,2016-04-02T21:00:00-0500,Jauz,Emos,46.86,99.99,8,49.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,8395978,20
+9491435,2016-04-08T19:00:00-0500,Dr. Dog and Shakey Graves,Stubbs BarBQ,46.47,89.0,19,99.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,26
+9491436,2016-04-09T19:00:00-0500,Dr. Dog and Shakey Graves,Stubbs BarBQ,55.99,99.0,12,66.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,27
+9491847,2016-04-05T17:30:00-0500,Between the Buried and Me & August Burns Red,Emos,50.34,90.0,8,42.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,391106,23
+9500569,2016-05-19T19:30:00-0500,Florence and the Machine,Austin360 Amphitheater,39.46,600.0,250,984.0,Austin,TX,Ticketmaster,$30.50,0,595947,67
+9500865,2016-04-30T13:00:00-0500,"iHeartRadio Country Music Festival with Florida Georgia Line, Miranda Lambert and more",Frank Erwin Events Center,60.32,1669.22,122,473.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,48
+9501324,2016-04-10T19:00:00-0500,M83,Stubbs BarBQ,61.5,299.0,46,242.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,28
+9501834,2016-04-11T20:00:00-0500,Beach House,ACL Live at The Moody Theater,56.78,8000.0,62,229.0,Austin,TX,Ticketfly,$29.50,0,273059,29
+9502344,2016-04-19T19:00:00-0500,Charlie Puth,Emos,14.76,1111.11,47,252.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5318433,37
+9503052,2016-03-20T20:00:00-0500,Robert Plant & The Sensational Space Shifters,ACL Live at The Moody Theater,155.9,371.0,30,78.0,Austin,TX,Ticketfly,$51.00,0,39257,7
+9503186,2016-03-26T20:00:00-0500,Jerry Jeff Walker 2016 Texas Bash,Paramount Theatre Austin,140.95,218.5,7,21.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,13
+9503505,2016-04-25T19:00:00-0500,Ghost,Emos,50.67,60.42,3,9.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,186546,43
+9503506,2016-05-28T18:30:00-0500,Say Anything,Scoot Inn,96.87,79.99,2,12.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,235557,76
+9506341,2016-03-28T17:30:00-0500,Daughter,Mohawk,37.43,299.0,15,49.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,201667,15
+9507665,2016-06-19T20:00:00-0500,The Avett Brothers,ACL Live at The Moody Theater,108.7,500.0,94,294.0,Austin,TX,Ticketfly,$65.00,1,348455,98
+9508120,2016-06-07T18:30:00-0500,Thrice,Emos,42.61,199.99,24,96.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,498261,86
+9508179,2016-04-27T19:00:00-0500,CHVRCHES,Stubbs BarBQ,24.74,400.0,84,484.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5933069,45
+9508375,2016-04-16T19:00:00-0500,William Singe,Emos,10.39,1111.0,42,244.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,8654944,34
+9509059,2016-04-15T20:00:00-0500,Kurt Vile and the Violators,Stubbs BarBQ,50.08,68.4,10,41.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,33
+9509130,2016-04-01T19:00:00-0500,Hippie Sabotage,The Parish,60.71,199.5,8,38.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,8507413,19
+9509164,2016-08-11T20:00:00-0500,Frankie Valli and the Four Seasons,Bass Concert Hall,96.9,338.0,30,116.0,Austin,TX,Venue Website,NoPriceClass,0,30108,151
+9509201,2016-08-13T19:00:00-0500,Hank Williams Jr and Chris Stapleton,Austin360 Amphitheater,82.74,9999.0,441,1476.0,Austin,TX,Ticketmaster,$29.50,0,336551,153
+9509251,2016-06-21T20:00:00-0500,Gordon Lightfoot,ACL Live at The Moody Theater,137.82,273.9,26,69.0,Austin,TX,Ticketfly,$29.00,0,496846,100
+9509292,2016-06-18T19:00:00-0500,Darius Rucker,Austin360 Amphitheater,59.73,442.0,42,189.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,22690,97
+9509410,2016-04-28T19:00:00-0500,CHVRCHES,Stubbs BarBQ,82.74,100.0,7,43.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5933069,46
+9509879,2016-05-06T20:00:00-0500,Flatbush Zombies,Emos,45.03,63.84,3,12.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5081903,54
+9509917,2016-05-05T20:00:00-0500,Graham Nash,Paramount Theatre Austin,111.45,238.0,7,22.0,Austin,TX,Official Artist VIP,$175.00,0,193597,53
+9509919,2017-03-05T20:00:00-0500,Randy Newman,Paramount Theatre Austin,97.29,78.0,2,7.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,291304,357
+9509921,2016-04-09T20:00:00-0500,Rita Wilson,Stateside at The Paramount Theatre Austin,63.07,75.0,2,8.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5271843,27
+9510028,2016-04-08T20:00:00-0500,Lissie,Emos,67.05,54.72,2,8.0,Austin,TX,Front Gate Tickets,$20.00,0,582389,26
+9510157,2016-04-22T20:00:00-0500,Jonny Lang,ACL Live at The Moody Theater,75.66,207.9,26,82.0,Austin,TX,Ticketfly,$29.00,0,1053,40
+9511022,2016-07-23T19:30:00-0500,Brand New and Modest Mouse,Austin360 Amphitheater,44.93,5495.0,276,967.0,Austin,TX,Ticketmaster,$25.00,0,535518,132
+9511109,2016-05-13T20:00:00-0500,J Boog,The Parish,99.98,80.28,1,8.0,Austin,TX,Front Gate Tickets,$15.00,0,1077783,61
+9511110,2016-05-13T19:00:00-0500,Magic Man and the Griswolds with Panama Wedding,Scoot Inn,106.44,85.75,1,8.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,61
+9511298,2016-04-18T18:00:00-0500,The Summer Set,The Sidewinder,76.49,62.7,1,6.0,Austin,TX,Ticketfly,$17.00,0,912614,36
+9512368,2016-04-21T20:00:00-0500,Foreigner,ACL Live at The Moody Theater,100.83,286.35,34,102.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,145855,39
+9512547,2016-03-25T20:00:00-0500,Explosions In The Sky,Paramount Theatre Austin,176.36,224.99,4,10.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,561284,12
+9513677,2016-09-22T20:00:00-0500,Ray LaMontagne,Bass Concert Hall,113.4,5000.0,97,261.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,107918,193
+9514521,2016-04-19T19:30:00-0500,The Smashing Pumpkins,Bass Concert Hall,81.55,300.0,85,298.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,233074,37
+9516753,2016-04-29T20:00:00-0500,Foals,Emos,78.02,150.0,7,35.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,47
+9517087,2016-03-24T19:00:00-0500,Moon Taxi,Emos,94.52,78.0,5,25.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,466296,11
+9517122,2016-04-28T19:00:00-0500,The Front Bottoms,Emos,41.38,199.0,21,111.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1101535,46
+9519208,2016-04-14T19:00:00-0500,Delta Rae,The Parish,103.49,83.25,1,8.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,3570191,32
+9519290,2016-05-21T20:00:00-0500,Lucius,Emos,38.3,79.35,10,48.0,Austin,TX,Front Gate Tickets,$20.00,0,598452,69
+9520683,2016-04-21T19:00:00-0500,Nathaniel Rateliff,Stubbs BarBQ,56.66,1111.0,70,409.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,2402553,39
+9521556,2016-05-17T19:00:00-0500,Daryl Hall and John Oates with Sharon Jones and the Dap Kings and more,Austin360 Amphitheater,43.74,752.0,151,605.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,65
+9521693,2016-04-20T20:00:00-0500,Bon Qui Qui,Paramount Theatre Austin,123.25,125.0,2,6.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,38
+9521877,2016-05-08T20:00:00-0500,Pentatonix,Frank Erwin Events Center,70.2,399.0,101,374.0,Austin,TX,Official Artist VIP,$125.00,0,5612033,56
+9521903,2016-04-15T20:00:00-0500,Chick Corea and Bela Fleck,Paramount Theatre Austin,87.85,70.0,1,2.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,206143,33
+9521926,2016-04-26T19:00:00-0500,Half Moon Run,The Parish,73.69,100.0,3,14.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,3878406,44
+9522704,2016-05-07T20:00:00-0500,Gipsy Kings,ACL Live at The Moody Theater,106.34,334.0,13,44.0,Austin,TX,Ticketfly,$51.50,0,178419,55
+9523118,2016-06-07T19:00:00-0500,BØRNS,Stubbs BarBQ,39.81,1000.0,25,120.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,86
+9523518,2016-04-20T19:30:00-0500,The Struts,The Parish,54.79,104.98,7,44.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,567327,38
+9524269,2016-05-17T19:00:00-0500,The Neighbourhood,Stubbs BarBQ,65.02,75.0,13,63.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,636848,65
+9524271,2016-05-26T19:00:00-0500,Flogging Molly,Stubbs BarBQ,56.3,224.0,8,38.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,74
+9527117,2016-06-18T20:00:00-0500,Bruce Robison and Kelly Willis with John Fullbright,ACL Live at The Moody Theater,78.02,99.0,11,35.0,Austin,TX,Ticketfly,$29.00,0,5361118,97
+9527121,2016-06-04T20:00:00-0500,Justin Hayward,Paramount Theatre Austin,161.01,299.0,6,18.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,225631,83
+9527328,2016-04-14T19:00:00-0500,Deerhunter,Mohawk,70.89,140.0,11,31.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,222485,32
+9527657,2016-03-30T19:00:00-0500,Greg Dulli,Central Presbyterian Church,64.25,50.0,1,2.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,458141,17
+9527728,2016-04-23T19:00:00-0500,Leslie Jones and Colin Jost,Paramount Theatre Austin,98.47,110.0,5,18.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,2334199,41
+9529152,2016-06-25T19:00:00-0500,Lake Street Dive,Stubbs BarBQ,43.8,86.9,15,75.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1077331,104
+9529588,2016-04-09T20:00:00-0500,Widespread Panic,ACL Live at The Moody Theater,127.96,350.0,77,250.0,Austin,TX,Ticketfly,$49.00,0,377326,27
+9529670,2016-04-08T20:00:00-0500,Widespread Panic,ACL Live at The Moody Theater,142.07,999.0,51,180.0,Austin,TX,Ticketfly,$49.00,0,377326,26
+9529671,2016-04-10T20:00:00-0500,Widespread Panic,ACL Live at The Moody Theater,93.75,1000.0,61,209.0,Austin,TX,Ticketfly,$49.00,0,377326,28
+9529809,2016-03-25T14:00:00-0500,Explosions In The Sky,Paramount Theatre Austin,76.05,555.0,19,52.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,561284,12
+9531172,2016-05-03T19:00:00-0500,San Fermin,The Parish,64.19,55.0,2,10.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,6185239,51
+9531175,2016-05-14T14:00:00-0500,Untapped Festival Austin with Atlas Genius and more,Carson Creek Ranch,72.53,118.7,2,12.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,62
+9531488,2016-06-23T20:00:00-0500,John Carpenter,ACL Live at The Moody Theater,153.93,343.85,6,30.0,Austin,TX,Ticketfly,$45.00,0,270933,102
+9531827,2016-06-05T18:30:00-0500,Refused,Mohawk,120.49,99.99,1,4.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,88426,84
+9531905,2016-05-11T20:00:00-0500,Paul Simon,Bass Concert Hall,137.3,740.91,55,197.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,213059,59
+9532242,2016-07-12T20:00:00-0500,Weird Al Yankovic,Bass Concert Hall,103.19,224.25,31,106.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,132047,121
+9532445,2016-05-28T20:00:00-0500,DIIV,Mohawk,73.24,88.95,2,4.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5442918,76
+9532852,2016-05-10T20:00:00-0500,Paul Simon,Bass Concert Hall,140.91,800.0,48,177.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,213059,58
+9533470,2016-08-12T19:00:00-0500,Zac Brown Band,Austin360 Amphitheater,63.74,349.0,90,368.0,Austin,TX,Ticketmaster,$39.50,0,514278,152
+9533866,2016-06-22T20:30:00-0500,James Taylor,Frank Erwin Events Center,101.62,750.78,195,542.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,431970,101
+9533955,2016-08-19T19:00:00-0500,Def Leppard with REO Speedwagon and Tesla,Austin360 Amphitheater,37.9,5555.0,157,677.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,159
+9534357,2016-07-09T20:00:00-0500,Flight of the Conchords,Bass Concert Hall,155.89,1500.0,85,266.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,118
+9535022,2016-06-24T18:30:00-0500,Slipknot with Marilyn Manson and Of Mice and Men,Austin360 Amphitheater,40.78,380.0,169,801.0,Austin,TX,Ticketmaster,$30.00,0,1012485,103
+9535092,2016-04-08T13:00:00-0500,Euphoria Music Festival Friday Only,Carson Creek Ranch,152.75,125.0,1,2.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,26
+9535094,2016-04-10T13:00:00-0500,Euphoria Music Festival Sunday  Only,Carson Creek Ranch,152.75,125.0,1,2.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,28
+9535310,2016-04-14T21:00:00-0500,Dierks Bentley and Kacey Musgraves,ACL Live at The Moody Theater,145.74,350.0,32,116.0,Austin,TX,Ticketfly,$99.00,0,407954,32
+9535518,2016-05-01T20:00:00-0500,Silversun Pickups,Stubbs BarBQ,48.51,149.0,17,82.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,49
+9536017,2016-06-17T20:00:00-0500,Old Crow Medicine Show,Stubbs BarBQ,59.78,85.0,11,50.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,96
+9536325,2016-03-17T20:00:00-0500,Nero,Summit Rooftop Lounge,90.04,125.0,5,8.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,4
+9536472,2016-05-22T19:00:00-0500,Mayer Hawthorne,Emos,50.76,70.0,4,20.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,5613613,70
+9537501,2016-05-05T20:00:00-0500,Sturgill Simpson,ACL Live at The Moody Theater,102.8,400.0,71,258.0,Austin,TX,Ticketfly,$39.50,0,6140284,53
+9537502,2016-05-06T20:00:00-0500,Sturgill Simpson,ACL Live at The Moody Theater,118.14,350.0,76,232.0,Austin,TX,Ticketfly,$39.50,0,6140284,54
+9537593,2016-05-07T20:00:00-0500,The Revivalists,Scoot Inn,103.3,83.11,2,12.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,593309,55
+9537650,2016-08-02T18:30:00-0500,Rob Zombie with Korn,Austin360 Amphitheater,40.26,368.0,126,484.0,Austin,TX,Ticketmaster,$25.00,0,202975,142
+9538723,2016-08-05T18:30:00-0500,311,Austin360 Amphitheater,95.71,449.0,14,42.0,Austin,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,486064,145
+9540308,2016-03-17T02:45:00-0500,Zeds Dead,Kingdom Nightclub Austin,120.49,173.11,3,15.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,4
+9540441,2016-05-27T20:00:00-0500,Chicago,ACL Live at The Moody Theater,132.29,389.0,35,112.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,75
+9540612,2016-05-10T20:30:00-0500,Todd Rundgren,ACL Live at The Moody Theater,131.12,109.0,1,6.0,Austin,TX,Ticketfly,$50.00,0,591959,58
+9540795,2016-04-28T20:00:00-0500,Harry Connick Jr.,ACL Live at The Moody Theater,119.32,492.0,50,176.0,Austin,TX,Ticketfly,$49.00,0,186299,46
+9540889,2016-05-15T19:00:00-0500,Bruce Hornsby and The Noisemakers,Stubbs BarBQ,83.21,99.0,2,12.0,Austin,TX,NoResults,NoResults,NoResults,NoResults,63

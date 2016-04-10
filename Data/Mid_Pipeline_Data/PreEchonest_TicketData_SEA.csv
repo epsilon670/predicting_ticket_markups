@@ -1,0 +1,157 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9152786,2016-05-15T20:30:00-0700,The Who,Key Arena,76.7,700.0,93,261.0,Seattle,WA,Ticketmaster,$35.50,0,69685,63
+9352312,2016-07-05T20:00:00-0700,Janet Jackson,Key Arena,37.9,812.0,111,370.0,Seattle,WA,Ticketmaster,$35.50,0,410449,114
+9366928,2016-04-10T19:30:00-0700,Gary Clark Jr.,Moore Theatre,122.07,199.01,9,42.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,309236,28
+9381711,2016-03-30T19:30:00-0700,Underoath,Showbox Sodo,61.44,1111.0,39,131.0,Seattle,WA,Songkick Tickets,$34.00,0,2357960,17
+9394145,2016-04-17T19:00:00-0700,2Cellos,McCaw Hall,94.54,500.0,60,190.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,4392693,35
+9400041,2016-04-16T20:00:00-0700,Arlo Guthrie,Moore Theatre,123.25,110.0,2,4.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,398453,34
+9400044,2016-05-13T20:00:00-0700,Sound Opinions Live,The Neptune,93.75,75.0,1,4.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,61
+9408883,2016-05-13T19:30:00-0700,Selena Gomez,Key Arena,106.34,2749.0,114,330.0,Seattle,WA,Ticketmaster,$33.50,0,1059348,61
+9412883,2016-04-04T20:00:00-0700,Ciara,Showbox Sodo,63.26,105.0,17,37.0,Seattle,WA,Songkick Tickets,$44.00,0,106251,22
+9425628,2016-08-21T19:30:00-0700,Demi Lovato and Nick Jonas,Key Arena,34.77,980.0,172,681.0,Seattle,WA,Ticketmaster,$25.95,0,976211,161
+9426390,2016-07-23T17:00:00-0700,Kenny Chesney,CenturyLink Field,45.36,2500.0,424,2129.0,Seattle,WA,Ticketmaster,$21.00,0,292712,132
+9432567,2016-04-02T19:30:00-0700,Ellie Goulding,Key Arena,61.49,307.8,98,469.0,Seattle,WA,Ticketmaster,$31.00,0,2332047,20
+9434938,2016-04-20T20:00:00-0700,Bonnie Raitt,Paramount Theatre Seattle,118.53,675.0,11,38.0,Seattle,WA,Tickets.com,$53.50,0,135398,38
+9439487,2016-10-11T19:30:00-0700,Maroon 5,Key Arena,96.9,1450.0,583,1978.0,Seattle,WA,Ticketmaster,$26.50,0,181875,212
+9440729,2016-04-03T19:00:00-0700,Anders Osborne,Neumos,47.41,116.0,5,30.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,2610996,21
+9442398,2016-03-26T21:00:00-0700,The Floozies,The Showbox,62.66,79.0,6,33.0,Seattle,WA,Songkick Tickets,$22.75,0,115595,13
+9449453,2016-03-19T21:00:00-0700,Daughter,The Showbox,74.42,1111.0,8,31.0,Seattle,WA,Songkick Tickets,$29.75,0,201667,6
+9453418,2016-05-08T19:30:00-0700,Primal Fear,El Corazon,172.42,144.0,1,4.0,Seattle,WA,Ticketfly,$20.00,0,352176,56
+9456438,2016-04-02T21:00:00-0700,Hey Marseilles,The Showbox,48.57,99.99,12,45.0,Seattle,WA,Songkick Tickets,$24.75,0,799858,20
+9456439,2016-04-05T20:00:00-0700,The Used,Showbox Sodo,67.39,120.0,10,43.0,Seattle,WA,Songkick Tickets,$39.00,0,162392,23
+9456440,2016-04-06T20:00:00-0700,The Used,Showbox Sodo,66.16,120.0,14,55.0,Seattle,WA,Songkick Tickets,$39.00,0,162392,24
+9456841,2016-09-02T13:00:00-0700,Bumbershoot 3 Day Pass,Seattle Center Festival,270.75,399.05,4,28.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,173
+9459853,2016-03-26T20:00:00-0700,Loreena McKennitt,Paramount Theatre Seattle,145.67,199.0,2,10.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,156551,13
+9461613,2016-04-24T19:30:00-0700,Rihanna,Key Arena,107.64,4125.0,158,616.0,Seattle,WA,Ticketmaster,$26.50,0,139648,42
+9462426,2016-03-31T21:00:00-0700,Wolfmother,The Showbox,102.8,100.0,6,37.0,Seattle,WA,Songkick Tickets,$34.00,0,192603,18
+9463105,2016-03-30T20:00:00-0700,Rachel Platten,The Showbox,12.75,145.0,31,121.0,Seattle,WA,Songkick Tickets,$29.75,0,1988795,17
+9468229,2016-03-11T20:30:00-0700,Reverend Horton Heat,The Showbox,76.83,62.99,1,1.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,-2
+9468230,2016-05-01T20:30:00-0700,The Melvins and Napalm Death,The Showbox,51.01,96.0,11,47.0,Seattle,WA,Songkick Tickets,$34.00,0,207184,49
+9468497,2016-03-29T19:30:00-0700,Joanna Newsom,Paramount Theatre Seattle,47.73,122.95,18,56.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,481340,16
+9470163,2016-04-28T20:00:00-0700,The 1975,WaMu Theater,62.68,300.0,43,175.0,Seattle,WA,Ticketmaster,$36.95,0,66370,46
+9471195,2016-07-15T20:00:00-0700,Brit Floyd,WaMu Theater,73.69,380.0,12,43.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,3705716,124
+9471303,2016-03-19T18:30:00-0700,Slayer,Paramount Theatre Seattle,82.21,199.0,15,52.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,36137,6
+9472742,2016-04-23T20:00:00-0700,Judah and the Lion,The Crocodile Seattle,69.95,54.85,2,6.0,Seattle,WA,Ticketfly,NoPriceClass,0,6008179,41
+9475783,2016-04-14T19:30:00-0700,Sharon Jones & The Dap-Kings,Moore Theatre,152.75,125.0,1,4.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,272515,32
+9476453,2016-03-15T20:00:00-0700,David Crosby,The Neptune,88.63,70.66,1,7.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,15992,2
+9478404,2016-07-25T19:30:00-0700,Adele,Key Arena,353.35,9900.0,261,612.0,Seattle,WA,Ticketmaster,$35.50,0,537914,134
+9478405,2016-07-26T19:30:00-0700,Adele,Key Arena,262.1,10000.0,295,696.0,Seattle,WA,Ticketmaster,$35.50,0,537914,135
+9478618,2016-03-21T19:00:00-0700,An Evening with Greg Dulli,The Triple Door,87.44,69.65,1,4.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,8
+9483196,2016-06-11T20:30:00-0700,Blue October,The Showbox,51.01,94.0,10,44.0,Seattle,WA,Songkick Tickets,$34.00,0,500273,90
+9483461,2016-07-18T19:00:00-0700,Twenty One Pilots,WaMu Theater,165.02,5000.0,95,517.0,Seattle,WA,Ticketmaster,$45.00,0,3123851,127
+9483956,2016-03-30T20:00:00-0700,Ra Ra Riot,Neumos,39.95,122.0,7,30.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,17
+9484099,2016-03-29T19:30:00-0700,San Fermin,Neumos,40.24,58.14,3,16.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,6185239,16
+9484358,2016-06-17T19:30:00-0700,Gregory Porter,Moore Theatre,53.63,599.0,2,4.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,115057,96
+9485371,2016-05-11T19:30:00-0700,Dream Theater,Paramount Theatre Seattle,66.61,221.8,31,89.0,Seattle,WA,Venue,$42.00,0,8765,59
+9486815,2016-05-07T19:00:00-0700,Tech N9ne,Showbox Sodo,55.59,108.0,19,83.0,Seattle,WA,Songkick Tickets,$36.00,0,283009,55
+9491623,2016-03-24T18:30:00-0700,Between the Buried and Me and August Burns Red,Showbox Sodo,50.82,141.0,10,43.0,Seattle,WA,Songkick Tickets,$34.00,0,391106,11
+9500206,2016-04-24T20:00:00-0700,Splean,The Showbox,119.32,131.1,6,25.0,Seattle,WA,Songkick Tickets,$77.00,0,281642,42
+9500363,2016-03-31T19:00:00-0700,Dark Star Orchestra,Showbox Sodo,60.3,99.0,5,17.0,Seattle,WA,Songkick Tickets,$34.00,0,466184,18
+9500585,2016-03-28T21:00:00-0700,White Denim,Neumos,41.42,75.0,4,20.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,589804,15
+9500629,2016-04-06T19:30:00-0700,Father John Misty,Paramount Theatre Seattle,58.35,200.0,55,179.0,Seattle,WA,Tickets.com,NoPriceClass,0,5113323,24
+9500654,2016-04-12T20:00:00-0700,George Clinton and the Parliament Funkadelic,The Neptune,186.97,155.0,2,5.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,350400,30
+9500867,2016-04-21T20:00:00-0700,Courtney Barnett,Moore Theatre,46.4,250.0,17,80.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,3909026,39
+9501138,2016-05-16T19:30:00-0700,Tori Kelly,Paramount Theatre Seattle,69.55,299.0,60,225.0,Seattle,WA,Venue Website,NoPriceClass,0,1054791,64
+9501168,2016-03-25T19:00:00-0700,Greensky Bluegrass,The Showbox,40.26,70.0,14,57.0,Seattle,WA,Songkick Tickets,$27.75,0,30921,12
+9501884,2016-04-08T21:00:00-0700,Tinashe,Showbox Sodo,53.23,150.0,13,53.0,Seattle,WA,Songkick Tickets,$38.50,0,2020878,26
+9502403,2016-05-04T20:00:00-0700,Beach House,Paramount Theatre Seattle,61.89,1111.0,30,161.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,273059,52
+9502405,2016-03-18T20:00:00-0700,Geoff Tates Operation Mindcrime,The Neptune,67.79,73.0,3,14.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,5
+9502410,2016-03-28T20:00:00-0700,Steve Hackett,The Neptune,91.39,85.0,3,15.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,486354,15
+9502718,2016-04-10T20:30:00-0700,Miike Snow,The Showbox,70.81,299.0,39,114.0,Seattle,WA,Songkick Tickets,$38.50,0,2391223,28
+9503093,2016-04-19T19:30:00-0700,St. Germain,Moore Theatre,83.13,225.0,7,22.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,521797,37
+9503527,2016-05-10T20:30:00-0700,Bob Mould,The Showbox,48.39,66.12,7,27.0,Seattle,WA,Songkick Tickets,$34.00,0,154576,58
+9505624,2016-05-24T20:30:00-0700,Moderat,The Showbox,57.95,89.0,7,33.0,Seattle,WA,Songkick Tickets,$30.25,0,2379286,72
+9506111,2016-04-30T20:30:00-0700,Say Anything,The Showbox,37.88,68.0,8,35.0,Seattle,WA,Songkick Tickets,$26.25,0,235557,48
+9506829,2016-07-21T20:00:00-0700,Sting and Peter Gabriel,Key Arena,113.36,5000.0,334,957.0,Seattle,WA,Ticketmaster,$45.00,0,165478,130
+9507132,2016-04-12T20:30:00-0700,Pete Yorn,The Showbox,54.36,105.0,10,37.0,Seattle,WA,Songkick Tickets,$40.50,0,2030465,30
+9507133,2016-04-16T20:30:00-0700,Moe. and Chris Robinson Brotherhood,The Showbox,53.24,67.26,5,16.0,Seattle,WA,Songkick Tickets,$37.00,0,183105,34
+9507134,2016-11-03T21:00:00-0700,Peter Hook and the Light,The Showbox,51.01,70.0,9,31.0,Seattle,WA,Songkick Tickets,$34.00,0,4154881,235
+9507135,2016-04-01T19:00:00-0700,Killswitch Engage,Showbox Sodo,81.42,1111.0,12,47.0,Seattle,WA,Songkick Tickets,$36.75,0,482370,19
+9508178,2016-03-21T22:00:00-0700,An Evening with Greg Dulli,The Triple Door,52.45,63.0,2,8.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,8
+9509042,2016-06-08T19:00:00-0700,At The Drive-In,Showbox Sodo,97.51,500.0,44,162.0,Seattle,WA,Songkick Tickets,$48.50,0,206412,87
+9509108,2016-04-16T19:30:00-0700,Boyce Avenue,Showbox Sodo,51.01,97.0,9,38.0,Seattle,WA,Songkick Tickets,$34.00,0,608550,34
+9509203,2016-05-04T18:30:00-0700,Magic Man & The Griswolds,Neumos,50.81,73.0,5,28.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,699966,52
+9509219,2016-04-07T19:00:00-0700,Pegboard Nerds,The Showbox,35.54,124.0,10,40.0,Seattle,WA,Songkick Tickets,$30.25,0,6134219,25
+9509228,2016-04-18T20:00:00-0700,Parov Stelar,The Showbox,64.12,89.0,10,34.0,Seattle,WA,Songkick Tickets,$44.00,0,8597639,36
+9509229,2016-04-20T20:00:00-0700,Lush,The Showbox,54.93,78.0,11,40.0,Seattle,WA,Songkick Tickets,$39.00,0,20179,38
+9509773,2016-03-30T19:00:00-0700,The Contortionist with Monuments and more,Studio Seven,40.25,32.0,2,13.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,17
+9510359,2016-05-17T20:00:00-0700,Amon Amarth,The Showbox,54.94,125.0,14,52.0,Seattle,WA,Songkick Tickets,$37.00,0,216859,65
+9510360,2016-04-28T20:30:00-0700,James Bay,Showbox Sodo,107.52,1111.0,25,91.0,Seattle,WA,Songkick Tickets,$41.50,1,3741276,46
+9510361,2016-07-12T20:30:00-0700,Babymetal,Showbox Sodo,79.0,199.0,10,32.0,Seattle,WA,Songkick Tickets,$49.00,0,5643294,121
+9511024,2016-07-30T19:30:00-0700,Brand New and Modest Mouse,Key Arena,72.12,456.99,223,691.0,Seattle,WA,Ticketmaster,$31.99,0,535518,139
+9511332,2016-04-21T20:00:00-0700,Rhye,The Neptune,98.47,79.0,1,2.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,6002544,39
+9511674,2016-07-26T19:30:00-0700,Shawn Mendes,WaMu Theater,72.12,8398.95,423,1206.0,Seattle,WA,Ticketmaster,$37.00,0,8008073,135
+9511996,2016-03-28T20:00:00-0700,Iggy Pop,Paramount Theatre Seattle,102.21,325.0,67,171.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,170739,15
+9512239,2016-10-08T20:00:00-0700,Brian Wilson Performs Pet Sounds,Paramount Theatre Seattle,146.84,1000.0,27,91.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,209
+9512322,2016-03-26T20:00:00-0700,Geographer with The Crookes,Neumos,34.68,49.02,4,20.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,13
+9512362,2016-05-24T20:00:00-0700,Brian Jonestown Massacre,Neumos,54.36,122.0,8,56.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,73973,72
+9512387,2016-04-17T18:30:00-0700,FILTER with Orgy and Vampires Everywhere,Studio Seven,49.69,99.0,6,33.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,35
+9512437,2016-04-02T20:00:00-0700,The Joy Formidable,Neumos,42.94,57.0,4,20.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,20
+9512612,2016-04-22T21:00:00-0700,Dej Loaf,Showbox Sodo,114.6,199.0,5,16.0,Seattle,WA,Songkick Tickets,$49.00,0,8387873,40
+9512691,2016-03-24T18:00:00-0700,Andy Grammer,The Showbox,231.18,193.8,1,4.0,Seattle,WA,AXS,$18.00,0,713189,11
+9513281,2016-03-31T20:00:00-0700,POLICA,The Neptune,52.45,69.0,2,3.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,4665213,18
+9513550,2016-04-12T19:30:00-0700,The Arcs,Moore Theatre,63.06,175.0,16,41.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,16288,30
+9513604,2016-04-01T20:00:00-0700,Goldroom,Chop Suey,55.98,75.0,6,29.0,Seattle,WA,Ticketfly,NoPriceClass,0,8606954,19
+9513648,2016-03-19T20:00:00-0700,This Will Destroy You,Neumos,37.88,49.02,3,12.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,312232,6
+9513649,2016-03-24T18:30:00-0700,Tonight Alive vs Set It Off,Neumos,40.61,53.58,4,20.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,11
+9513651,2016-03-25T20:00:00-0700,Bag Raiders,Neumos,47.32,57.0,3,12.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,975813,12
+9513652,2016-05-23T19:00:00-0700,Charles Bradley and His Extraordinaires,Neumos,54.62,67.26,5,28.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,2792041,71
+9513653,2016-04-27T20:00:00-0700,Gin Wigmore,Neumos,44.96,64.0,5,22.0,Seattle,WA,Etix,NoPriceClass,0,2501116,45
+9513660,2016-05-20T20:00:00-0700,Billy Joel,Safeco Field,76.84,5000.0,1060,4105.0,Seattle,WA,Ticketmaster,$53.75,0,296988,68
+9514111,2016-04-07T21:00:00-0700,The Game,Showbox Sodo,61.5,169.0,7,22.0,Seattle,WA,Songkick Tickets,$67.00,0,483728,25
+9514116,2016-04-30T19:00:00-0700,Andy Mineo,Showbox Sodo,65.04,69.54,2,8.0,Seattle,WA,Songkick Tickets,$36.75,0,5467058,48
+9514237,2016-04-09T20:00:00-0700,Santigold,The Neptune,116.17,199.0,5,30.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,2385431,27
+9514535,2016-03-23T19:30:00-0700,The Smashing Pumpkins,Paramount Theatre Seattle,110.27,250.0,49,144.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,233074,10
+9517604,2016-05-22T20:00:00-0700,Buzzcocks,Neumos,109.9,109.99,4,16.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,351352,70
+9517619,2016-04-09T19:30:00-0700,Twiztid,El Corazon,57.95,47.0,2,12.0,Seattle,WA,Ticketfly,$23.00,0,489701,27
+9519409,2016-04-15T21:00:00-0700,Sol,The Showbox,83.92,69.0,1,4.0,Seattle,WA,Songkick Tickets,$27.74,0,6629399,33
+9519774,2016-05-05T20:00:00-0700,Jai Wolf,Neumos,31.34,100.0,14,57.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,8041093,53
+9519778,2016-03-28T19:29:00-0700,Warren Haynes,Moore Theatre,58.8,73.52,12,32.0,Seattle,WA,Venue,$39.50,0,538056,15
+9519799,2016-05-18T18:00:00-0700,Beyoncé,CenturyLink Field,54.42,99999.0,2877,10627.0,Seattle,WA,Ticketmaster,$45.00,0,553938,66
+9520093,2016-09-25T19:30:00-0700,Micky Dolenz and Peter Torks The Monkees 50th Anniversary Tour,Moore Theatre,176.35,350.0,10,26.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,196
+9520252,2016-03-24T21:00:00-0700,Duke Dumont,Q Nightclub,71.65,79.99,7,23.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,11
+9522180,2016-03-24T19:30:00-0700,Bruce Springsteen and the E Street Band,Key Arena,167.11,1323.0,190,507.0,Seattle,WA,Ticketmaster,$65.00,0,227030,11
+9522265,2016-04-27T20:00:00-0700,Pentatonix with Us The Duo,WaMu Theater,142.92,399.0,47,163.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,45
+9522565,2016-05-31T19:00:00-0700,Lamb of God with Clutch and Corrosion of Conformity,WaMu Theater,57.35,171.0,14,99.0,Seattle,WA,Ticketmaster,$26.50,0,127504,79
+9523509,2016-05-06T20:00:00-0700,The Neighbourhood,Showbox Sodo,78.02,150.0,15,60.0,Seattle,WA,Songkick Tickets,$39.75,0,636848,54
+9523990,2016-04-12T19:30:00-0700,Lukas Graham,The Crocodile Seattle,56.33,199.0,17,95.0,Seattle,WA,Ticketfly,NoPriceClass,1,4801228,30
+9524097,2016-03-13T20:00:00-0700,Gogol Bordello,The Showbox,142.92,119.0,1,2.0,Seattle,WA,Songkick Tickets,$38.95,0,474383,0
+9527146,2016-05-19T20:30:00-0700,Andrew Bird,The Showbox,72.71,74.0,8,25.0,Seattle,WA,Songkick Tickets,$48.95,0,395944,67
+9527459,2016-03-18T21:00:00-0700,Nipsey Hussle,The Showbox,119.31,99.0,3,9.0,Seattle,WA,Songkick Tickets,$49.00,0,874780,5
+9527814,2016-04-30T21:00:00-0700,Years and Years,The Neptune,54.0,100.0,9,50.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,3976856,48
+9527955,2016-03-16T20:00:00-0700,Chris Staples,The Barboza,83.92,69.0,1,6.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,73342,3
+9527956,2016-04-06T20:00:00-0700,Allan Rayman,The Barboza,83.92,69.0,1,2.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,7141674,24
+9527957,2016-04-24T20:00:00-0700,The Big Pink,Neumos,55.6,45.6,2,12.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,461324,42
+9527958,2016-05-03T20:00:00-0700,Floating Points,Neumos,56.78,46.74,2,8.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,2486306,51
+9528958,2016-04-01T20:00:00-0700,Atlas Genius,The Showbox,35.85,99.0,9,44.0,Seattle,WA,Songkick Tickets,$24.75,0,5539353,19
+9529059,2016-05-14T20:00:00-0700,Whitey Morgan and Cody Jinks,Neumos,46.54,58.14,4,20.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,5413668,62
+9529658,2016-07-22T13:00:00-0700,Capitol Hill Block Party with Odesza,Capitol Hill (Block Party),266.81,224.0,2,16.0,Seattle,WA,NoRegexp,NoRegexp,NoRegexp,NoRegexp,131
+9529745,2016-06-11T20:00:00-0700,Emblem3,The Neptune,92.55,122.0,8,40.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,6439724,90
+9529812,2016-06-04T20:30:00-0700,Sam Beam and Jesca Hoop,The Neptune,110.2,100.3,5,23.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,625595,83
+9530344,2016-04-14T20:00:00-0700,Gryffin,The Crocodile Seattle,74.74,149.0,9,42.0,Seattle,WA,Ticketfly,NoPriceClass,0,8501183,32
+9531223,2016-04-05T19:30:00-0700,"Generation Axe with Steve Vai, Zakk Wylde and more",Paramount Theatre Seattle,175.17,155.0,2,4.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,23
+9531397,2016-06-18T21:00:00-0700,Plants and Animals,Sunset Tavern,58.34,44.99,1,2.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,775953,97
+9531823,2016-05-14T20:00:00-0700,Violent Femmes,The Showbox,144.1,277.55,9,30.0,Seattle,WA,AXS,$35.00,0,135837,62
+9532247,2016-04-29T20:00:00-0700,Zhu,The Showbox,86.87,175.0,17,59.0,Seattle,WA,AXS,$29.50,0,1183857,47
+9533126,2016-07-21T18:00:00-0700,UB40,Woodland Park Zoo,83.9,70.66,3,18.0,Seattle,WA,Ticketfly,$35.00,0,8386053,130
+9534007,2016-07-29T21:00:00-0700,Richard Cheese and Lounge Against the Machine,The Showbox,237.32,199.0,2,7.0,Seattle,WA,AXS,$32.00,0,190986,138
+9534072,2016-04-10T19:30:00-0700,Home Free,The Neptune,93.75,75.0,1,2.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,300916,28
+9534290,2016-03-22T20:00:00-0700,Vallis Alps,The Barboza,60.32,49.0,1,5.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,8736029,9
+9534459,2016-06-01T21:00:00-0700,The Kills,Showbox Sodo,77.85,70.0,8,37.0,Seattle,WA,Songkick Tickets,$34.00,0,236059,80
+9535360,2016-05-02T18:30:00-0700,DigiTour Spring Break 2016,The Neptune,136.23,111.0,1,8.0,Seattle,WA,NoRegexp,NoRegexp,NoRegexp,NoRegexp,50
+9535462,2016-04-22T21:00:00-0700,Cloud Cult,The Neptune,56.56,48.92,2,14.0,Seattle,WA,Tickets.com,$20.00,0,307496,40
+9535519,2016-04-21T20:30:00-0700,Flatbush Zombies,The Showbox,55.6,45.0,1,1.0,Seattle,WA,Songkick Tickets,$30.75,0,5081903,39
+9535736,2016-07-23T20:00:00-0700,Streetlight Manifesto,The Showbox,55.52,100.0,6,25.0,Seattle,WA,Songkick Tickets,$29.25,0,22900,132
+9535979,2016-03-22T20:00:00-0700,Ty Dolla Sign,Neumos,89.27,99.0,2,6.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,9
+9536612,2016-05-10T20:00:00-0700,Mayer Hawthorne,The Neptune,57.13,125.0,4,14.0,Seattle,WA,NoVendorClass,NoPriceClass,NoSoldOutClass,5613613,58
+9537475,2016-04-15T19:30:00-0700,Enter Shikari,El Corazon,80.36,66.0,2,12.0,Seattle,WA,Ticketfly,$18.00,0,16773,33
+9537647,2016-04-09T20:00:00-0700,Floetry Live!,Moore Theatre,140.95,115.0,1,4.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,27
+9537711,2016-06-01T18:30:00-0700,Insane Clown Posse,El Corazon,50.86,54.72,4,20.0,Seattle,WA,Ticketfly,$20.00,0,48999,80
+9537897,2016-03-18T20:00:00-0700,2016 John in the Morning at Night with the Dandy Warhols and more,Neumos,120.49,150.0,2,4.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,5
+9538496,2016-06-08T20:30:00-0700,Modern Baseball with Joyce Manor and Thin Lips,The Showbox,95.72,79.0,2,8.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,87
+9538684,2016-04-27T20:30:00-0700,Lapsley,Chop Suey,47.4,40.0,2,5.0,Seattle,WA,AXS,$15.00,0,8068588,45
+9538776,2016-07-01T20:00:00-0700,Boston,WaMu Theater,122.86,538.89,37,113.0,Seattle,WA,NoResults,NoResults,NoResults,NoResults,110
+9539112,2016-04-17T20:00:00-0700,Paul McCartney,Key Arena,144.1,5000.0,600,1658.0,Seattle,WA,Ticketmaster,$39.50,0,300543,35
+9539814,2016-04-14T20:00:00-0700,Bunny Wailer,The Showbox,237.32,199.0,2,7.0,Seattle,WA,AXS,$25.00,0,380385,32
+9539815,2016-06-10T21:00:00-0700,Caravan Palace,The Showbox,83.92,69.0,2,6.0,Seattle,WA,AXS,$35.00,0,603864,89
+9542222,2016-08-27T21:00:00-0700,Drive Like Jehu,The Showbox,120.49,99.99,1,4.0,Seattle,WA,AXS,$22.00,0,401310,167

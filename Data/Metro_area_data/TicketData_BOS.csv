@@ -1,0 +1,196 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show,num_blogs,num_news,num_reviews,discovery,familiarity,hotttnesss,num_years_active
+9352330,2016-08-18T20:00:00-0400,Janet Jackson,TD Garden,48.51,5000.0,322,1119.0,Boston,MA,Ticketmaster,$26.00,0,410449,158,6823,4132,59,0.3601373449252699,0.795111,0.752127,43
+9380629,2016-04-17T18:30:00-0400,Underoath,House of Blues Boston,44.98,1111.0,53,236.0,Boston,MA,Live Nation,NoPriceClass,0,2357960,35,,,,,,,
+9392065,2016-04-01T19:00:00-0400,Vance Joy,House of Blues Boston,145.3,695.0,66,154.0,Boston,MA,Live Nation,NoPriceClass,0,6148694,19,,,,,,,
+9403908,2016-04-06T18:00:00-0400,Skizzy Mars,Paradise Rock Club,40.65,85.0,10,52.0,Boston,MA,Ticketmaster,$17.00,0,4516073,24,352,10,0,0.4472259265162168,0.455172,0.504101,6
+9407323,2016-05-27T18:00:00-0400,Boston Calling Music Festival FRIDAY,Boston City Hall Plaza,76.05,155.0,12,76.0,Boston,MA,NoRegexp,NoRegexp,NoRegexp,NoRegexp,75,error_5,error_5,error_5,error_5,error_5,error_5,error_5
+9407324,2016-05-28T12:00:00-0400,Boston Calling Music Festival SATURDAY,Boston City Hall Plaza,99.65,187.0,9,58.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,76,,,,,,,
+9407325,2016-05-29T12:00:00-0400,Boston Calling Music Festival SUNDAY,Boston City Hall Plaza,91.0,187.0,12,76.0,Boston,MA,NoRegexp,NoRegexp,NoRegexp,NoRegexp,77,error_5,error_5,error_5,error_5,error_5,error_5,error_5
+9407326,2016-05-27T17:59:00-0400,Boston Calling Music Festival 3 Day Pass,Boston City Hall Plaza,213.72,350.0,13,71.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,75,,,,,,,
+9407959,2016-03-25T19:00:00-0400,Galactic,House of Blues Boston,49.69,211.0,18,88.0,Boston,MA,Live Nation,NoPriceClass,0,164225,12,,,,,,,
+9408910,2016-05-28T19:30:00-0400,Selena Gomez,TD Garden,61.5,2199.0,385,1411.0,Boston,MA,Ticketmaster,$37.00,0,1059348,76,9474,2202,7,0.4399476127099588,0.770825,0.862321,8
+9414624,2016-04-11T20:00:00-0400,Charles Kelley,House of Blues Boston,32.51,210.0,40,171.0,Boston,MA,Live Nation,NoPriceClass,0,1171291,29,,,,,,,
+9421651,2016-06-04T20:00:00-0400,Fab Faux,Wilbur Theatre,120.5,389.0,7,37.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,365584,83,,,,,,,
+9422489,2016-04-09T20:00:00-0400,John Prine,Shubert Theatre - Boston,136.23,410.0,16,42.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,256713,27,,,,,,,
+9422598,2016-04-24T19:00:00-0400,Robin Trower,Wilbur Theatre,99.65,167.36,10,34.0,Boston,MA,Ticketmaster,$40.00,0,243623,42,521,31,38,0.3834120181241286,0.61476,0.549685,54
+9425610,2016-07-20T19:00:00-0400,Demi Lovato and Nick Jonas,TD Garden,47.32,1617.0,268,1030.0,Boston,MA,Ticketmaster,$25.45,0,976211,129,6062,1776,13,0.42707395045850144,0.769929,0.835224,14
+9426787,2016-03-26T19:30:00-0400,Joe Satriani,Orpheum Theatre - MA,87.44,500.0,18,68.0,Boston,MA,Ticketmaster,$33.50,0,217121,13,2292,483,43,0.33065216015726456,0.749976,0.61644,46
+9426920,2016-06-14T19:00:00-0400,Twenty One Pilots,Agganis Arena,119.32,9999.99,111,342.0,Boston,MA,Ticketmaster,$32.50,0,3123851,93,852,265,10,0.5725633529624048,0.586834,0.78425,7
+9430936,2016-06-15T19:00:00-0400,Twenty One Pilots,Agganis Arena,119.32,1111.0,55,217.0,Boston,MA,Ticketmaster,$32.50,0,3123851,94,852,265,10,0.5725633529624048,0.586834,0.78425,7
+9431369,2016-04-01T20:00:00-0400,Savages,Paradise Rock Club,42.62,57.0,10,46.0,Boston,MA,Ticketmaster,$22.00,0,242996,19,13,5,56,0.5766377255391132,0.340308,0.602402,6
+9432544,2016-06-15T19:30:00-0400,Ellie Goulding,TD Garden,64.45,336.0,209,854.0,Boston,MA,Ticketmaster,$25.00,0,2332047,94,10070,2357,23,0.48269966817297044,0.750632,0.901275,8
+9434826,2016-03-29T19:30:00-0400,Bonnie Raitt,Orpheum Theatre - MA,217.78,900.0,20,44.0,Boston,MA,Ticketmaster,$48.00,0,135398,16,2254,721,66,0.3160628076798648,0.728868,0.562017,45
+9445538,2016-05-10T19:30:00-0400,Justin Bieber,TD Garden,225.87,2054.0,231,652.0,Boston,MA,Ticketmaster,$50.50,0,2596951,58,30698,11724,108,0.3768891941678082,0.842991,0.91195,8
+9448443,2016-04-09T19:00:00-0400,Infamous Stringdusters,Paradise Rock Club,30.81,57.0,7,35.0,Boston,MA,Ticketmaster,$16.00,0,541144,27,282,294,18,0.43025586449572134,0.515952,0.528911,10
+9449217,2016-08-03T18:30:00-0400,James Taylor,Fenway Park,113.42,1500.0,775,2897.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,431970,143,,,,,,,
+9449994,2016-03-25T19:00:00-0400,Jose Gonzalez,Berklee Performance Center ,132.3,110.0,1,2.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,542593,12,,,,,,,
+9452686,2016-05-11T19:30:00-0400,Justin Bieber,TD Garden,146.85,4000.0,258,888.0,Boston,MA,Ticketmaster,$50.50,0,2596951,59,30698,11724,108,0.3768891941678082,0.842991,0.91195,8
+9453411,2016-03-23T19:00:00-0400,Lake Street Dive,House of Blues Boston,78.02,250.0,43,140.0,Boston,MA,Live Nation,NoPriceClass,0,1077331,10,397,175,11,0.5094867319244379,0.50701,0.618196,12
+9454878,2016-04-09T17:00:00-0400,Ben Harper and The Innocent Criminals,House of Blues Boston,105.54,264.0,30,109.0,Boston,MA,Live Nation,NoPriceClass,0,76901,27,,,,,,,
+9456555,2016-05-06T19:00:00-0400,The Used,House of Blues Boston,60.32,157.0,30,139.0,Boston,MA,Live Nation,NoPriceClass,0,162392,54,,,,,,,
+9456556,2016-05-07T18:00:00-0400,The Used,House of Blues Boston,79.2,157.0,33,149.0,Boston,MA,Live Nation,NoPriceClass,0,162392,55,,,,,,,
+9456560,2016-05-06T18:59:00-0400,The Used 2 Night Passes,House of Blues Boston,142.92,119.0,1,10.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,54,,,,,,,
+9456683,2016-03-19T19:00:00-0400,Jukebox the Ghost,Paradise Rock Club,34.36,100.0,11,47.0,Boston,MA,Ticketmaster,$22.00,0,578861,6,893,83,11,0.41372728051255425,0.531711,0.520564,13
+9456716,2016-03-20T19:00:00-0400,Hoodie Allen,House of Blues Boston,32.0,211.0,47,183.0,Boston,MA,Live Nation,NoPriceClass,0,3040991,7,,,,,,,
+9456804,2016-03-17T20:00:00-0400,Metric,Orpheum Theatre - MA,46.55,105.0,22,49.0,Boston,MA,Ticketmaster,$29.75,0,465252,4,3111,398,91,0.32503872344282836,0.731526,0.581333,18
+9457572,2016-04-04T19:00:00-0400,St. Germain,House of Blues Boston,73.29,317.0,14,69.0,Boston,MA,Live Nation,NoPriceClass,0,521797,22,,,,,,,
+9458550,2016-05-17T20:00:00-0400,Above and Beyond Acoustic,Wang Theatre at Boston,10.42,500.0,228,738.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,65,,,,,,,
+9459767,2016-04-03T19:00:00-0400,Wolf Alice,Brighton Music Hall,54.49,166.53,15,73.0,Boston,MA,Ticketmaster,$15.00,0,4126816,21,1972,135,8,0.4632107627599085,0.559526,0.607877,6
+9460407,2016-03-13T19:00:00-0400,Nick Carter,House of Blues Boston,35.54,28.0,1,1.0,Boston,MA,Live Nation,NoPriceClass,0,469946,0,,,,,,,
+9461067,2016-03-26T20:00:00-0400,an Evening with Percy Hill,Paradise Rock Club,37.66,85.0,9,30.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,13,,,,,,,
+9461077,2016-04-22T20:00:00-0400,polica,Brighton Music Hall,31.39,199.99,8,42.0,Boston,MA,Ticketmaster,$18.00,0,4665213,40,1714,349,40,0.5750904634134799,0.445357,0.639432,5
+9461218,2016-03-19T19:00:00-0400,Dropkick Murphys - Official After Party,House of Blues Boston,31.99,350.0,40,168.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,6,,,,,,,
+9461608,2016-04-10T19:30:00-0400,Rihanna,TD Garden,85.1,2695.0,390,1271.0,Boston,MA,Ticketmaster,$30.50,0,139648,28,49474,11208,111,0.33470610926387906,0.849921,0.830018,11
+9461849,2016-03-19T16:30:00-0400,Dropkick Murphys,Agganis Arena,18.1,300.0,368,1009.0,Boston,MA,Ticketmaster,$30.00,0,211206,6,1625,563,79,0.39105798616288706,0.689619,0.641496,20
+9462477,2016-03-25T20:00:00-0400,Stick Figure,Paradise Rock Club,91.0,98.77,6,20.0,Boston,MA,Ticketfly,$16.00,0,514431,12,88,0,3,0.5190736964306107,0.255699,0.542266,26
+9462616,2016-07-30T19:30:00-0400,Josh Groban,Blue Hills Bank Pavilion,109.74,1174.74,106,404.0,Boston,MA,Live Nation,NoPriceClass,0,474091,139,,,,,,,
+9462904,2016-04-14T18:30:00-0400,The Decibel Magazine Tour with Abbath,Royale Boston,65.04,79.0,8,42.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,32,,,,,,,
+9463640,2016-03-18T19:30:00-0400,G. Love and Special Sauce,Paradise Rock Club,49.69,90.0,11,48.0,Boston,MA,Ticketmaster,$30.00,0,252784,5,374,178,22,0.38263672664403936,0.621453,0.554782,24
+9465193,2016-04-09T19:30:00-0400,Andrew Bird,Wang Theatre at Boston,64.25,341.97,38,135.0,Boston,MA,Ticketmaster,$36.00,0,395944,27,5289,777,155,0.3474244277613534,0.695306,0.576323,20
+9468661,2016-06-16T19:30:00-0400,The Cure,Agganis Arena,126.4,1000.0,159,474.0,Boston,MA,Ticketmaster,$17.50,0,474439,95,4643,620,220,0.2996640591537195,0.82889,0.691735,40
+9468973,2016-04-16T19:30:00-0400,The Melvins and Napalm Death,Paradise Rock Club,61.5,96.0,7,30.0,Boston,MA,Ticketmaster,$22.00,0,207184,34,3985,881,186,0.3412691348437853,0.71194,0.585477,33
+9470920,2016-06-04T20:00:00-0400,Nada Surf,Paradise Rock Club,52.96,85.0,12,59.0,Boston,MA,Ticketmaster,$22.00,0,172227,83,1990,228,92,0.39048458103611905,0.678747,0.627284,24
+9473176,2016-03-21T18:00:00-0400,Megadeth,House of Blues Boston,88.63,349.0,48,202.0,Boston,MA,Live Nation,NoPriceClass,0,117140,8,,,,,,,
+9474369,2016-04-26T20:00:00-0400,Van Morrison,Wang Theatre at Boston,563.0,1750.0,42,104.0,Boston,MA,Ticketmaster,$60.00,0,156780,44,3812,700,209,0.3133827117740012,0.781173,0.630613,58
+9475554,2016-03-29T19:30:00-0400,Melanie Martinez,House of Blues Boston,72.08,299.0,54,188.0,Boston,MA,Live Nation,NoPriceClass,0,6647159,16,,,,,,,
+9475587,2016-05-07T19:30:00-0400,Ben Folds,Orpheum Theatre - MA,75.66,238.0,45,121.0,Boston,MA,Ticketmaster,$38.00,0,125822,55,2573,342,136,0.3268824095937707,0.725836,0.577463,15
+9475725,2016-03-18T18:00:00-0400,Dropkick Murphys,House of Blues Boston,119.2,165.24,22,65.0,Boston,MA,Live Nation,NoPriceClass,0,211206,5,1625,563,79,0.39105798616288706,0.689619,0.641496,20
+9475726,2016-03-17T18:00:00-0400,Dropkick Murphys,House of Blues Boston,76.84,250.0,68,255.0,Boston,MA,Live Nation,NoPriceClass,0,211206,4,1625,563,79,0.39105798616288706,0.689619,0.641496,20
+9475727,2016-03-16T18:00:00-0400,Dropkick Murphys,House of Blues Boston,100.58,140.0,12,75.0,Boston,MA,Live Nation,NoPriceClass,0,211206,3,1625,563,79,0.39105798616288706,0.689619,0.641496,20
+9478233,2016-11-04T18:00:00-0400,Marillion,Royale Boston,80.38,199.0,8,42.0,Boston,MA,Ticketmaster,$60.00,0,243083,236,1534,121,25,0.3460799537597794,0.677385,0.554516,37
+9478431,2016-09-14T19:30:00-0400,Adele,TD Garden,209.0,10450.0,270,722.0,Boston,MA,Ticketmaster,$35.00,0,537914,185,20775,6557,131,0.39058666149548404,0.839977,0.935337,10
+9478432,2016-09-15T19:30:00-0400,Adele,TD Garden,321.1,10450.0,211,504.0,Boston,MA,Ticketmaster,$35.00,0,537914,186,20775,6557,131,0.39058666149548404,0.839977,0.935337,10
+9483729,2016-04-14T20:00:00-0400,Tower Of Power,Wilbur Theatre,114.6,150.0,4,11.0,Boston,MA,Ticketmaster,$50.00,0,161898,32,715,156,24,0.35915326667229236,0.649053,0.546282,48
+9484125,2016-04-14T19:30:00-0400,San Fermin,Paradise Rock Club,48.52,70.0,6,22.0,Boston,MA,Ticketmaster,$15.00,0,6185239,32,747,115,10,0.4549507084022842,0.515342,0.558769,4
+9484260,2016-03-30T19:00:00-0400,Pusha T,Paradise Rock Club,66.2,134.0,27,170.0,Boston,MA,Ticketmaster,$29.50,0,814169,17,12944,4284,48,0.44048259893926034,0.642003,0.661679,24
+9484561,2016-04-27T20:00:00-0400,Van Morrison,Wang Theatre at Boston,388.75,2000.0,45,112.0,Boston,MA,Ticketmaster,$60.00,0,156780,45,3812,700,209,0.3133827117740012,0.781173,0.630613,58
+9484780,2016-04-19T19:00:00-0400,Dream Theater,Orpheum Theatre - MA,63.86,575.0,58,147.0,Boston,MA,Ticketmaster,$33.50,0,8765,37,5628,1208,59,0.3135624170758772,0.802322,0.668145,31
+9488012,2016-04-10T19:30:00-0400,Chick Corea and Bela Fleck,Wilbur Theatre,96.11,214.25,11,39.0,Boston,MA,Ticketmaster,$39.00,0,433400,28,733,431,11,0.40025843292815216,0.598729,0.558862,58
+9489235,2016-04-30T20:00:00-0400,Ana Moura,Berklee Performance Center ,88.64,73.0,2,11.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,75888,48,,,,,,,
+9490413,2016-03-24T18:00:00-0400,Silverstein,Paradise Rock Club,32.0,80.0,13,54.0,Boston,MA,Ticketmaster,$18.00,0,424864,11,346,110,45,0.3862735618425476,0.644113,0.582408,16
+9493398,2016-04-22T19:00:00-0400,Father John Misty,House of Blues Boston,43.62,255.0,160,606.0,Boston,MA,Live Nation,NoPriceClass,0,5113323,40,,,,,,,
+9499232,2016-03-31T18:00:00-0400,The Expendables,Paradise Rock Club,82.73,68.0,2,10.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,18,,,,,,,
+9500212,2016-04-17T18:00:00-0400,Citizen and Turnover,Paradise Rock Club,49.11,1112.0,18,103.0,Boston,MA,Ticketmaster,$16.00,0,324205,35,466,15,9,0.4756294125901308,0.505467,0.575824,5
+9500535,2016-04-01T20:00:00-0400,Junior Boys,Brighton Music Hall,84.57,69.55,1,6.0,Boston,MA,Ticketmaster,$15.00,0,362018,19,1986,224,112,0.4319446899453648,0.627186,0.632407,17
+9500882,2016-04-30T18:00:00-0400,Tori Kelly,House of Blues Boston,78.0,317.0,102,324.0,Boston,MA,Live Nation,NoPriceClass,0,1054791,48,,,,,,,
+9500983,2016-03-21T19:00:00-0400,Lucinda Williams,Paradise Rock Club,53.04,75.0,12,55.0,Boston,MA,Ticketmaster,$35.00,0,245404,8,2310,672,134,0.33087072033254206,0.707809,0.562838,38
+9500984,2016-03-22T19:00:00-0400,Lucinda Williams,Paradise Rock Club,46.55,68.0,10,54.0,Boston,MA,Ticketmaster,$35.00,0,245404,9,2310,672,134,0.33087072033254206,0.707809,0.562838,38
+9501276,2016-04-01T18:30:00-0400,Parachute,Royale Boston,37.72,89.5,12,72.0,Boston,MA,Ticketmaster,$21.00,0,9315,19,223,38,3,0.3939322080113532,0.607437,0.557938,10
+9501304,2016-03-26T18:00:00-0400,Flatbush Zombies,House of Blues Boston,42.62,158.0,17,68.0,Boston,MA,Live Nation,NoPriceClass,0,5081903,13,,,,,,,
+9501753,2016-04-05T19:00:00-0400,The Cult,Shubert Theatre - Boston,92.57,217.0,28,110.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,397363,23,,,,,,,
+9501792,2016-04-19T20:00:00-0400,Boz Scaggs,Wilbur Theatre,93.74,325.0,33,91.0,Boston,MA,Ticketmaster,$49.00,0,86623,37,959,147,68,0.38257266522878286,0.637014,0.569696,53
+9502289,2016-05-07T18:45:00-0400,M. Ward,Royale Boston,40.65,297.0,13,57.0,Boston,MA,Ticketmaster,$27.00,0,503681,55,3395,700,133,0.36587370719066864,0.657022,0.56453,17
+9502336,2016-04-05T19:00:00-0400,Charlie Puth,Brighton Music Hall,81.17,4972.68,38,89.0,Boston,MA,Ticketmaster,$20.00,0,5318433,23,736,94,2,0.6599234742274307,0.553536,0.858109,7
+9502384,2016-05-15T19:00:00-0400,Will Downing,Wilbur Theatre,170.18,187.03,3,14.0,Boston,MA,Ticketmaster,$47.00,0,480899,63,192,15,21,0.43204087330920754,0.541872,0.55194,30
+9502520,2016-08-18T19:30:00-0400,Billy Joel,Fenway Park,137.02,9999.0,893,3191.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,296988,158,,,,,,,
+9502731,2016-04-23T20:00:00-0400,Penny and Sparrow,Cafe 939 at Berklee,28.85,20.0,1,2.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,6504579,41,,,,,,,
+9503072,2016-03-25T18:00:00-0400,We The Kings,Brighton Music Hall,49.68,144.0,10,47.0,Boston,MA,Ticketmaster,$25.00,0,569961,12,540,192,17,0.4607069399494347,0.581727,0.625927,11
+9503075,2016-04-12T19:30:00-0400,Esperanza Spalding presents Emilys D+Evolution,Shubert Theatre - Boston,170.45,234.95,8,32.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,30,,,,,,,
+9503192,2016-04-07T20:00:00-0400,Waka Flocka Flame,Paradise Rock Club,30.82,79.0,14,62.0,Boston,MA,Ticketmaster,$22.50,0,2850016,25,4867,1163,20,0.36281707239903405,0.715457,0.627008,7
+9505449,2016-04-24T19:00:00-0400,Behemoth,Royale Boston,41.64,71.0,9,48.0,Boston,MA,Ticketmaster,$22.00,0,11056,42,1133,256,45,0.3578291466145737,0.681123,0.577435,25
+9505630,2016-03-29T19:00:00-0400,Lucius,Royale Boston,57.94,1111.0,20,96.0,Boston,MA,Ticketmaster,$25.00,0,598452,16,1428,280,8,0.4438013392162591,0.534077,0.560377,5
+9506334,2016-04-17T19:00:00-0400,Aurora,Brighton Music Hall,27.58,199.0,11,65.0,Boston,MA,Ticketmaster,$15.00,0,8489533,35,3361,207,2,0.618090571698296,0.544733,0.793037,5
+9506605,2016-08-05T18:30:00-0400,Pearl Jam,Fenway Park,140.95,9999.0,726,2085.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,312553,145,,,,,,,
+9506606,2016-08-07T18:30:00-0400,Pearl Jam,Fenway Park,138.2,3000.0,922,2811.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,312553,147,,,,,,,
+9507452,2016-06-19T18:00:00-0400,Thrice,House of Blues Boston,43.01,456.99,56,228.0,Boston,MA,Live Nation,NoPriceClass,0,498261,98,,,,,,,
+9507467,2016-04-17T19:00:00-0400,Jewel,Wilbur Theatre,77.23,185.0,70,182.0,Boston,MA,Ticketmaster,$45.00,0,18769,35,2532,508,46,0.36062501722288753,0.673019,0.573084,22
+9507624,2016-05-14T18:00:00-0400,Boyce Avenue,House of Blues Boston,50.28,243.0,25,115.0,Boston,MA,Live Nation,$26.00,0,608550,62,228,37,0,0.4280020362602742,0.610056,0.608825,12
+9508023,2016-04-12T18:30:00-0400,Magic Man and The Griswolds,Royale Boston,33.17,79.0,14,77.0,Boston,MA,Ticketmaster,$20.00,0,699966,30,1060,75,0,0.4699769912353551,0.500253,0.564706,7
+9509047,2016-06-18T19:30:00-0400,At The Drive-In,House of Blues Boston,67.34,9000.0,122,471.0,Boston,MA,Live Nation,NoPriceClass,0,206412,97,,,,,,,
+9509145,2016-03-20T19:00:00-0400,Pete Yorn,Royale Boston,50.87,72.0,13,64.0,Boston,MA,Ticketmaster,$31.50,0,2030465,7,752,132,58,0.37327171340775345,0.614141,0.534594,16
+9509780,2016-04-14T18:00:00-0400,The Contortionist with Monuments and more,Brighton Music Hall,96.14,79.37,2,14.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,32,,,,,,,
+9510707,2016-06-17T19:00:00-0400,Brian Wilson Performs Pet Sounds,Boston Symphony Hall,262.49,400.0,10,36.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,96,,,,,,,
+9510708,2016-06-18T19:00:00-0400,Brian Wilson Performs Pet Sounds,Boston Symphony Hall,310.87,400.0,3,7.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,97,,,,,,,
+9510798,2016-05-05T19:00:00-0400,Babymetal,House of Blues Boston,69.76,424.0,41,200.0,Boston,MA,Live Nation,NoPriceClass,0,5643294,53,,,,,,,
+9511082,2016-07-26T19:30:00-0400,Yanni,Blue Hills Bank Pavilion,98.55,584.0,58,288.0,Boston,MA,Live Nation,NoPriceClass,0,409599,135,,,,,,,
+9511153,2016-04-23T17:30:00-0400,Amon Amarth with Entombed and Exmortus,House of Blues Boston,48.51,129.0,26,125.0,Boston,MA,Live Nation,NoPriceClass,0,216859,41,,,,,,,
+9511207,2016-03-21T19:00:00-0400,Yung Lean,Royale Boston,24.92,57.0,15,72.0,Boston,MA,Ticketmaster,$23.00,0,7120994,8,3,1,6,0.5249788530018884,0.336482,0.548435,6
+9511320,2016-05-28T18:00:00-0400,The Summer Set,Paradise Rock Club,67.4,62.7,8,35.0,Boston,MA,Ticketmaster,$17.00,0,912614,76,599,273,8,0.4633104781559828,0.520261,0.573158,9
+9511697,2016-05-07T20:00:00-0400,Brian Jonestown Massacre,Paradise Rock Club,54.66,89.0,6,33.0,Boston,MA,Ticketmaster,$22.00,0,73973,55,999,86,130,0.41623998835332304,0.638522,0.621462,28
+9511796,2016-04-04T19:00:00-0400,Gogol Bordello,Paradise Rock Club,63.12,77.52,5,28.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,474383,22,,,,,,,
+9511797,2016-04-05T19:00:00-0400,Gogol Bordello,Paradise Rock Club,64.3,77.52,6,30.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,474383,23,,,,,,,
+9511813,2016-04-12T18:00:00-0400,Issues with Crown The Empire and more,House of Blues Boston,42.62,110.0,14,86.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,30,,,,,,,
+9511960,2016-04-02T18:00:00-0400,Pokey Lafarge,Royale Boston,43.8,253.0,12,50.0,Boston,MA,Ticketmaster,$18.00,0,271625,20,336,101,12,0.4568523285920192,0.496114,0.545673,10
+9512002,2016-04-11T19:30:00-0400,Iggy Pop,Orpheum Theatre - MA,88.63,5248.95,142,393.0,Boston,MA,Ticketmaster,$58.00,0,170739,29,1809,412,161,0.33593146785418176,0.741933,0.614867,56
+9512022,2016-08-12T20:00:00-0400,Halsey,Agganis Arena,57.9,1111.0,476,1412.0,Boston,MA,Ticketmaster,$37.00,0,8067338,152,984,69,1,0.6310609711412564,0.534145,0.796906,2
+9512430,2016-04-12T19:30:00-0400,The Joy Formidable,Paradise Rock Club,44.47,61.0,9,36.0,Boston,MA,Ticketmaster,$22.00,0,1195278,30,2286,500,58,0.4191544927234303,0.562696,0.552757,9
+9513573,2016-06-25T20:00:00-0400,Ray LaMontagne,Blue Hills Bank Pavilion,68.58,777.0,229,705.0,Boston,MA,Live Nation,NoPriceClass,0,107918,104,,,,,,,
+9513769,2016-05-13T18:00:00-0400,Old 97's,Royale Boston,52.45,83.0,10,52.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,61,,,,,,,
+9513913,2016-06-19T19:00:00-0400,Barenaked Ladies,Blue Hills Bank Pavilion,55.6,556.0,69,329.0,Boston,MA,Live Nation,NoPriceClass,0,199498,98,,,,,,,
+9514259,2016-05-03T19:00:00-0400,Santigold,House of Blues Boston,44.98,199.01,53,215.0,Boston,MA,Live Nation,NoPriceClass,0,2385431,51,,,,,,,
+9514287,2016-04-09T19:30:00-0400,The Smashing Pumpkins,Orpheum Theatre - MA,73.24,10165.0,167,534.0,Boston,MA,Ticketmaster,$43.50,0,233074,27,7148,1605,210,0.31645883337248104,0.814701,0.699053,28
+9514298,2016-07-31T19:00:00-0400,Bryan Ferry,Blue Hills Bank Pavilion,78.02,1500.0,76,312.0,Boston,MA,Live Nation,NoPriceClass,0,408487,140,,,,,,,
+9514480,2016-07-29T19:30:00-0400,Walk the Moon with MisterWives,Blue Hills Bank Pavilion,73.3,556.0,157,599.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,138,,,,,,,
+9516461,2016-04-28T19:00:00-0400,NOFX,Paradise Rock Club,84.49,1111.0,12,46.0,Boston,MA,Ticketmaster,$25.00,0,214756,46,2052,609,72,0.3297417012261674,0.743259,0.605351,33
+9516492,2016-06-02T19:00:00-0400,Bloc Party,House of Blues Boston,38.67,456.99,60,318.0,Boston,MA,Live Nation,NoPriceClass,0,443396,81,,,,,,,
+9516584,2016-06-03T19:00:00-0400,CHVRCHES,House of Blues Boston,43.8,1234.56,216,594.0,Boston,MA,Live Nation,NoPriceClass,0,5933069,82,,,,,,,
+9517103,2016-06-01T20:00:00-0400,Dark Star Orchestra,Wilbur Theatre,95.71,115.0,3,16.0,Boston,MA,Ticketmaster,$32.00,0,466184,80,309,314,0,0.4200901200090013,0.462287,0.47825,19
+9517820,2016-05-09T19:00:00-0400,Half Moon Run,Brighton Music Hall,46.12,37.0,2,8.0,Boston,MA,Ticketmaster,$15.00,0,3878406,57,574,144,10,0.5272049398695468,0.546965,0.678715,6
+9519281,2016-05-06T20:00:00-0400,Badfish - A Tribute to Sublime,Paradise Rock Club,94.01,77.55,1,6.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,54,,,,,,,
+9520026,2016-05-27T19:30:00-0400,Micky Dolenz and Peter Torks The Monkees 50th Anniversary Tour,Wilbur Theatre,76.84,222.0,27,80.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,75,,,,,,,
+9520330,2016-07-15T19:00:00-0400,Dead and Company,Fenway Park,89.82,2000.0,501,2009.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,8594829,124,,,,,,,
+9520332,2016-07-16T19:00:00-0400,Dead and Company,Fenway Park,96.38,9999.0,859,3432.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,8594829,125,,,,,,,
+9520406,2016-04-22T19:30:00-0400,Joshua D. Evans,Wilbur Theatre,75.66,200.0,7,20.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,40,,,,,,,
+9520433,2016-04-01T22:00:00-0400,Marshmello,Royale Boston,81.55,299.99,13,47.0,Boston,MA,Ticketfly,$15.00,0,8613384,19,137,4,0,0.3816794934568399,0.320142,0.398733,
+9520552,2016-04-02T20:00:00-0400,Turkuaz with Lespecial,Paradise Rock Club,50.88,75.0,4,18.0,Boston,MA,Ticketmaster,$17.00,0,1427937,20,99,140,1,0.454108359069698,0.321058,0.474398,
+9521709,2016-05-17T20:00:00-0400,The Rides,Wilbur Theatre,102.14,195.0,10,28.0,Boston,MA,Ticketmaster,$50.00,0,781564,65,113,32,5,0.4101035037060728,0.38044,0.428427,3
+9521925,2016-06-05T19:00:00-0400,Lord Huron with Nathaniel Rateliff and the Night Sweats,House of Blues Boston,78.96,1234.56,124,367.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,3447511,84,,,,,,,
+9522266,2016-03-18T22:00:00-0400,Bingo Players,Royale Boston,79.19,110.0,4,14.0,Boston,MA,Ticketfly,$20.00,0,2479026,5,2816,91,0,0.4023555245144137,0.638083,0.600272,10
+9522275,2016-04-08T22:00:00-0400,Audien,Royale Boston,79.18,65.0,2,5.0,Boston,MA,Ticketfly,$15.00,0,4320841,26,1691,28,0,0.5926528917330788,0.52878,0.742452,7
+9522389,2016-07-09T15:00:00-0400,Mike Love and Bruce Johnstons Beach Boys,Wilbur Theatre,108.7,229.0,85,253.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,118,,,,,,,
+9522391,2016-04-29T22:00:00-0400,TJR,Royale Boston,79.2,69.99,2,8.0,Boston,MA,Ticketfly,$15.00,0,893311,47,1307,82,0,0.5090161808406958,0.530209,0.63903,11
+9522405,2016-05-10T18:30:00-0400,Lamb of God with Clutch and Corrosion of Conformity,House of Blues Boston,78.02,233.0,42,186.0,Boston,MA,Live Nation,NoPriceClass,0,127504,58,,,,,,,
+9522407,2016-03-17T20:00:00-0400,House of Pain,Royale Boston,24.92,90.0,36,220.0,Boston,MA,Ticketmaster,$29.50,0,203231,4,883,123,11,0.39141618353742147,0.643051,0.589058,25
+9522603,2016-04-06T20:00:00-0400,An Intimate Solo Acoustic Performance by Citizen Cope,Wilbur Theatre,68.97,200.0,17,56.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,24,,,,,,,
+9523064,2016-06-04T18:00:00-0400,CHVRCHES,House of Blues Boston,49.7,200.0,124,393.0,Boston,MA,Live Nation,NoPriceClass,0,5933069,83,,,,,,,
+9523581,2016-06-03T20:00:00-0400,The Sonics with The Woggles and Barrence Whitfield and the Savages,Brighton Music Hall,52.48,86.0,5,30.0,Boston,MA,Ticketmaster,$30.00,0,62227,82,1961,2018,16,0.3356211516689812,0.678825,0.53923,56
+9524000,2016-05-12T19:00:00-0400,Lukas Graham,Brighton Music Hall,65.29,199.0,18,121.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,4801228,60,,,,,,,
+9527174,2016-05-27T18:00:00-0400,Emblem3,House of Blues Boston,39.08,456.99,63,267.0,Boston,MA,Live Nation,NoPriceClass,0,6439724,75,,,,,,,
+9527275,2016-04-07T20:00:00-0400,Andy Hull,Brighton Music Hall,54.38,44.0,2,10.0,Boston,MA,Ticketmaster,$17.00,0,579909,25,421,58,0,0.36635692982888957,0.463154,0.417585,11
+9527282,2016-05-08T18:30:00-0400,X Ambassadors,House of Blues Boston,37.9,550.0,92,510.0,Boston,MA,Live Nation,NoPriceClass,0,6664009,56,,,,,,,
+9527965,2016-10-07T20:00:00-0400,Lake Street Dive,Wang Theatre at Boston,241.25,300.0,3,8.0,Boston,MA,Ticketmaster,$39.00,0,1077331,208,397,175,11,0.5094867319244379,0.50701,0.618196,12
+9528642,2016-05-22T20:00:00-0400,Sam Beam,Wilbur Theatre,89.82,150.0,22,62.0,Boston,MA,Ticketmaster,$29.00,0,625595,70,740,155,0,0.3216275931879802,0.455966,0.362932,14
+9529381,2016-04-18T19:00:00-0400,Tokyo Police Club,Paradise Rock Club,47.55,68.0,9,34.0,Boston,MA,Ticketmaster,$20.00,0,42670,36,2080,296,85,0.3847550308735972,0.631808,0.567803,11
+9529790,2016-05-18T20:00:00-0400,Keb' Mo' Band,Wilbur Theatre,173.6,169.0,3,12.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,66,,,,,,,
+9530045,2016-04-20T18:00:00-0400,Atlas Genius,Paradise Rock Club,53.24,99.0,10,42.0,Boston,MA,Ticketmaster,$17.00,0,5539353,38,1028,174,8,0.4356603317077284,0.575299,0.58592,7
+9530307,2016-05-09T19:00:00-0400,Frightened Rabbit,House of Blues Boston,71.11,424.0,13,59.0,Boston,MA,Live Nation,NoPriceClass,0,364665,57,,,,,,,
+9530322,2016-06-24T20:00:00-0400,Paul Simon,Blue Hills Bank Pavilion,133.89,901.0,278,892.0,Boston,MA,Live Nation,NoPriceClass,0,213059,103,,,,,,,
+9530638,2016-08-16T19:00:00-0400,Goo Goo Dolls,Blue Hills Bank Pavilion,83.92,556.0,101,434.0,Boston,MA,Live Nation,NoPriceClass,0,145102,156,,,,,,,
+9531334,2016-08-18T18:30:00-0400,Slightly Stoopid,Blue Hills Bank Pavilion,82.74,556.0,49,228.0,Boston,MA,Live Nation,NoPriceClass,0,430868,158,,,,,,,
+9531433,2016-08-12T18:00:00-0400,Belly,Royale Boston,81.87,100.0,7,30.0,Boston,MA,Ticketmaster,$32.00,0,478375,152,552,109,14,0.4009017446588021,0.539485,0.510324,25
+9531464,2016-12-08T19:30:00-0400,Chris Botti,Wilbur Theatre,119.32,1334.0,43,132.0,Boston,MA,Ticketmaster,$50.00,0,451102,270,355,172,29,0.3836316741737874,0.578651,0.518679,31
+9531468,2016-12-17T19:30:00-0400,Blood Sweat and Tears,Wilbur Theatre,218.62,296.03,12,42.0,Boston,MA,Ticketmaster,$39.00,0,1153039,279,603,56,25,0.397953598546739,0.612509,0.568394,49
+9531563,2016-04-15T19:00:00-0400,Frankie Ballard,House of Blues Boston,47.33,424.0,53,241.0,Boston,MA,Live Nation,NoPriceClass,0,1050031,33,,,,,,,
+9531587,2016-05-04T19:00:00-0400,The Darkness,Paradise Rock Club,72.12,94.0,9,35.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,52,,,,,,,
+9531784,2016-04-29T19:00:00-0400,Hillsong United,Agganis Arena,82.74,404.58,92,427.0,Boston,MA,Ticketmaster,$30.00,0,22090,47,590,255,42,0.4144240658110544,0.637421,0.617564,18
+9531928,2016-05-18T20:00:00-0400,Zhu,Royale Boston,70.7,122.33,12,44.0,Boston,MA,Ticketmaster,$30.00,0,1183857,66,1959,48,0,0.604552420651678,0.559962,0.793894,2
+9533175,2016-06-15T19:00:00-0400,Jack Garratt,Royale Boston,64.25,170.0,9,50.0,Boston,MA,Ticketmaster,$22.50,0,937546,94,791,34,0,0.5667444193253939,0.488394,0.669482,11
+9533472,2016-08-20T18:30:00-0400,Zac Brown Band,Fenway Park,96.9,9999.0,1860,6179.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,514278,160,,,,,,,
+9533473,2016-08-21T18:30:00-0400,Zac Brown Band,Fenway Park,85.1,9999.0,833,3115.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,514278,161,,,,,,,
+9533495,2016-08-16T19:00:00-0400,Michael Franti and Spearhead,House of Blues Boston,124.2,103.14,1,6.0,Boston,MA,Live Nation,NoPriceClass,0,378626,156,,,,,,,
+9534019,2016-06-16T19:00:00-0400,Michael Franti and Spearhead,House of Blues Boston,83.9,234.0,22,125.0,Boston,MA,Live Nation,NoPriceClass,0,378626,95,,,,,,,
+9534093,2016-04-24T19:00:00-0400,Fonseca,House of Blues Boston,101.6,424.0,6,29.0,Boston,MA,Live Nation,NoPriceClass,0,101022,42,,,,,,,
+9534264,2016-06-17T19:30:00-0400,Macklemore and Ryan Lewis,Agganis Arena,66.03,5376.56,302,909.0,Boston,MA,Ticketmaster,$37.00,0,3015056,96,3094,4346,6,0.5929895480008207,0.593557,0.821049,
+9534354,2016-07-23T20:00:00-0400,Flight of the Conchords,Blue Hills Bank Pavilion,63.6,579.0,216,757.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,132,,,,,,,
+9534595,2016-05-10T19:00:00-0400,Chelsea Wolfe,Royale Boston,59.12,54.72,8,35.0,Boston,MA,Ticketmaster,$20.00,0,183260,58,1765,231,35,0.4165534647552937,0.590233,0.573677,7
+9535470,2016-09-17T18:00:00-0400,Streetlight Manifesto,House of Blues Boston,48.51,207.0,6,25.0,Boston,MA,Live Nation,NoPriceClass,0,22900,188,,,,,,,
+9535989,2016-05-19T20:00:00-0400,The Kills,Paradise Rock Club,77.26,144.0,22,88.0,Boston,MA,Ticketmaster,$30.00,0,236059,67,4068,723,101,0.3651653132525643,0.684666,0.593295,16
+9536587,2016-06-17T18:30:00-0400,Oh Wonder,Royale Boston,38.95,456.99,28,148.0,Boston,MA,Ticketmaster,$20.00,0,8418168,96,665,10,1,0.4957310537230005,0.473941,0.573695,2
+9536650,2016-06-23T18:30:00-0400,Modern Baseball with Joyce Manor and Thin Lips,House of Blues Boston,69.21,149.0,11,51.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,102,,,,,,,
+9537272,2016-08-04T20:00:00-0400,Get The Led Out,Wilbur Theatre,123.13,199.0,4,12.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,144,,,,,,,
+9537669,2016-05-21T19:30:00-0400,Cyndi Lauper,Wang Theatre at Boston,110.82,500.0,115,367.0,Boston,MA,Ticketmaster,$49.50,0,362622,69,3215,551,38,0.475769856233892,0.751473,0.890075,36
+9537826,2016-05-13T20:00:00-0400,Yeasayer,Paradise Rock Club,77.98,69.0,4,23.0,Boston,MA,Ticketmaster,$25.00,0,112691,61,5241,812,61,0.3919505709819035,0.609446,0.556979,10
+9537957,2016-07-14T19:30:00-0400,Bob Dylan,Blue Hills Bank Pavilion,129.94,1100.0,52,203.0,Boston,MA,Live Nation,NoPriceClass,0,408511,123,,,,,,,
+9538513,2016-08-09T19:00:00-0400,Belly,Royale Boston,83.9,500.0,14,56.0,Boston,MA,Ticketmaster,$32.00,0,478375,149,552,109,14,0.4009017446588021,0.539485,0.510324,25
+9538679,2016-03-20T19:30:00-0400,311,Blue Hills Bank Pavilion,107.52,234.0,6,20.0,Boston,MA,Live Nation,NoPriceClass,0,486064,7,,,,,,,
+9539119,2016-03-17T19:30:00-0400,Pink Martini,Berklee Performance Center ,240.07,199.0,1,2.0,Boston,MA,NoVendorClass,NoPriceClass,NoSoldOutClass,553725,4,,,,,,,
+9539132,2016-06-26T19:00:00-0400,Ray LaMontagne,Blue Hills Bank Pavilion,107.52,9000.0,48,174.0,Boston,MA,Live Nation,NoPriceClass,0,107918,105,,,,,,,
+9539249,2016-06-25T18:00:00-0400,Whitesnake,House of Blues Boston,85.1,5376.56,30,160.0,Boston,MA,Live Nation,NoPriceClass,0,505217,104,,,,,,,
+9539298,2016-04-21T18:30:00-0400,Into It. Over It. and The World Is...,Royale Boston,61.5,99.0,7,30.0,Boston,MA,Ticketmaster,$16.50,0,771204,39,269,181,14,0.5399774281815962,0.422213,0.581514,9
+9539599,2016-08-20T19:30:00-0400,Bonnie Raitt,Blue Hills Bank Pavilion,78.28,9000.0,149,493.0,Boston,MA,Live Nation,NoPriceClass,0,135398,160,2254,721,66,0.3160628076798648,0.728868,0.562017,45
+9540533,2016-07-20T19:30:00-0400,311 with Matisyahu,Blue Hills Bank Pavilion,83.92,9000.0,61,183.0,Boston,MA,Live Nation,NoPriceClass,0,486064,129,,,,,,,
+9540741,2016-03-17T20:00:00-0400,The Nth Power with Jennifer Hartswick Band,Brighton Music Hall,51.35,41.4,1,2.0,Boston,MA,NoResults,NoResults,NoResults,NoResults,4,,,,,,,
+9540930,2016-04-25T19:00:00-0400,Floetry,Wilbur Theatre,86.29,90.0,2,8.0,Boston,MA,Ticketmaster,$35.00,0,378151,43,354,26,16,0.44049191303897955,0.522716,0.546903,19
+9541671,2016-06-28T20:00:00-0400,Melissa Etheridge,Wilbur Theatre,122.86,299.99,8,18.0,Boston,MA,Ticketmaster,$60.00,0,424921,107,611,201,31,0.3621526044673349,0.656447,0.558207,31
+9541698,2016-03-18T20:00:00-0400,Tal Wilkenfeld,Brighton Music Hall,59.49,48.3,1,3.0,Boston,MA,Ticketmaster,$20.00,0,670743,5,79,23,1,0.41167888797833346,0.450139,0.46079,14
+9541989,2016-05-05T20:00:00-0400,Buckethead,Wilbur Theatre,356.49,299.99,1,4.0,Boston,MA,Ticketmaster,$27.00,0,164800,53,737,44,38,0.3414124309752702,0.675027,0.544605,31

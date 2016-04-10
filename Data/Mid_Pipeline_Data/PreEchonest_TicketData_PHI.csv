@@ -1,0 +1,197 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9153395,2016-03-14T19:30:00-0400,The Who,Wells Fargo Center Philadelphia,85.5,500.0,74,240.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,69685,1
+9303777,2016-04-11T20:30:00-0400,The Kills,Union Transfer,43.8,1111.0,19,96.0,Philadelphia,PA,Songkick Tickets,$29.50,0,236059,29
+9352329,2016-08-24T20:00:00-0400,Janet Jackson,Wells Fargo Center Philadelphia,40.26,1199.0,328,1389.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,410449,164
+9360707,2016-04-26T21:00:00-0400,The Legwarmers,Trocadero,56.78,47.88,4,21.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,2390600,44
+9372089,2016-04-02T20:00:00-0400,Disturbed,Theatre of Living Arts,191.24,600.0,32,80.0,Philadelphia,PA,Live Nation,NoPriceClass,0,455175,20
+9381614,2016-04-16T19:30:00-0400,Underoath,The Electric Factory,76.05,120.0,17,75.0,Philadelphia,PA,Ticketmaster,$25.00,0,2357960,34
+9392059,2016-03-28T20:00:00-0400,Vance Joy,The Electric Factory,63.74,495.0,57,255.0,Philadelphia,PA,Ticketmaster,$35.00,0,6148694,15
+9403907,2016-04-08T20:00:00-0400,Skizzy Mars,Coda Philadelphia,37.89,85.0,4,24.0,Philadelphia,PA,Ticketweb,NoPriceClass,0,4516073,26
+9408081,2016-03-24T20:30:00-0400,Galactic,The Electric Factory,26.1,66.12,14,77.0,Philadelphia,PA,Ticketmaster,$25.00,0,164225,11
+9422110,2016-03-18T20:30:00-0400,Beach House,Union Transfer,68.5,1111.0,22,95.0,Philadelphia,PA,Ticketfly,$30.00,1,273059,5
+9424649,2016-03-19T20:00:00-0400,Beach House,Union Transfer,63.75,1111.0,19,60.0,Philadelphia,PA,Ticketfly,$30.00,1,273059,6
+9426381,2016-06-25T17:00:00-0400,Kenny Chesney,Lincoln Financial Field,82.74,8500.0,950,6851.0,Philadelphia,PA,Ticketmaster,$41.00,0,292712,104
+9428106,2016-04-10T20:00:00-0400,They Might Be Giants,Theatre of Living Arts,47.33,195.0,10,42.0,Philadelphia,PA,Live Nation,NoPriceClass,0,242200,28
+9428509,2016-03-18T20:00:00-0400,Tortoise,Underground Arts,48.11,47.88,4,17.0,Philadelphia,PA,Ticketweb,NoPriceClass,0,136413,5
+9428855,2016-03-25T20:30:00-0400,Mutemath,Union Transfer,50.77,150.0,15,76.0,Philadelphia,PA,Ticketfly,$25.00,1,524956,12
+9431367,2016-03-31T20:30:00-0400,Savages,Union Transfer,37.89,57.0,9,40.0,Philadelphia,PA,Ticketfly,$15.00,0,242996,18
+9434935,2016-03-25T20:00:00-0400,Bonnie Raitt,Kimmel Center,237.32,1000.0,6,11.0,Philadelphia,PA,Venue,$80.00,0,135398,12
+9437147,2016-05-07T20:30:00-0400,Super Furry Animals,Union Transfer,41.17,54.72,9,41.0,Philadelphia,PA,Ticketfly,$20.00,0,529205,55
+9445537,2016-05-07T19:30:00-0400,Justin Bieber,Wells Fargo Center Philadelphia,213.72,9500.0,197,586.0,Philadelphia,PA,Eventbrite,$169.99,0,2596951,55
+9449995,2016-03-23T20:00:00-0400,Jose Gonzalez,Kimmel Center,81.95,86.7,4,12.0,Philadelphia,PA,Venue,$20.00,0,542593,10
+9452564,2016-04-08T20:00:00-0400,Infamous Stringdusters,World Cafe Live Philadelphia,57.92,47.88,5,29.0,Philadelphia,PA,Ticketfly,NoPriceClass,0,541144,26
+9453410,2016-03-18T20:00:00-0400,Lake Street Dive,Fillmore Philadelphia,61.43,199.0,23,89.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,5
+9453423,2016-05-26T20:00:00-0400,Primal Fear,Trocadero,107.52,89.0,1,4.0,Philadelphia,PA,Songkick Tickets,$32.25,0,5619103,74
+9454873,2016-04-10T20:00:00-0400,Ben Harper and The Innocent Criminals,Fillmore Philadelphia,67.79,168.0,19,70.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,28
+9455592,2016-05-15T21:00:00-0400,King Gizzard and The Lizard Wizard,Underground Arts,36.51,44.46,4,18.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,4137561,63
+9456689,2016-03-26T20:30:00-0400,Jukebox the Ghost,Union Transfer,31.83,53.0,10,52.0,Philadelphia,PA,Ticketfly,$16.00,0,578861,13
+9456714,2016-03-19T20:00:00-0400,Hoodie Allen,The Electric Factory,31.94,75.0,38,138.0,Philadelphia,PA,Ticketmaster,$29.50,0,3040991,6
+9456800,2016-03-15T20:00:00-0400,Metric,Fillmore Philadelphia,32.0,199.01,13,72.0,Philadelphia,PA,Wantickets,$40.00,0,465252,2
+9457574,2016-04-01T20:30:00-0400,St. Germain,The Electric Factory,75.66,89.0,4,23.0,Philadelphia,PA,Ticketmaster,$38.00,0,521797,19
+9457769,2016-05-04T20:00:00-0400,The Used,The Electric Factory,43.8,99.0,18,89.0,Philadelphia,PA,Ticketfly,$30.00,0,162392,52
+9457777,2016-05-03T20:00:00-0400,The Used,The Electric Factory,57.17,99.0,9,41.0,Philadelphia,PA,Ticketfly,$30.00,0,162392,51
+9457816,2016-05-08T19:30:00-0400,Justin Bieber,Wells Fargo Center Philadelphia,162.98,1679.0,236,828.0,Philadelphia,PA,Eventbrite,$169.99,0,2596951,56
+9461606,2016-04-03T19:30:00-0400,Rihanna,Wells Fargo Center Philadelphia,67.4,4400.0,393,1767.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,139648,21
+9463091,2016-03-13T20:00:00-0400,Dropkick Murphys,The Electric Factory,150.0,199.0,5,19.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,0
+9464490,2016-03-26T20:30:00-0400,G. Love and Special Sauce,Fillmore Philadelphia,49.56,79.26,18,78.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,13
+9464501,2016-04-01T20:30:00-0400,Wolf Alice,Union Transfer,34.22,67.0,13,59.0,Philadelphia,PA,Ticketfly,$18.00,0,4126816,19
+9465189,2016-04-04T20:00:00-0400,Andrew Bird,The Electric Factory,67.22,86.0,14,74.0,Philadelphia,PA,Ticketmaster,$36.00,0,395944,22
+9466072,2016-03-16T20:00:00-0400,Logic,Fillmore Philadelphia,65.69,199.0,33,133.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,3
+9467034,2016-05-14T19:30:00-0400,The Avett Brothers,Mann Center for the Performing Arts,60.71,508.25,69,254.0,Philadelphia,PA,Ticketmaster,$35.00,0,348455,62
+9470919,2016-06-02T20:00:00-0400,Nada Surf,World Cafe Live Philadelphia,72.11,85.0,7,38.0,Philadelphia,PA,Ticketfly,NoPriceClass,0,172227,81
+9472806,2016-03-23T19:00:00-0400,Stick Figure,World Cafe Live Philadelphia,65.02,77.0,4,23.0,Philadelphia,PA,Ticketfly,$17.00,0,514431,10
+9473170,2016-03-20T20:00:00-0400,Megadeth,The Electric Factory,59.14,150.0,24,121.0,Philadelphia,PA,Ticketmaster,$45.00,0,117140,7
+9475596,2016-05-06T20:00:00-0400,Ben Folds,Fillmore Philadelphia,67.87,105.0,13,45.0,Philadelphia,PA,Live Nation,NoPriceClass,0,125822,54
+9475729,2016-03-26T20:00:00-0400,Melanie Martinez,Trocadero,142.04,250.0,6,34.0,Philadelphia,PA,Ticketfly,$27.50,1,6647159,13
+9476456,2016-05-12T20:30:00-0400,Mac DeMarco,The Electric Factory,50.68,219.01,23,128.0,Philadelphia,PA,Ticketmaster,$25.00,0,5105188,60
+9478069,2016-05-13T20:30:00-0400,Blue October,The Electric Factory,48.08,90.0,15,86.0,Philadelphia,PA,ShowClix,$50.00,0,500273,61
+9478332,2016-03-13T19:00:00-0400,Hawthorne Heights,Theatre of Living Arts,20.2,16.0,2,11.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,0
+9478428,2016-09-09T19:30:00-0400,Adele,Wells Fargo Center Philadelphia,321.1,9900.0,359,1072.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,537914,180
+9478429,2016-09-10T19:30:00-0400,Adele,Wells Fargo Center Philadelphia,327.0,9900.0,263,689.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,537914,181
+9478709,2016-04-01T20:00:00-0400,AC/DC,Wells Fargo Center Philadelphia,178.62,1666.67,216,647.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,276130,19
+9482696,2016-05-07T20:00:00-0400,Babymetal,The Electric Factory,71.53,117.3,20,97.0,Philadelphia,PA,Ticketmaster,$39.50,0,5643294,55
+9484268,2016-03-25T20:00:00-0400,Pusha T,Trocadero,60.32,94.62,13,64.0,Philadelphia,PA,Ticketfly,$35.00,0,814169,12
+9485082,2016-03-23T20:00:00-0400,Mac Sabbath,Underground Arts,37.9,47.88,6,20.0,Philadelphia,PA,Ticketweb,NoPriceClass,0,4005461,10
+9485414,2016-03-27T20:30:00-0400,Titus Andronicus,Union Transfer,40.09,64.0,13,82.0,Philadelphia,PA,Ticketfly,$20.00,0,1891906,14
+9486088,2016-04-23T21:00:00-0400,Murder By Death,Union Transfer,42.6,84.0,10,48.0,Philadelphia,PA,Ticketfly,$20.00,0,89489,41
+9488873,2016-03-25T20:00:00-0400,The Expendables,Theatre of Living Arts,37.75,195.0,9,50.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,12
+9489226,2016-04-10T19:30:00-0400,Pat McGee Band Reunion Show,World Cafe Live Philadelphia,61.5,100.0,7,29.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,28
+9491769,2016-04-15T18:30:00-0400,Between the Buried and Me & August Burns Red,Fillmore Philadelphia,43.8,141.0,16,77.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,33
+9493400,2016-04-23T20:00:00-0400,Father John Misty,Fillmore Philadelphia,55.59,299.0,60,271.0,Philadelphia,PA,Live Nation,NoPriceClass,0,5113323,41
+9500184,2016-03-13T20:00:00-0400,Greg Dulli,First Unitarian Church of Philadelphia ,43.74,35.0,3,7.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,0
+9500210,2016-04-15T19:00:00-0400,Citizen and Turnover,Theatre of Living Arts,32.0,300.0,13,56.0,Philadelphia,PA,Live Nation,NoPriceClass,0,468456,33
+9500518,2016-05-28T20:30:00-0400,RJD2,Union Transfer,43.62,53.58,13,72.0,Philadelphia,PA,Ticketfly,$20.00,0,13754,76
+9500596,2016-04-21T20:30:00-0400,White Denim,Union Transfer,56.78,75.0,7,38.0,Philadelphia,PA,Ticketfly,$18.00,0,589804,39
+9500763,2016-03-15T20:00:00-0400,GoldLink,The Foundry Philadelphia,89.21,100.0,16,42.0,Philadelphia,PA,Ticketmaster,$15.00,0,8000418,2
+9500879,2016-04-25T20:00:00-0400,Tori Kelly,The Electric Factory,42.61,500.0,80,371.0,Philadelphia,PA,Ticketmaster,$32.50,0,1054791,43
+9500936,2016-05-26T20:00:00-0400,Courtney Barnett,The Electric Factory,40.65,495.0,43,220.0,Philadelphia,PA,Ticketmaster,$30.00,0,3909026,74
+9500940,2016-05-15T19:00:00-0400,The 1975,Mann Center for the Performing Arts,44.59,199.99,54,287.0,Philadelphia,PA,Ticketmaster,$35.00,0,66370,63
+9501041,2016-04-08T20:30:00-0400,The Cult,The Electric Factory,70.93,97.0,13,75.0,Philadelphia,PA,Ticketmaster,$35.00,0,397363,26
+9501263,2016-04-20T20:00:00-0400,Floetry,Theatre of Living Arts,58.53,195.0,26,150.0,Philadelphia,PA,Live Nation,NoPriceClass,0,378151,38
+9501824,2016-05-12T19:30:00-0400,Say Anything,Theatre of Living Arts,35.54,195.0,16,89.0,Philadelphia,PA,Live Nation,NoPriceClass,0,235557,60
+9501866,2016-03-15T20:30:00-0400,Tinashe,Theatre of Living Arts,13.12,79.0,23,122.0,Philadelphia,PA,Live Nation,$26.00,0,2020878,2
+9502334,2016-04-04T20:00:00-0400,Charlie Puth,Theatre of Living Arts,27.26,300.0,70,256.0,Philadelphia,PA,Live Nation,$20.00,0,5318433,22
+9503494,2016-03-23T18:30:00-0400,We The Kings,Theatre of Living Arts,32.0,195.0,11,57.0,Philadelphia,PA,Live Nation,NoPriceClass,0,569961,10
+9505448,2016-04-21T20:30:00-0400,Behemoth,Theatre of Living Arts,48.37,195.0,11,55.0,Philadelphia,PA,Live Nation,NoPriceClass,0,11056,39
+9505468,2016-03-28T19:30:00-0400,Parachute,Union Transfer,40.68,68.0,10,50.0,Philadelphia,PA,Ticketfly,$21.00,0,9315,15
+9505632,2016-04-02T20:30:00-0400,Lucius,Union Transfer,33.42,110.0,14,73.0,Philadelphia,PA,Ticketfly,$18.00,0,598452,20
+9506596,2016-04-28T20:00:00-0400,Pearl Jam,Wells Fargo Center Philadelphia,118.14,999999.0,641,1909.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,312553,46
+9506598,2016-04-29T20:00:00-0400,Pearl Jam,Wells Fargo Center Philadelphia,132.3,1275.0,401,1152.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,312553,47
+9508050,2016-03-18T20:00:00-0400,Biz Markie 80's vs. 90's  Party,Theatre of Living Arts,19.01,195.0,9,46.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,5
+9508117,2016-06-17T20:00:00-0400,Thrice,Fillmore Philadelphia,44.57,92.0,20,80.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,96
+9508701,2016-05-20T20:00:00-0400,Explosions in the Sky,Fillmore Philadelphia,53.24,119.0,18,93.0,Philadelphia,PA,Live Nation,NoPriceClass,0,561284,68
+9509043,2016-06-13T19:30:00-0400,At The Drive-In,Fillmore Philadelphia,88.46,456.99,56,301.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,206412,92
+9509088,2016-03-17T20:00:00-0400,Dr. Dog,Fillmore Philadelphia,61.49,77.0,8,31.0,Philadelphia,PA,Live Nation,NoPriceClass,0,42687,4
+9509092,2016-04-16T20:00:00-0400,Dr. Dog,Fillmore Philadelphia,53.48,81.4,16,74.0,Philadelphia,PA,Live Nation,NoPriceClass,0,42687,34
+9509188,2016-04-09T19:30:00-0400,Magic Man & The Griswolds,Union Transfer,50.86,41.0,2,10.0,Philadelphia,PA,Ticketfly,$20.00,0,699966,27
+9509256,2016-05-08T20:00:00-0400,Lapsley,World Cafe Live Philadelphia,54.72,89.0,7,27.0,Philadelphia,PA,Ticketfly,NoPriceClass,0,8068588,56
+9509398,2016-04-22T20:30:00-0400,Houndmouth,Union Transfer,35.54,100.0,11,59.0,Philadelphia,PA,Ticketfly,$22.00,0,5183683,40
+9509428,2016-11-25T20:00:00-0400,Peter Hook and The Light,Trocadero,54.41,109.0,9,44.0,Philadelphia,PA,Songkick Tickets,$32.25,0,4154881,257
+9509758,2016-03-17T20:00:00-0400,Pete Yorn,Theatre of Living Arts,55.99,195.0,11,49.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,2030465,4
+9509782,2016-04-16T19:00:00-0400,The Contortionist with Monuments and more,The Voltage Lounge,95.7,85.5,3,16.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,34
+9510165,2016-07-09T20:00:00-0400,Billy Joel,Citizens Bank Park,107.52,5000.0,916,3913.0,Philadelphia,PA,Ticketmaster,$49.50,0,296988,118
+9510676,2016-07-19T20:00:00-0400,Yanni,Academy of Music Philadelphia,123.24,383.0,10,42.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,409599,128
+9510677,2016-07-20T20:00:00-0400,Yanni,Academy of Music Philadelphia,123.24,275.02,12,40.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,409599,129
+9510995,2016-07-16T19:00:00-0400,Brand New and Modest Mouse,Mann Center for the Performing Arts,123.25,9999.0,129,312.0,Philadelphia,PA,Ticketmaster,$34.99,0,352662,125
+9511203,2016-03-16T20:30:00-0400,Yung Lean,Union Transfer,40.24,55.86,5,18.0,Philadelphia,PA,Ticketfly,$20.00,0,7120994,3
+9511282,2016-04-09T17:00:00-0400,Life In Color - Kingdom,Festival Pier at Penns Landing,96.9,145.0,38,165.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,27
+9511317,2016-05-25T18:00:00-0400,The Summer Set,Theatre of Living Arts,35.54,195.0,13,88.0,Philadelphia,PA,Live Nation,NoPriceClass,0,912614,73
+9511657,2016-08-06T20:00:00-0400,Coldplay,Lincoln Financial Field,118.14,26536.0,1475,5858.0,Philadelphia,PA,Ticketmaster,$25.50,0,197928,146
+9511701,2016-08-14T19:30:00-0400,Shawn Mendes,Mann Center for the Performing Arts,29.63,1470.0,716,2736.0,Philadelphia,PA,Ticketmaster,$20.00,0,8008073,154
+9511790,2016-04-07T20:30:00-0400,Gogol Bordello,Union Transfer,45.3,76.38,10,44.0,Philadelphia,PA,Ticketfly,$25.00,1,474383,25
+9511792,2016-04-08T20:30:00-0400,Gogol Bordello,Union Transfer,61.48,84.0,8,36.0,Philadelphia,PA,Ticketfly,$25.00,1,474383,26
+9511811,2016-04-08T19:00:00-0400,Issues with Crown The Empire and more,Theatre of Living Arts,39.08,197.0,18,70.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,26
+9512001,2016-03-25T19:00:00-0400,The Early November and The Movielife,Fillmore Philadelphia,76.05,160.0,5,17.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,12
+9512004,2016-04-15T20:00:00-0400,Iggy Pop and Josh Homme,Kimmel Center,131.12,300.0,18,38.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,33
+9512021,2016-08-11T20:00:00-0400,Halsey,Festival Pier at Penns Landing,52.06,1234.56,163,678.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,151
+9512042,2016-05-06T18:30:00-0400,Bane,First Unitarian Church of Philadelphia ,64.25,150.0,5,7.0,Philadelphia,PA,Ticketfly,$20.00,1,456837,54
+9512320,2016-04-17T20:30:00-0400,Geographer with The Crookes,Union Transfer,40.24,57.0,8,36.0,Philadelphia,PA,Ticketfly,$15.00,0,2336633,35
+9512355,2016-05-06T20:00:00-0400,Brian Jonestown Massacre,Union Transfer,38.55,89.0,10,49.0,Philadelphia,PA,Ticketfly,$20.00,0,73973,54
+9512389,2016-04-26T18:30:00-0400,FILTER with Orgy and Vampires Everywhere,Theatre of Living Arts,26.09,195.0,11,54.0,Philadelphia,PA,Live Nation,NoPriceClass,0,188715,44
+9512431,2016-04-15T20:00:00-0400,The Joy Formidable,Underground Arts,40.68,68.0,5,24.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,1195278,33
+9512588,2016-04-01T20:00:00-0400,Grandtheft with G Jones,Theatre of Living Arts,48.48,195.0,9,38.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,19
+9513567,2016-06-18T20:00:00-0400,Ray Lamontagne,Festival Pier at Penns Landing,49.66,105.0,20,101.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,97
+9513581,2016-04-22T20:00:00-0400,Dopapod,Theatre of Living Arts,35.03,195.0,9,49.0,Philadelphia,PA,Live Nation,NoPriceClass,0,2254512,40
+9513735,2016-04-24T20:30:00-0400,Charles Bradley & His Extraordinaires,Union Transfer,54.41,59.28,8,38.0,Philadelphia,PA,Ticketfly,$23.00,0,4755323,42
+9513771,2016-05-14T19:30:00-0400,Old 97's,Union Transfer,45.99,83.0,12,66.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,62
+9513798,2016-05-20T21:00:00-0400,The Sword,Union Transfer,38.56,74.0,10,49.0,Philadelphia,PA,Ticketfly,$20.00,0,69617,68
+9513912,2016-06-18T19:00:00-0400,Barenaked Ladies,Mann Center for the Performing Arts,62.68,319.51,41,186.0,Philadelphia,PA,Ticketmaster,$29.50,0,199498,97
+9514257,2016-05-01T20:00:00-0400,Santigold,Theatre of Living Arts,52.06,195.0,26,123.0,Philadelphia,PA,Live Nation,NoPriceClass,0,2385431,49
+9514294,2016-07-21T19:30:00-0400,Bryan Ferry,Kimmel Center,155.7,265.0,16,51.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,408487,130
+9514476,2016-07-23T19:30:00-0400,Walk the Moon with MisterWives,Festival Pier at Penns Landing,59.69,112.0,32,157.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,132
+9515787,2016-06-04T12:00:00-0400,"The Roots Picnic featuring Usher, Future, Leon Bridges and more",Festival Pier at Penns Landing,139.38,799.0,124,746.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,83
+9516460,2016-04-27T19:00:00-0400,NOFX,Theatre of Living Arts,59.14,1112.0,23,152.0,Philadelphia,PA,Live Nation,NoPriceClass,0,214756,45
+9516490,2016-06-01T20:00:00-0400,Bloc Party,Fillmore Philadelphia,48.04,150.0,26,142.0,Philadelphia,PA,Live Nation,NoPriceClass,0,443396,80
+9516955,2016-04-20T20:00:00-0400,Coleman Hell,The Foundry Philadelphia,47.99,49.95,4,30.0,Philadelphia,PA,Ticketmaster,$15.00,0,6850064,38
+9517419,2016-04-14T20:00:00-0400,Kvelertak,Underground Arts,49.7,59.0,5,18.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,100819,32
+9517583,2016-05-06T20:00:00-0400,Delta Rae,World Cafe Live Philadelphia,77.21,82.0,7,33.0,Philadelphia,PA,Ticketfly,NoPriceClass,0,3570191,54
+9517819,2016-05-07T19:00:00-0400,Half Moon Run,The Foundry Philadelphia,61.44,60.0,4,16.0,Philadelphia,PA,Ticketmaster,$15.00,0,3878406,55
+9519230,2016-06-28T19:30:00-0400,Phish,Mann Center for the Performing Arts,93.36,6000.0,363,1089.0,Philadelphia,PA,Ticketmaster,$45.00,0,46745,107
+9519231,2016-06-29T19:30:00-0400,Phish,Mann Center for the Performing Arts,92.77,6000.0,349,1092.0,Philadelphia,PA,Ticketmaster,$45.00,0,46745,108
+9519278,2016-03-24T20:30:00-0400,Baauer,Union Transfer,49.7,41.0,2,10.0,Philadelphia,PA,Ticketfly,$20.00,0,5502993,11
+9519794,2016-06-05T13:00:00-0400,Beyoncé,Lincoln Financial Field,72.12,21202.0,2634,10628.0,Philadelphia,PA,Ticketmaster,$45.00,0,553938,84
+9520556,2016-06-04T19:30:00-0400,Wilco,Mann Center for the Performing Arts,58.47,486.68,145,497.0,Philadelphia,PA,Ticketmaster,$29.50,0,61494,83
+9521334,2016-03-26T21:00:00-0400,Real Friends with Movements,Everybody Hits,93.75,75.0,1,6.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,13
+9521382,2016-03-18T19:00:00-0400,Screaming Females,First Unitarian Church of Philadelphia ,60.26,122.0,2,3.0,Philadelphia,PA,Brown Paper Tickets,$10.00,0,55424,5
+9521590,2016-05-07T18:30:00-0400,Bane,First Unitarian Church of Philadelphia ,83.71,495.0,10,93.0,Philadelphia,PA,Ticketfly,$20.00,1,456837,55
+9522348,2016-04-09T20:30:00-0400,Big Gigantic,The Electric Factory,51.98,70.68,12,66.0,Philadelphia,PA,Ticketmaster,$28.00,0,931223,27
+9522587,2016-06-06T20:00:00-0400,Lord Huron and Nathaniel Rateliff and the Night Sweats,Fillmore Philadelphia,76.83,1111.0,120,454.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,85
+9522589,2016-05-22T19:30:00-0400,Apocalyptica,Trocadero,55.59,75.0,10,46.0,Philadelphia,PA,Ticketfly,$25.00,0,216253,70
+9523516,2016-05-27T20:30:00-0400,BØRNS,The Electric Factory,42.62,200.0,24,144.0,Philadelphia,PA,Ticketmaster,$25.00,0,8239708,75
+9523579,2016-05-01T16:00:00-0400,The Lets Dance Tour feasturing Silento and more,Fillmore Philadelphia,49.69,102.88,9,49.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,49
+9523586,2016-05-05T20:30:00-0400,The Sonics with The Woggles and  Barrence Whitfield and The Savages,Union Transfer,61.49,50.0,2,12.0,Philadelphia,PA,Ticketfly,$25.00,0,62227,53
+9523812,2016-03-31T20:00:00-0400,Unwritten Law,Underground Arts,44.98,49.02,4,16.0,Philadelphia,PA,Ticketweb,NoPriceClass,0,494486,18
+9527043,2016-05-21T20:00:00-0400,LANY,World Cafe Live Philadelphia,60.32,149.0,8,55.0,Philadelphia,PA,Ticketfly,NoPriceClass,1,8376228,69
+9528246,2016-06-17T18:00:00-0400,Jason Isbell and Frank Turner and the Sleeping Souls,River Stage at Great Plaza,77.88,142.8,24,157.0,Philadelphia,PA,Ticketmaster,$39.50,0,562649,96
+9528383,2016-04-10T20:30:00-0400,The Last Shadow Puppets,Union Transfer,36.51,199.99,46,208.0,Philadelphia,PA,Ticketfly,$35.00,0,2332472,28
+9529393,2016-04-19T20:30:00-0400,Tokyo Police Club,Union Transfer,40.84,99.0,11,52.0,Philadelphia,PA,Ticketfly,$20.00,0,42670,37
+9529512,2016-05-02T20:30:00-0400,M. Ward,Union Transfer,43.27,47.0,4,21.0,Philadelphia,PA,Ticketfly,$23.00,0,503681,50
+9529756,2016-03-17T20:00:00-0400,Zoso The Ultimate Led Zeppelin Tribute,Coda Philadelphia,96.88,80.0,2,10.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,4
+9530044,2016-04-17T19:00:00-0400,Man Overboard,Theatre of Living Arts,49.55,1111.0,22,140.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,35
+9530242,2016-06-25T20:00:00-0400,Paul Simon,Mann Center for the Performing Arts,74.46,1400.0,323,1014.0,Philadelphia,PA,Ticketmaster,$34.50,0,213059,104
+9530306,2016-05-06T20:30:00-0400,Frightened Rabbit,The Electric Factory,39.0,95.0,13,57.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,364665,54
+9530425,2016-04-29T20:00:00-0400,"Basement, Turnstile, Defeater, Colleen Green",Theatre of Living Arts,120.5,195.0,3,12.0,Philadelphia,PA,Live Nation,NoPriceClass,0,219964,47
+9530492,2016-03-13T23:00:00-0400,Questlove,The Foundry Philadelphia,16.93,54.15,5,20.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,0
+9530594,2016-04-01T20:00:00-0400,Goapele,World Cafe Live Philadelphia,108.7,100.0,2,4.0,Philadelphia,PA,Ticketfly,NoPriceClass,0,495683,19
+9530639,2016-08-19T19:00:00-0400,Goo Goo Dolls,Festival Pier at Penns Landing,49.69,103.0,17,107.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,159
+9531336,2016-08-20T18:30:00-0400,Slightly Stoopid,Festival Pier at Penns Landing,40.26,97.0,39,312.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,160
+9531555,2016-05-20T21:00:00-0400,Frankie Ballard,Theatre of Living Arts,34.74,195.0,20,104.0,Philadelphia,PA,Live Nation,NoPriceClass,0,1050031,68
+9531828,2016-03-30T20:00:00-0400,Lil Uzi Vert,Theatre of Living Arts,83.08,1112.0,22,78.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,8081893,17
+9531855,2016-04-08T20:00:00-0400,"WXTU 6 Man Jam Guitar Pull with Charles Kelley, Eric Pasley and more",Fillmore Philadelphia,79.02,99.0,3,14.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,26
+9531926,2016-05-14T20:30:00-0400,Zhu,The Electric Factory,64.07,999.0,28,178.0,Philadelphia,PA,Ticketmaster,$30.00,0,1183857,62
+9532475,2016-06-28T19:29:00-0400,Phish 2 Day Pass,Mann Center for the Performing Arts,214.9,10000.0,62,179.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,107
+9533172,2016-04-22T21:00:00-0400,DJ Snake,Fillmore Philadelphia,75.66,160.95,23,114.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,40
+9533497,2016-08-19T20:00:00-0400,Michael Franti and Spearhead,Fillmore Philadelphia,85.09,69.99,1,4.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,159
+9533879,2016-04-01T20:30:00-0400,The Falcon,MilkBoy,70.09,54.95,1,3.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,19
+9534021,2016-06-19T20:00:00-0400,Michael Franti and Spearhead,Fillmore Philadelphia,79.18,122.0,11,63.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,98
+9534342,2016-06-12T20:00:00-0400,Flight of the Conchords,Mann Center for the Performing Arts,57.17,3333.0,191,697.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,91
+9534420,2016-04-13T19:00:00-0400,Man Overboard,First Unitarian Church of Philadelphia ,41.83,99.99,2,8.0,Philadelphia,PA,Ticketfly,$12.00,0,829549,31
+9534588,2016-04-11T20:00:00-0400,Steel Pulse,Theatre of Living Arts,95.72,195.0,3,8.0,Philadelphia,PA,Live Nation,NoPriceClass,0,25030,29
+9534619,2016-05-10T20:30:00-0400,Black Lips,Union Transfer,50.88,41.9,2,10.0,Philadelphia,PA,Ticketfly,$16.00,0,349473,58
+9534743,2016-06-05T21:00:00-0400,Damien Jurado,Johnny Brendas,71.33,56.0,1,4.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,84
+9535828,2016-06-16T20:00:00-0400,Guster,Fillmore Philadelphia,67.39,90.0,10,35.0,Philadelphia,PA,Live Nation,NoPriceClass,0,24336,95
+9536019,2016-05-03T19:30:00-0400,Enter Shikari,Theatre of Living Arts,48.5,195.0,10,59.0,Philadelphia,PA,Live Nation,NoPriceClass,0,16773,51
+9536366,2016-06-24T21:00:00-0400,Boy and Bear,Underground Arts,54.42,50.16,4,16.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,2971776,103
+9536608,2016-04-02T20:00:00-0400,Edward Sharpe and the Magnetic Zeros,World Cafe Live Philadelphia,69.74,9999.0,42,143.0,Philadelphia,PA,Ticketfly,NoPriceClass,1,2432936,20
+9536654,2016-06-26T19:30:00-0400,Modern Baseball with Joyce Manor and Thin Lips,Fillmore Philadelphia,54.08,89.0,18,81.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,105
+9536666,2016-04-22T19:00:00-0400,Transit,The Foundry Philadelphia,60.1,144.0,9,48.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,40
+9537021,2016-06-22T20:00:00-0400,PUP,PhilaMOCA,34.75,69.0,6,38.0,Philadelphia,PA,Ticketfly,$12.00,1,1118551,101
+9537511,2016-07-22T18:30:00-0400,311 with Matisyahu,Festival Pier at Penns Landing,55.46,126.0,12,76.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,131
+9537657,2016-04-01T20:30:00-0400,Keys N Krates,SoundGarden Hall,32.0,25.0,1,2.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,19
+9537682,2016-03-12T20:00:00-0400,Enter Slugz City Ft. Snails with Must Die,Theatre of Living Arts,23.15,17.5,1,2.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,-1
+9537695,2016-05-11T18:00:00-0400,Insane Clown Posse,Underground Arts,44.67,54.72,4,24.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,48999,59
+9537744,2016-05-19T20:00:00-0400,Sebastian Bach,Theatre of Living Arts,37.89,195.0,7,33.0,Philadelphia,PA,Live Nation,NoPriceClass,0,2652391,67
+9537816,2016-05-17T20:30:00-0400,Yeasayer,Union Transfer,49.15,75.0,9,48.0,Philadelphia,PA,Ticketfly,$25.00,0,112691,65
+9537883,2016-05-13T20:00:00-0400,Chelsea Wolfe,Underground Arts,32.0,49.02,3,9.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,183260,61
+9537956,2016-07-13T19:30:00-0400,Bob Dylan,Mann Center for the Performing Arts,80.77,599.0,30,112.0,Philadelphia,PA,Ticketmaster,$44.50,0,408511,122
+9538325,2016-06-03T19:30:00-0400,Hatebreed,Underground Arts,107.52,89.0,1,6.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,238833,82
+9538363,2016-04-20T20:00:00-0400,Peter Murphy Acoustic,Underground Arts,81.56,80.94,5,25.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,38
+9538648,2016-06-10T20:30:00-0400,B.o.B.,The Foundry Philadelphia,57.96,99.0,6,27.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,89
+9538845,2016-05-21T21:00:00-0400,Digitalism,Underground Arts,63.03,51.3,1,6.0,Philadelphia,PA,NoVendorClass,NoPriceClass,NoSoldOutClass,11927,69
+9539321,2016-06-18T20:30:00-0400,Corey Smith,Union Transfer,50.87,57.0,9,42.0,Philadelphia,PA,Ticketfly,$20.00,0,457537,97
+9539601,2016-08-26T20:00:00-0400,Bonnie Raitt,Mann Center for the Performing Arts,70.15,279.0,9,48.0,Philadelphia,PA,Ticketmaster,$35.00,0,135398,166
+9539667,2016-06-24T20:00:00-0400,Emblem3,Trocadero,89.82,105.0,4,19.0,Philadelphia,PA,Ticketfly,$25.00,0,6439724,103
+9539692,2016-04-05T20:00:00-0400,Pokey LaFarge,World Cafe Live Philadelphia,55.6,45.0,1,1.0,Philadelphia,PA,Ticketfly,NoPriceClass,0,271625,23
+9540615,2016-06-23T19:30:00-0400,The Mavericks,Fillmore Philadelphia,167.64,184.0,4,10.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,102
+9540661,2016-04-25T19:30:00-0400,We Came As Romans,Theatre of Living Arts,235.35,195.0,2,6.0,Philadelphia,PA,Live Nation,NoPriceClass,0,2353224,43
+9540895,2016-03-19T20:00:00-0400,Tank,Theatre of Living Arts,120.44,100.0,2,10.0,Philadelphia,PA,NoResults,NoResults,NoResults,NoResults,6

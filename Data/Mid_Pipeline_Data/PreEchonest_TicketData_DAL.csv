@@ -1,0 +1,195 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9352318,2016-07-15T20:00:00-0500,Janet Jackson,American Airlines Center,39.49,6985.29,252,848.0,Dallas,TX,Ticketmaster,$35.50,0,410449,124
+9369372,2016-03-19T20:00:00-0500,Il Volo,Majestic Theatre Dallas,92.18,349.0,12,33.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,187568,6
+9372085,2016-03-23T20:00:00-0500,Disturbed,House of Blues Dallas,120.87,7000.0,36,113.0,Dallas,TX,Live Nation,NoPriceClass,0,455175,10
+9407604,2016-04-02T20:00:00-0500,Herb Alpert and Lani Hall,Majestic Theatre Dallas,297.5,250.0,1,2.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,2467821,20
+9408920,2016-06-18T19:30:00-0500,Selena Gomez,American Airlines Center,59.14,5588.24,516,1728.0,Dallas,TX,Ticketmaster,$35.50,0,1059348,97
+9420338,2016-03-24T20:00:00-0500,Big Head Todd and The Monsters,House of Blues Dallas,56.78,180.0,23,102.0,Dallas,TX,Live Nation,$17.00,0,506841,11
+9420647,2016-09-17T19:30:00-0500,5 Seconds of Summer,Gexa Energy Pavilion,38.6,2749.0,187,770.0,Dallas,TX,Live Nation,NoPriceClass,0,5642214,188
+9422814,2016-04-22T19:30:00-0500,Chris Botti,Morton Meyerson Symphony Center,618.85,520.0,1,4.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,451102,40
+9422815,2016-04-23T19:30:00-0500,Chris Botti,Morton Meyerson Symphony Center,473.32,399.0,1,2.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,451102,41
+9425638,2016-09-12T19:00:00-0500,Demi Lovato and Nick Jonas,American Airlines Center,24.93,6053.92,336,1156.0,Dallas,TX,Ticketmaster,$29.95,0,976211,183
+9425937,2016-09-07T19:30:00-0500,Black Sabbath,Gexa Energy Pavilion,50.75,9499.05,143,803.0,Dallas,TX,Live Nation,NoPriceClass,0,260631,178
+9426866,2016-03-19T20:00:00-0500,Coheed and Cambria,The South Side Ballroom,66.22,139.71,19,112.0,Dallas,TX,Live Nation,NoPriceClass,0,200900,6
+9431388,2016-04-11T20:00:00-0500,Savages,Trees,59.12,73.0,6,38.0,Dallas,TX,Official artist website,$22.00,0,242996,29
+9434940,2016-04-26T19:30:00-0500,Bonnie Raitt,AT&T Performing Arts Center - Winspear Opera House,147.05,425.0,15,36.0,Dallas,TX,Venue,$59.50,0,135398,44
+9440713,2016-03-25T20:00:00-0500,Anders Osborne,Gas Monkey Bar N Grill,41.44,33.0,1,4.0,Dallas,TX,Ticketfly,$5.00,0,464387,12
+9441822,2016-04-04T19:30:00-0500,Mumford and Sons,Gexa Energy Pavilion,72.08,1111.0,337,1081.0,Dallas,TX,Live Nation,NoPriceClass,0,2202327,22
+9443415,2016-03-24T19:30:00-0500,Finish Ticket,Cambridge Room at House of Blues Dallas,60.32,55.86,2,12.0,Dallas,TX,Live Nation,$17.00,0,506841,11
+9445385,2016-04-10T19:30:00-0500,Justin Bieber,American Airlines Center,268.0,13970.59,253,683.0,Dallas,TX,Ticketmaster,$50.50,0,2596951,28
+9448306,2016-04-23T19:45:00-0500,Umphreys McGee,House of Blues Dallas,55.48,79.0,9,62.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,41
+9452458,2016-08-05T19:00:00-0500,Dixie Chicks,Gexa Energy Pavilion,203.1,1049.0,112,517.0,Dallas,TX,Live Nation,NoPriceClass,0,61008,145
+9452595,2016-03-29T20:00:00-0500,Daughter,Trees,44.04,1111.0,20,85.0,Dallas,TX,Ticketfly,$20.00,0,201667,16
+9453420,2016-05-17T20:00:00-0500,Primal Fear,Trees,76.49,73.0,3,21.0,Dallas,TX,Ticketfly,$27.50,0,352176,65
+9455984,2016-04-15T20:00:00-0500,The Used - 15 Year Anniversary Tour,House of Blues Dallas,85.09,155.0,16,62.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,33
+9456552,2016-04-16T20:00:00-0500,The Used,House of Blues Dallas,92.18,158.0,29,135.0,Dallas,TX,Live Nation,NoPriceClass,0,162392,34
+9456566,2016-04-15T19:59:00-0500,The Used 2 Night Passes,House of Blues Dallas,303.4,255.0,1,5.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,33
+9460614,2016-03-25T20:00:00-0500,Patty Griffin,Granada Theater Dallas,85.1,85.0,3,14.0,Dallas,TX,Ticketfly,NoPriceClass,0,28382,12
+9461587,2016-05-13T19:30:00-0500,Rihanna,American Airlines Center,56.5,5588.24,523,1737.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,61
+9462065,2016-03-14T20:00:00-0500,Wolfmother,Granada Theater Dallas,40.26,88.89,9,39.0,Dallas,TX,Ticketfly,$25.00,0,192603,1
+9462779,2016-05-20T19:00:00-0500,Journey and The Doobie Brothers,Gexa Energy Pavilion,68.41,1225.0,113,619.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,68
+9463630,2016-03-16T20:00:00-0500,Troye Sivan,House of Blues Dallas,134.66,200.0,8,17.0,Dallas,TX,Livenation,NoPriceClass,0,7589349,3
+9466092,2016-03-26T19:30:00-0500,Logic,Bomb Factory,67.2,1111.0,54,269.0,Dallas,TX,Ticketfly,$27.00,0,614453,13
+9468980,2016-03-30T20:00:00-0500,The Melvins and Napalm Death,Trees,59.42,96.0,6,39.0,Dallas,TX,Ticketfly,$25.00,0,191492,17
+9470923,2016-05-28T21:00:00-0500,Nada Surf,Granada Theater Dallas,66.96,85.0,3,18.0,Dallas,TX,Ticketfly,NoPriceClass,0,172227,76
+9471006,2016-05-14T19:30:00-0500,The Love Jones Experience featuring Lalah Hathaway and Musiq,Bruton Theatre,270.75,350.0,2,4.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,62
+9472752,2016-05-15T19:00:00-0500,The Cure,American Airlines Center,55.6,6985.29,618,1963.0,Dallas,TX,Ticketmaster,$30.00,0,474439,63
+9472842,2016-04-16T19:30:00-0500,Stick Figure,Gas Monkey Bar N Grill,41.44,44.0,2,5.0,Dallas,TX,Ticketfly,$16.00,0,514431,34
+9474197,2016-04-01T20:00:00-0500,Yonder Mountain String Band,Granada Theater Dallas,67.38,60.78,4,24.0,Dallas,TX,Ticketfly,NoPriceClass,0,58290,19
+9474276,2016-04-19T19:00:00-0500,Duran Duran,American Airlines Center,106.91,6053.92,223,900.0,Dallas,TX,Ticketmaster,$29.95,0,427500,37
+9475589,2016-04-14T20:00:00-0500,Ben Folds,Majestic Theatre Dallas,67.4,444.44,33,77.0,Dallas,TX,Ticketmaster,$29.50,0,125822,32
+9475708,2016-05-04T21:00:00-0500,Lauren Hill,Bomb Factory,93.36,145.0,13,60.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,52
+9475758,2016-03-15T19:30:00-0500,Cannibal Corpse,Gas Monkey Live,56.76,76.74,4,28.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,2
+9478463,2016-11-01T19:30:00-0500,Adele,American Airlines Center,345.02,10000.0,432,1183.0,Dallas,TX,Ticketmaster,$39.95,0,537914,233
+9478464,2016-11-02T19:30:00-0500,Adele,American Airlines Center,346.27,10000.0,437,1281.0,Dallas,TX,Ticketmaster,$39.95,0,537914,234
+9483213,2016-04-10T19:30:00-0500,Kirk Franklin,Majestic Theatre Dallas,63.86,275.0,10,30.0,Dallas,TX,Ticketmaster,$40.00,0,115247,28
+9484276,2016-03-14T20:00:00-0500,Pusha T,South SIde Music Hall,67.4,99.0,4,17.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,814169,1
+9486780,2016-03-31T19:00:00-0500,Tech N9ne,Gas Monkey Live,67.38,108.0,10,43.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,18
+9488944,2016-03-18T20:00:00-0500,Charlie Robison,Granada Theater Dallas,61.69,85.0,5,16.0,Dallas,TX,Ticketfly,NoPriceClass,0,515390,5
+9492546,2016-03-13T19:00:00-0500,Larry and His Flask,Gas Monkey Bar N Grill,43.79,34.99,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,0
+9497626,2016-12-10T19:00:00-0500,Polyphonic Spree,Majestic Theatre Dallas,112.41,116.42,4,17.0,Dallas,TX,Prekindle,NoPriceClass,0,296180,272
+9500329,2016-05-18T19:30:00-0500,Florence and the Machine,American Airlines Center,58.35,5588.24,415,1735.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,66
+9500625,2016-04-07T20:00:00-0500,Los Lonely Boys,House of Blues Dallas,29.97,200.0,15,67.0,Dallas,TX,Live Nation,NoPriceClass,0,256120,25
+9500657,2016-04-23T20:00:00-0500,George Clinton and the Parliament Funkadelic,Gas Monkey Bar N Grill,95.72,79.0,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,41
+9500871,2016-04-08T20:00:00-0500,Tori Kelly,The South Side Ballroom,41.43,300.0,66,270.0,Dallas,TX,Live Nation,NoPriceClass,0,1054791,26
+9501181,2016-03-15T20:00:00-0500,Miike Snow,Granada Theater Dallas,91.0,95.0,9,18.0,Dallas,TX,Ticketfly,NoPriceClass,1,2391223,2
+9501319,2016-04-08T20:00:00-0500,M83,Bomb Factory,47.34,149.0,40,173.0,Dallas,TX,Ticketfly,$36.00,0,525418,26
+9501810,2016-04-20T19:30:00-0500,Say Anything,Gas Monkey Bar N Grill,48.5,73.0,11,62.0,Dallas,TX,Ticketfly,$19.00,0,235557,38
+9501832,2016-04-09T20:00:00-0500,Beach House,Bomb Factory,37.9,109.0,22,107.0,Dallas,TX,Ticketfly,$30.00,0,273059,27
+9501939,2016-10-14T19:00:00-0500,Keith Urban,American Airlines Center,72.52,5000.0,451,1507.0,Dallas,TX,Ticketmaster,$29.75,0,553707,215
+9502435,2016-08-18T18:30:00-0500,Heart with Cheap Trick,Gexa Energy Pavilion,38.83,975.0,201,832.0,Dallas,TX,Live Nation,NoPriceClass,0,2476336,158
+9503208,2016-03-15T20:00:00-0500,Robert Plant and the Sensational Spaceshifters with The Sonics,Bomb Factory,48.52,555.0,27,85.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,2
+9503256,2016-03-25T20:00:00-0500,Tinashe,Cambridge Room at House of Blues Dallas,43.79,195.0,18,76.0,Dallas,TX,Live Nation,NoPriceClass,0,2020878,12
+9503287,2016-07-15T19:00:00-0500,Weezer and Panic! At The Disco with Andrew McMahon in the Wilderness,Gexa Energy Pavilion,46.16,630.0,241,1050.0,Dallas,TX,Live Nation,NoPriceClass,0,544909,124
+9506647,2016-06-18T20:30:00-0500,The Avett Brothers,Gexa Energy Pavilion,72.12,510.0,134,525.0,Dallas,TX,Live Nation,$35.00,0,348455,97
+9507398,2016-03-18T19:00:00-0500,Killswitch Engage,House of Blues Dallas,53.12,111.0,26,102.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,5
+9507607,2016-03-19T21:00:00-0500,Dave Mason's Traffic Jam,Granada Theater Dallas,120.5,100.0,1,6.0,Dallas,TX,Ticketfly,NoPriceClass,0,7182939,6
+9507615,2016-05-02T19:00:00-0500,Boyce Avenue,House of Blues Dallas,44.78,150.0,20,84.0,Dallas,TX,Live Nation,$22.50,0,608550,50
+9508352,2016-08-27T19:00:00-0500,Brad Paisley,Gexa Energy Pavilion,36.72,529.0,152,663.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,348466,167
+9508353,2016-09-10T19:00:00-0500,Brantley Gilbert,Gexa Energy Pavilion,34.36,529.0,151,709.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,1168636,181
+9508354,2016-05-21T19:30:00-0500,Jason Aldean,Gexa Energy Pavilion,70.09,1495.0,278,954.0,Dallas,TX,Live Nation,NoPriceClass,0,486575,69
+9508356,2016-06-17T19:00:00-0500,Darius Rucker,Gexa Energy Pavilion,34.36,838.24,176,776.0,Dallas,TX,Live Nation,NoPriceClass,0,22690,96
+9508357,2016-07-30T19:00:00-0500,Rascal Flatts,Gexa Energy Pavilion,33.18,460.0,145,660.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,88395,139
+9508359,2016-08-20T19:00:00-0500,Dierks Bentley,Gexa Energy Pavilion,28.46,529.0,162,735.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,407954,160
+9508366,2016-05-21T18:55:00-0500,2016 Country Megaticket Gexa Energy Pavilion,Gexa Energy Pavilion,335.63,1249.0,9,58.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,69
+9509061,2016-04-16T21:00:00-0500,Kurt Vile and the Violators,Granada Theater Dallas,85.54,80.0,4,27.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,4294851,34
+9509126,2016-04-14T20:00:00-0500,Sister Hazel,Granada Theater Dallas,108.68,90.0,2,14.0,Dallas,TX,Ticketfly,NoPriceClass,0,486732,32
+9509207,2016-05-14T20:00:00-0500,Magic Man & The Griswolds,Granada Theater Dallas,61.67,85.0,3,20.0,Dallas,TX,Ticketfly,NoPriceClass,0,699966,62
+9509411,2016-05-14T21:00:00-0500,J Boog,Gas Monkey Bar N Grill,33.17,90.0,10,58.0,Dallas,TX,Ticketfly,$16.00,0,1077783,62
+9509420,2016-11-11T20:00:00-0500,Peter Hook and The Light,Granada Theater Dallas,114.6,95.0,1,8.0,Dallas,TX,Ticketfly,NoPriceClass,0,4154881,243
+9510432,2016-05-14T19:00:00-0500,Dave Matthews Band,Gexa Energy Pavilion,84.38,9999.0,319,915.0,Dallas,TX,Live Nation,NoPriceClass,0,334506,62
+9510884,2016-03-19T12:00:00-0500,Third Eye Blind,Energy Square Parking Lots,41.71,300.0,16,84.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,6
+9511144,2016-04-12T19:30:00-0500,Amon Amarth with Entombed and Exmortus,House of Blues Dallas,52.76,197.0,21,103.0,Dallas,TX,Live Nation,NoPriceClass,0,216859,30
+9511299,2016-04-19T18:00:00-0500,The Summer Set,Trees,70.15,62.7,4,15.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,37
+9511520,2016-04-05T19:30:00-0500,Bruce Springsteen and the E Street Band,American Airlines Center,35.25,13039.22,1005,2845.0,Dallas,TX,Ticketmaster,$69.00,0,227030,23
+9511759,2016-05-05T20:30:00-0500,Flatbush Zombies,South SIde Music Hall,57.35,64.98,5,24.0,Dallas,TX,Ticketfly,$25.00,0,5081903,53
+9511806,2016-03-27T19:00:00-0500,Issues with Crown The Empire and more,House of Blues Dallas,44.13,110.0,9,54.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,14
+9512020,2016-04-01T20:00:00-0500,"New Wave 80s with Sandra, Savage and Patty Ryan",House of Blues Dallas,123.92,167.0,8,40.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,19
+9512226,2016-03-20T20:00:00-0500,Deftones,The South Side Ballroom,77.35,212.0,41,228.0,Dallas,TX,Live Nation,NoPriceClass,0,83230,7
+9512377,2016-05-12T18:30:00-0500,FILTER with Orgy and Vampires Everywhere,Gas Monkey Bar N Grill,54.41,73.0,7,38.0,Dallas,TX,Ticketfly,$22.00,0,188715,60
+9512450,2016-03-12T21:00:00-0500,L7,Granada Theater Dallas,120.48,100.0,2,14.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,-1
+9512575,2016-04-15T19:00:00-0500,"Burn with Bane, Axis and Out of Body",Club Dada,47.32,495.0,10,76.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,33
+9513439,2016-05-06T21:00:00-0500,Wild Belle,Cambridge Room at House of Blues Dallas,30.82,75.0,6,30.0,Dallas,TX,Ticketmaster,$15.00,0,4828533,54
+9513679,2016-09-24T20:00:00-0500,Ray LaMontagne,The South Side Ballroom,92.53,372.55,23,125.0,Dallas,TX,Live Nation,NoPriceClass,0,107918,195
+9513787,2016-04-02T19:30:00-0500,Let's Dance - The Tour featuring Silento,The South Side Ballroom,67.34,232.84,8,41.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,20
+9513796,2016-05-28T20:00:00-0500,The Sword,Gas Monkey Live,54.94,74.0,4,26.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,76
+9514226,2016-03-22T20:00:00-0500,Santigold,House of Blues Dallas,52.76,158.63,21,95.0,Dallas,TX,Live Nation,NoPriceClass,0,2385431,9
+9514365,2016-06-01T20:00:00-0500,Enrique Bunbury,House of Blues Dallas,67.99,167.0,14,58.0,Dallas,TX,Live Nation,NoPriceClass,0,76789,80
+9514693,2016-04-18T18:30:00-0500,The Smashing Pumpkins,Majestic Theatre Dallas,96.9,535.54,69,173.0,Dallas,TX,AXS,$45.00,0,233074,36
+9515820,2016-05-12T21:00:00-0500,Disclosure,Bomb Factory,68.57,506.0,61,248.0,Dallas,TX,Ticketfly,$39.50,0,771160,60
+9516654,2016-05-09T19:00:00-0500,Jason Bonhams Led Zeppelin Experience,House of Blues Dallas,55.48,186.83,21,79.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,57
+9517086,2016-03-20T20:00:00-0500,Moon Taxi,Gas Monkey Bar N Grill,50.87,72.96,3,16.0,Dallas,TX,Ticketfly,$20.00,0,466296,7
+9517581,2016-04-16T20:00:00-0500,Delta Rae,Club Dada,32.0,82.0,7,33.0,Dallas,TX,Ticketfly,NoPriceClass,0,3570191,34
+9517608,2016-04-29T20:00:00-0500,Blackberry Smoke,House of Blues Dallas,38.66,220.69,42,131.0,Dallas,TX,Live Nation,NoPriceClass,0,568895,47
+9519289,2016-05-20T20:00:00-0500,Lucius,Trees,43.78,110.0,7,43.0,Dallas,TX,Ticketfly,$17.00,0,598452,68
+9519306,2016-06-03T20:00:00-0500,Justin Hayward,Majestic Theatre Dallas,95.72,200.0,17,50.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,225631,82
+9519785,2016-05-22T20:00:00-0500,The Lumineers,Bomb Factory,89.5,1111.0,89,352.0,Dallas,TX,Ticketfly,$30.00,0,2827981,70
+9520055,2016-06-28T19:30:00-0500,Micky Dolenz and Peter Torks The Monkees 50th Anniversary Tour,AT&T Performing Arts Center - Winspear Opera House,209.0,246.0,3,10.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,107
+9520444,2016-03-31T20:00:00-0500,Jaheim,Music Hall at Fair Park,118.53,250.0,8,22.0,Dallas,TX,Ticketmaster,$59.50,0,124334,18
+9520495,2016-05-07T20:00:00-0500,An Evening with Graham Nash,Granada Theater Dallas,150.0,401.35,5,10.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,55
+9520554,2016-05-27T21:00:00-0500,Flogging Molly,Gas Monkey Live,80.5,68.0,3,18.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,75
+9520672,2016-09-18T20:00:00-0500,Leon Bridges,Music Hall at Fair Park,89.03,1111.0,171,556.0,Dallas,TX,Ticketmaster,$39.50,0,8205063,189
+9520674,2016-05-16T19:30:00-0500,The Neighbourhood,The South Side Ballroom,76.72,302.7,20,70.0,Dallas,TX,Live Nation,NoPriceClass,0,636848,64
+9521554,2016-05-13T19:00:00-0500,Daryl Hall and John Oats with Sharon Jones and the Dap Kings and more,Gexa Energy Pavilion,40.08,2000.0,174,811.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,61
+9521973,2016-10-02T20:00:00-0500,Mana,American Airlines Center,84.38,1500.0,330,1451.0,Dallas,TX,Ticketmaster,$46.00,0,106220,203
+9522584,2016-05-11T20:00:00-0500,Apocalyptica,Gas Monkey Live,75.12,99.0,6,32.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,59
+9522703,2016-05-05T20:00:00-0500,Gipsy Kings,Bomb Factory,173.6,160.0,3,17.0,Dallas,TX,Ticketfly,$39.50,0,178419,53
+9522928,2016-05-03T20:00:00-0500,Lukas Graham,Cambridge Room at House of Blues Dallas,49.63,213.0,22,125.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,4801228,51
+9523094,2016-03-20T19:30:00-0500,Sophia Loren,AT&T Performing Arts Center - Winspear Opera House,299.07,249.0,1,4.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,148245,7
+9523591,2016-05-13T20:00:00-0500,The Sonics with The Woggles and  Barrence Whitfield and The Savages,Trees,81.86,69.0,3,18.0,Dallas,TX,Ticketfly,NoPriceClass,0,62227,61
+9524099,2016-06-06T20:00:00-0500,Borns,Granada Theater Dallas,61.5,9999.0,25,99.0,Dallas,TX,Prekindle,NoPriceClass,0,8239708,85
+9527099,2016-05-11T20:00:00-0500,LANY,Cambridge Room at House of Blues Dallas,61.72,456.99,12,53.0,Dallas,TX,Ticketmaster,$12.00,0,8376228,59
+9527750,2016-04-15T20:00:00-0500,Blue Oyster Cult,Gas Monkey Live,29.97,67.62,7,26.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,33
+9527803,2016-12-16T19:30:00-0500,Mercyme with The Dallas Pops Holiday Concert,American Airlines Center,103.98,1295.0,51,226.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,278
+9527937,2016-04-29T20:00:00-0500,Highly Suspect,Club Dada,68.58,66.0,4,13.0,Dallas,TX,Ticketfly,$15.00,0,3790131,47
+9528083,2016-03-17T19:30:00-0500,Downtown Fever - Favorite Variety Party Band,Dallas Arboretum and Botanical Garden,24.48,18.63,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,4
+9528084,2016-03-24T19:30:00-0500,Dont Tell Mama,Dallas Arboretum and Botanical Garden,29.97,23.28,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,11
+9528085,2016-03-31T19:30:00-0500,Le Freak,Dallas Arboretum and Botanical Garden,57.45,46.57,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,18
+9528086,2016-04-07T19:30:00-0500,Emerald City,Dallas Arboretum and Botanical Garden,84.92,69.85,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,25
+9528087,2016-04-14T19:30:00-0500,Rocket Man - The Music of Elton John,Dallas Arboretum and Botanical Garden,46.46,37.25,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,32
+9528088,2016-04-21T19:30:00-0500,Escape - The Dallas Journey Band,Dallas Arboretum and Botanical Garden,46.46,37.25,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,39
+9528089,2016-04-28T19:30:00-0500,The La Bamba - Tribute to Richie Valens,Dallas Arboretum and Botanical Garden,35.47,27.94,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,46
+9528090,2016-05-05T19:30:00-0500,Fast Lane - A Tribute to the Eagles,Dallas Arboretum and Botanical Garden,46.46,37.25,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,53
+9528091,2016-05-12T19:30:00-0500,The Molly Ringwalds,Dallas Arboretum and Botanical Garden,46.46,37.25,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,60
+9528092,2016-05-19T19:30:00-0500,Bruce in The USA,Dallas Arboretum and Botanical Garden,51.95,41.91,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,67
+9528093,2016-05-26T19:30:00-0500,All Funk Radio Show Band,Dallas Arboretum and Botanical Garden,46.46,37.25,1,12.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,74
+9528094,2016-06-02T19:30:00-0500,Walk to the Line - Authentic Johnny Cash,Dallas Arboretum and Botanical Garden,49.21,37.25,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,81
+9528095,2016-06-09T19:30:00-0500,Paul McCartney Tribute,Dallas Arboretum and Botanical Garden,46.46,37.25,1,8.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,88
+9528097,2016-06-16T19:30:00-0500,Satisfaction - Rolling Stones Tribute,Dallas Arboretum and Botanical Garden,49.21,37.25,1,4.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,95
+9528098,2016-06-23T19:30:00-0500,Supernatural - The Ultimate Tribute to Santana,Dallas Arboretum and Botanical Garden,49.21,37.25,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,102
+9528099,2016-06-30T19:30:00-0500,The Dallas Winds,Dallas Arboretum and Botanical Garden,49.21,37.25,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,109
+9528100,2016-09-01T19:00:00-0500,Paisley Craze,Dallas Arboretum and Botanical Garden,49.21,37.25,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,172
+9528101,2016-09-08T19:00:00-0500,The Limelight Band,Dallas Arboretum and Botanical Garden,49.21,37.25,1,1.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,179
+9528102,2016-09-15T19:00:00-0500,Sting Police,Dallas Arboretum and Botanical Garden,49.21,37.25,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,186
+9528103,2016-09-22T19:00:00-0500,Memphis Soul - Premier Motown Band,Dallas Arboretum and Botanical Garden,49.21,37.25,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,193
+9528104,2016-09-29T19:00:00-0500,The Prince Experience - Prince Tribute Band,Dallas Arboretum and Botanical Garden,49.21,37.25,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,200
+9528105,2016-10-06T19:00:00-0500,Emerald City,Dallas Arboretum and Botanical Garden,57.45,46.57,1,6.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,207
+9528108,2016-10-20T19:00:00-0500,A Hard Nights Day - A Tribute to the Beatles,Dallas Arboretum and Botanical Garden,60.2,46.57,1,4.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,221
+9528215,2016-03-29T20:00:00-0500,Ludacris,Bomb Factory,58.86,224.24,56,194.0,Dallas,TX,Ticketfly,$35.00,0,338645,16
+9528236,2016-04-20T20:00:00-0500,Nathaniel Rateliff and the Night Sweats,The South Side Ballroom,22.41,1111.0,94,713.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,7514479,38
+9528585,2016-04-17T20:00:00-0500,Generation Axe,Bomb Factory,236.14,199.0,3,23.0,Dallas,TX,Ticketfly,$35.00,0,404702,35
+9529161,2016-06-03T20:00:00-0500,Refused,Trees,66.2,1111.0,7,36.0,Dallas,TX,Ticketfly,NoPriceClass,0,88426,82
+9529378,2016-06-07T20:00:00-0500,Emblem3,House of Blues Dallas,39.0,122.0,23,130.0,Dallas,TX,Live Nation,NoPriceClass,0,6439724,86
+9529750,2016-05-23T20:00:00-0500,Kaleo,Cambridge Room at House of Blues Dallas,60.2,150.0,12,68.0,Dallas,TX,Ticketmaster,$16.00,0,66144,71
+9529791,2016-04-26T20:00:00-0500,Atlas Genius,Granada Theater Dallas,81.93,67.31,2,8.0,Dallas,TX,Ticketfly,NoPriceClass,0,5539353,44
+9530460,2016-05-18T19:00:00-0500,Frightened Rabbit,Granada Theater Dallas,60.31,75.0,4,24.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,364665,66
+9530474,2016-06-22T20:00:00-0500,Steely Dan and Steve Winwood,American Airlines Center,70.24,2222.0,250,973.0,Dallas,TX,Ticketmaster,$29.50,0,87233,101
+9530908,2016-08-12T18:30:00-0500,Disturbed with Breaking Benjamin and more,Gexa Energy Pavilion,37.9,605.39,194,803.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,152
+9531550,2016-06-03T20:00:00-0500,Whitesnake,Bomb Factory,82.53,200.0,16,83.0,Dallas,TX,Ticketfly,$42.50,0,505217,82
+9531559,2016-05-12T20:00:00-0500,Frankie Ballard,House of Blues Dallas,39.06,150.0,45,179.0,Dallas,TX,Live Nation,NoPriceClass,0,1050031,60
+9531578,2016-04-20T20:00:00-0500,The Darkness,House of Blues Dallas,51.92,94.0,15,70.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,38
+9531607,2016-05-08T20:00:00-0500,Paul Simon,AT&T Performing Arts Center - Winspear Opera House,148.82,899.99,27,86.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,213059,56
+9531640,2016-03-19T20:00:00-0500,Banners,Cambridge Room at House of Blues Dallas,31.41,45.0,4,24.0,Dallas,TX,Ticketmaster,$15.00,0,5401363,6
+9531654,2016-04-05T20:00:00-0500,Candlebox,Trees,61.5,59.0,4,20.0,Dallas,TX,Ticketfly,$21.00,0,238974,23
+9531699,2016-04-22T21:00:00-0500,George Clinton and Parliament Funkadelic,House of Blues Dallas,44.92,223.0,20,81.0,Dallas,TX,Live Nation,NoPriceClass,0,350400,40
+9531835,2016-05-06T20:00:00-0500,Migos,South SIde Music Hall,66.22,100.0,2,5.0,Dallas,TX,Ticketfly,$30.00,0,7222459,54
+9531869,2016-04-15T21:00:00-0500,DJ Snake with Mercer and Tchami,The South Side Ballroom,55.6,215.95,37,190.0,Dallas,TX,Live Nation,NoPriceClass,0,297319,33
+9532143,2016-04-27T19:00:00-0500,Cypress Hill,House of Blues Dallas,48.06,150.0,31,128.0,Dallas,TX,Live Nation,NoPriceClass,0,500307,45
+9532350,2016-04-09T20:00:00-0500,DJ Biz Markie's 80's vs 90's Party,House of Blues Dallas,30.82,48.0,7,42.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,27
+9532407,2016-03-19T21:00:00-0500,Skizzy Mars,Gas Monkey Live,100.44,85.0,2,14.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,6
+9532442,2016-04-25T21:00:00-0500,Half Moon Run,Club Dada,56.78,51.0,5,19.0,Dallas,TX,Ticketfly,NoPriceClass,0,3878406,43
+9532450,2016-05-10T20:00:00-0500,LANY,Cambridge Room at House of Blues Dallas,41.42,199.99,16,115.0,Dallas,TX,Ticketmaster,$12.00,0,8376228,58
+9532460,2016-06-25T20:00:00-0500,Slipknot and Marilyn Manson,Gexa Energy Pavilion,31.93,995.0,174,829.0,Dallas,TX,Live Nation,NoPriceClass,0,1012485,104
+9532463,2016-08-04T20:00:00-0500,Rob Zombie and Korn,Gexa Energy Pavilion,48.4,750.0,67,338.0,Dallas,TX,Live Nation,NoPriceClass,0,202975,144
+9532861,2016-05-19T21:00:00-0500,Caifanes,House of Blues Dallas,103.96,186.27,15,64.0,Dallas,TX,Live Nation,NoPriceClass,0,367950,67
+9532987,2016-05-07T20:00:00-0500,La Ley,House of Blues Dallas,73.28,188.7,10,49.0,Dallas,TX,Live Nation,NoPriceClass,0,262243,55
+9533012,2016-05-08T20:00:00-0500,Fonseca,House of Blues Dallas,73.3,123.0,9,37.0,Dallas,TX,Live Nation,NoPriceClass,0,101022,56
+9533469,2016-08-14T19:00:00-0500,Zac Brown Band,Gexa Energy Pavilion,63.74,9000.0,526,1784.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,514278,154
+9533978,2016-08-24T19:00:00-0500,Def Leppard with REO Speedwagon and Tesla,Gexa Energy Pavilion,37.88,1200.0,158,785.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,164
+9534005,2016-07-16T20:00:00-0500,Weird Al Yankovic,AT&T Performing Arts Center - Winspear Opera House,172.42,223.0,5,20.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,132047,125
+9534274,2016-03-31T21:00:00-0500,Jauz with Valentino Khan,The Lizard Lounge,120.44,99.95,1,4.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,18
+9534603,2016-04-29T20:00:00-0500,Chelsea Wolfe,Trees,47.32,75.0,10,30.0,Dallas,TX,Ticketfly,NoPriceClass,0,183260,47
+9534738,2016-05-24T21:00:00-0500,Damien Jurado,Club Dada,54.42,44.46,2,8.0,Dallas,TX,Ticketfly,NoPriceClass,0,549313,72
+9536471,2016-05-16T20:00:00-0500,Mayer Hawthorne,Granada Theater Dallas,104.56,86.51,2,12.0,Dallas,TX,Ticketfly,$29.85,0,5613613,64
+9536692,2016-05-29T20:00:00-0500,Modern Baseball with Joyce Manor and Thin Lips,Gas Monkey Bar N Grill,62.23,62.7,4,20.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,77
+9537097,2016-05-12T19:00:00-0500,Bad Company with Joe Walsh,Gexa Energy Pavilion,40.2,1011.0,199,825.0,Dallas,TX,Live Nation,NoPriceClass,0,364801,60
+9537265,2016-04-22T20:00:00-0500,Tony Bennett,McFarlin Auditorium,156.36,594.99,19,60.0,Dallas,TX,AXS,$78.00,0,500873,40
+9537492,2016-04-27T19:30:00-0500,Enter Shikari,Gas Monkey Bar N Grill,41.44,33.0,1,4.0,Dallas,TX,Ticketfly,$16.00,0,16773,45
+9537503,2016-05-07T20:00:00-0500,Sturgill Simpson,Bomb Factory,78.02,299.0,38,189.0,Dallas,TX,Ticketfly,$35.00,0,6140284,55
+9537519,2016-05-29T19:00:00-0500,97.1 BFD 2016 featuring Shinedown,Gexa Energy Pavilion,39.08,785.0,57,277.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,77
+9537738,2016-05-07T20:00:00-0500,Sebastian Bach,Trees,52.04,55.0,4,24.0,Dallas,TX,Ticketfly,NoPriceClass,0,2652391,55
+9538339,2016-05-12T20:00:00-0500,B.o.B.,Cambridge Room at House of Blues Dallas,106.34,135.0,2,10.0,Dallas,TX,NoResults,NoResults,NoResults,NoResults,60
+9538344,2016-03-15T20:00:00-0500,Firekid,Cambridge Room at House of Blues Dallas,27.28,75.0,5,26.0,Dallas,TX,Ticketmaster,$12.00,0,7391514,2
+9538725,2016-08-06T18:30:00-0500,311,Gexa Energy Pavilion,94.5,556.0,17,64.0,Dallas,TX,NoVendorClass,NoPriceClass,NoSoldOutClass,486064,146
+9539543,2016-04-09T20:00:00-0500,American Authors,Trees,66.22,56.0,3,16.0,Dallas,TX,Ticketfly,$20.00,0,5677419,27
+9540404,2016-05-06T20:00:00-0500,Anderson Ponty Band,Majestic Theatre Dallas,156.36,176.96,2,11.0,Dallas,TX,Prekindle,NoPriceClass,0,96158,54

@@ -1,0 +1,196 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show,num_blogs,num_news,num_reviews,discovery,familiarity,hotttnesss,num_years_active
+9372082,2016-03-16T20:00:00-0700,Disturbed,Fillmore San Francisco,136.9,175.0,18,38.0,San Francisco,CA,Live Nation,NoPriceClass,0,455175,3,,,,,,,
+9383247,2016-03-28T19:30:00-0700,Underoath,The Warfield,43.8,999.0,21,93.0,San Francisco,CA,Songkick Tickets,$37.00,0,2357960,15,1119,370,35,0.3353599339033329,0.703068,0.565007,19
+9426892,2016-03-23T19:00:00-0700,Coheed and Cambria,Nob Hill Masonic Auditorium,46.55,131.0,20,77.0,San Francisco,CA,Live Nation,NoPriceClass,0,200900,10,,,,,,,
+9428441,2016-03-25T21:00:00-0700,Greg Dulli,The Independent,43.79,199.0,11,34.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,12,,,,,,,
+9428442,2016-04-01T21:00:00-0700,Field Music,The Independent,55.34,90.0,4,24.0,San Francisco,CA,Ticketfly,$15.00,0,399137,19,1276,196,82,0.37694532481118087,0.565609,0.499341,12
+9440691,2016-04-01T21:00:00-0700,Anders Osborne,Fillmore San Francisco,52.72,116.0,7,49.0,San Francisco,CA,Live Nation,NoPriceClass,0,2610996,19,,,,,,,
+9452594,2016-03-22T20:00:00-0700,Daughter,Fillmore San Francisco,72.93,493.33,15,38.0,San Francisco,CA,Live Nation,NoPriceClass,0,201667,9,,,,,,,
+9454350,2016-04-01T20:30:00-0700,The Floozies,Mezzanine,49.7,49.99,2,12.0,San Francisco,CA,Ticketmaster,$17.00,0,115595,19,164,112,0,0.497139583833419,0.420265,0.533951,
+9455594,2016-05-25T20:00:00-0700,King Gizzard and The Lizard Wizard,The Independent,61.46,99.0,9,44.0,San Francisco,CA,Ticketfly,$15.00,0,4137561,73,446,20,30,0.5579669395247235,0.31852,0.582897,6
+9458624,2016-03-19T20:00:00-0700,Loreena McKennitt,Nob Hill Masonic Auditorium,96.9,359.0,20,53.0,San Francisco,CA,Live Nation,NoPriceClass,0,156551,6,,,,,,,
+9459672,2016-03-31T20:00:00-0700,Steve Hackett,The Warfield,119.32,248.98,18,53.0,San Francisco,CA,AXS,$59.00,0,486354,18,1009,170,23,0.3787415978208128,0.616688,0.544745,46
+9461079,2016-03-26T21:00:00-0700,Polica,Fillmore San Francisco,49.7,70.68,13,53.0,San Francisco,CA,Live Nation,NoPriceClass,0,4665213,13,,,,,,,
+9461203,2016-03-19T21:00:00-0700,The Revivalists,The Independent,36.13,59.0,3,17.0,San Francisco,CA,Ticketfly,$20.00,1,593309,6,250,397,5,0.4644608000744169,0.478492,0.54098,6
+9462330,2016-03-29T19:30:00-0700,Abbath,Regency Ballroom,82.72,70.68,5,23.0,San Francisco,CA,Songkick Tickets,$37.00,0,74438,16,2123,593,86,0.3789661811876926,0.64203,0.569298,18
+9462331,2016-04-07T20:00:00-0700,The Jezabels,Social Hall SF,138.2,115.0,1,4.0,San Francisco,CA,Songkick Tickets,$24.75,0,1154482,25,811,103,18,0.44485463078717474,0.52613,0.555112,9
+9462411,2016-03-28T20:00:00-0700,Wolfmother,Fillmore San Francisco,91.21,175.95,22,82.0,San Francisco,CA,Live Nation,NoPriceClass,0,192603,15,,,,,,,
+9463102,2016-04-04T20:00:00-0700,Rachel Platten,Regency Ballroom,15.35,500.0,35,171.0,San Francisco,CA,Songkick Tickets,$30.25,0,1988795,22,165,24,1,0.6619148080054834,0.503897,0.799531,13
+9468100,2016-03-30T20:00:00-0700,Elvis Costello,Nob Hill Masonic Auditorium,119.32,401.25,44,135.0,San Francisco,CA,Live Nation,NoPriceClass,0,201754,17,,,,,,,
+9468562,2016-04-18T20:00:00-0700,Deerhunter,Fillmore San Francisco,56.77,199.0,18,77.0,San Francisco,CA,Live Nation,NoPriceClass,0,222485,36,,,,,,,
+9469594,2016-03-22T19:30:00-0700,Slayer,The Warfield,130.29,225.0,19,53.0,San Francisco,CA,Songkick Tickets,$61.75,0,36137,9,5874,1406,82,0.2747790076125085,0.823262,0.623082,33
+9472669,2016-03-19T20:00:00-0700,The Polish Ambassador,The Warfield,62.66,134.79,13,55.0,San Francisco,CA,Songkick Tickets,$40.00,0,26298,6,366,69,0,0.4888909010380226,0.482325,0.572542,11
+9474194,2016-03-24T20:00:00-0700,Yonder Mountain String Band,Fillmore San Francisco,55.93,71.96,7,33.0,San Francisco,CA,Live Nation,NoPriceClass,0,58290,11,,,,,,,
+9475460,2016-03-16T19:30:00-0700,Peter Frampton,Herbst Theatre,132.3,225.0,3,12.0,San Francisco,CA,AXS,$69.50,0,486144,3,1112,299,72,0.3593422525931816,0.679797,0.578411,50
+9476321,2016-03-14T19:00:00-0700,Ben Rector,Fillmore San Francisco,29.64,80.0,10,39.0,San Francisco,CA,Live Nation,NoPriceClass,0,605037,1,,,,,,,
+9476468,2016-05-06T20:00:00-0700,Napalm Death,Slims,88.58,98.8,2,4.0,San Francisco,CA,Eventbrite,$28.50,0,191492,54,3087,696,49,0.32122457860102305,0.720146,0.560625,35
+9476469,2016-05-05T20:00:00-0700,Napalm Death,Slims,37.9,30.0,1,2.0,San Francisco,CA,Eventbrite,$28.50,0,191492,53,3087,696,49,0.32122457860102305,0.720146,0.560625,35
+9476539,2016-03-16T21:00:00-0700,Protoje,The Independent,67.39,85.0,3,11.0,San Francisco,CA,Ticketfly,$20.00,0,1987402,3,331,20,3,0.4855037342064437,0.489716,0.574599,11
+9476542,2016-03-27T20:00:00-0700,Ra Ra Riot,The Independent,90.12,96.66,7,13.0,San Francisco,CA,Ticketfly,$20.00,1,320682,14,3555,419,52,0.45214736011687917,0.596959,0.629498,10
+9476543,2016-03-29T20:00:00-0700,Hey Marseilles,The Independent,56.71,90.0,4,22.0,San Francisco,CA,Ticketfly,NoPriceClass,0,799858,16,,,,,,,
+9476544,2016-03-31T21:00:00-0700,Bag Raiders,The Independent,65.44,90.0,4,11.0,San Francisco,CA,Ticketfly,$20.00,1,975813,18,1610,47,7,0.41358679089685324,0.590688,0.570008,10
+9477888,2016-10-21T20:00:00-0700,Marillion,Regency Ballroom,112.22,149.0,6,24.0,San Francisco,CA,AXS,$65.00,0,243083,222,1534,121,25,0.3460799537597794,0.677385,0.554516,37
+9478645,2016-03-25T19:00:00-0700,Brian Fallon,Great American Music Hall,72.65,195.0,7,28.0,San Francisco,CA,Eventbrite,$26.00,0,2373782,12,608,169,0,0.45310435791129133,0.445813,0.504117,19
+9482723,2016-03-27T19:30:00-0700,X Ambassadors,Nob Hill Masonic Auditorium,21.38,250.0,50,201.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,6664009,14,,,,,,,
+9483189,2016-06-09T20:30:00-0700,Blue October,Regency Ballroom,54.89,94.0,14,48.0,San Francisco,CA,Songkick Tickets,$36.50,0,500273,88,292,33,24,0.4344212483414914,0.607631,0.615481,21
+9483629,2016-05-21T20:00:00-0700,Mac DeMarco,The Warfield,69.76,199.0,46,187.0,San Francisco,CA,Songkick Tickets,$39.00,0,5105188,69,3879,642,101,0.43610374131537094,0.602686,0.612859,8
+9484696,2016-03-24T20:00:00-0700,Murder By Death,The Independent,37.14,62.0,4,21.0,San Francisco,CA,Ticketfly,NoPriceClass,0,89489,11,,,,,,,
+9484970,2016-05-21T21:00:00-0700,Big WIld,The Independent,52.06,199.99,14,87.0,San Francisco,CA,Ticketfly,$15.00,1,8351553,69,153,14,0,0.4062161895812619,0.305084,0.424366,3
+9484971,2016-03-25T21:00:00-0700,French Horn Rebellion and Mystery Skulls,Social Hall SF,56.38,89.95,7,30.0,San Francisco,CA,Songkick Tickets,$24.75,0,4761578,12,356,26,0,0.4885973280831171,0.443063,0.541536,5
+9488232,2016-03-20T19:00:00-0700,Tonight Alive,Slims,33.17,25.99,1,8.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,3317791,7,,,,,,,
+9490346,2016-04-20T21:00:00-0700,Cloud Cult,The Chapel San Francisco,71.11,79.0,2,8.0,San Francisco,CA,Ticketfly,NoPriceClass,0,307496,38,,,,,,,
+9490991,2016-11-30T19:28:00-0700,iLOG launch TEST EVENT,Victors Home Away from Home,19.41,12.0,1,6.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,262,,,,,,,
+9491244,2016-03-27T19:00:00-0700,Fall Out Boy,Bill Graham Civic Auditorium,51.84,399.01,161,656.0,San Francisco,CA,Ticketmaster,$55.00,0,7122254,14,315,30,49,0.47798531693125307,0.509527,0.582099,4
+9491488,2016-03-18T20:59:00-0700,The Revivalists - 2 DAY PASS,The Independent,47.59,38.21,1,2.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,5,,,,,,,
+9491611,2016-03-21T19:30:00-0700,Between the Buried and Me and August Burns Red,Regency Ballroom,59.12,141.0,9,42.0,San Francisco,CA,Songkick Tickets,$38.50,0,391106,8,1757,661,50,0.36782788043444864,0.661072,0.571743,16
+9493886,2016-05-01T20:00:00-0700,The GazettE,Regency Ballroom,96.88,100.0,6,23.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,49,,,,,,,
+9500102,2016-03-26T20:00:00-0700,A Static Lullaby,Social Hall SF,61.67,53.0,3,16.0,San Francisco,CA,Songkick Tickets,$22.75,0,225641,13,43,30,14,0.42776141329120837,0.526632,0.534179,15
+9500103,2016-04-08T21:00:00-0700,Operators,Social Hall SF,61.67,53.0,3,16.0,San Francisco,CA,Songkick Tickets,$22.75,0,144148,26,5,1,6,0.44330218099656576,0.272457,0.463109,10
+9500519,2016-04-09T21:00:00-0700,RJD2,The Independent,85.04,199.99,9,24.0,San Francisco,CA,Ticketfly,$27.00,1,13754,27,930,89,98,0.3809118982735454,0.669931,0.601838,23
+9500586,2016-03-30T20:00:00-0700,White Denim,The Independent,67.39,99.99,10,42.0,San Francisco,CA,Ticketfly,$20.00,1,589804,17,2714,436,90,0.4200359893162661,0.539433,0.534639,10
+9501105,2016-04-09T20:00:00-0700,Billy & The Kid with very special guest Greyboy Allstars,The Warfield,32.0,126.62,14,51.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,27,,,,,,,
+9501174,2016-04-13T20:00:00-0700,Miike Snow,The Independent,126.34,149.0,9,21.0,San Francisco,CA,Ticketfly,$25.00,1,2391223,31,4916,442,38,0.4362423560638505,0.65831,0.674681,9
+9501175,2016-04-14T20:00:00-0700,Miike Snow,The Independent,114.6,168.0,10,26.0,San Francisco,CA,Ticketfly,$25.00,1,2391223,32,4916,442,38,0.4362423560638505,0.65831,0.674681,9
+9501882,2016-04-05T20:00:00-0700,Tinashe,The Warfield,43.79,99.99,23,94.0,San Francisco,CA,Songkick Tickets,$36.50,0,2020878,23,272,13,15,0.5093396168110091,0.362612,0.532097,6
+9503246,2016-03-22T20:00:00-0700,A Great Big World,Great American Music Hall,36.72,54.0,3,14.0,San Francisco,CA,Eventbrite,$21.00,0,5951849,9,435,142,0,0.5814659555030731,0.559848,0.763443,5
+9503482,2016-03-18T20:59:00-0700,Goldfish 2 Night Pass,Mezzanine,49.7,47.98,2,10.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,5,,,,,,,
+9503484,2016-03-19T21:00:00-0700,Goldfish,Mezzanine,103.69,85.75,1,6.0,San Francisco,CA,Ticketfly,$21.50,0,549752,6,852,62,0,0.4451778708804146,0.568692,0.592562,10
+9503523,2016-04-24T20:00:00-0700,Flatbush Zombies,Regency Ballroom,56.19,73.0,7,31.0,San Francisco,CA,Songkick Tickets,$30.25,0,5081903,42,1739,234,2,0.4674644148983356,0.521325,0.579203,6
+9503530,2016-04-15T20:00:00-0700,Day 6 - First Fan Meeting in the USA 2016,The Warfield,220.8,185.0,1,1.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,33,,,,,,,
+9503540,2016-03-22T20:00:00-0700,Honne,Rickshaw Stop,73.3,100.0,4,5.0,San Francisco,CA,Ticketfly,NoPriceClass,0,8321698,9,,,,,,,
+9507080,2016-04-20T20:00:00-0700,Rhye,Regency Ballroom,71.86,79.8,11,40.0,San Francisco,CA,Songkick Tickets,$44.00,0,6002544,38,2412,223,21,0.4545086487737433,0.567723,0.60407,6
+9507131,2016-05-13T21:00:00-0700,Jai Wolf,Regency Ballroom,59.09,128.0,30,130.0,San Francisco,CA,Songkick Tickets,$27.75,0,8041093,61,205,13,0,0.26662801370080136,0.176166,0.278541,
+9507610,2016-04-21T20:00:00-0700,Boyce Avenue,Fillmore San Francisco,49.7,105.0,12,61.0,San Francisco,CA,Live Nation,$25.00,0,608550,39,228,37,0,0.4280020362602742,0.610056,0.608825,12
+9508014,2016-03-16T20:00:00-0700,Natalia LaFourcade,Regency Ballroom,83.9,83.22,3,14.0,San Francisco,CA,Songkick Tickets,$47.00,0,483788,3,202,11,0,0.5423051324204597,0.573794,0.727625,18
+9508017,2016-04-07T20:00:00-0700,Hippie Sabotage,Regency Ballroom,51.45,129.0,15,54.0,San Francisco,CA,Songkick Tickets,$27.75,0,8507413,25,218,12,0,0.46864948382896604,0.494148,0.558185,6
+9508018,2016-05-06T20:30:00-0700,Behemoth,Regency Ballroom,60.3,71.0,6,28.0,San Francisco,CA,Songkick Tickets,$34.00,0,11056,54,1133,256,45,0.3578291466145737,0.681123,0.577435,25
+9508024,2016-05-19T20:00:00-0700,Hatebreed,Regency Ballroom,77.81,67.0,5,19.0,San Francisco,CA,Songkick Tickets,$33.00,0,238833,67,3332,983,32,0.34617713710942916,0.705447,0.586048,22
+9508080,2016-03-31T19:00:00-0700,Into It. Over it. with The World is a Beautiful Place & I am No Longer Afraid to Die,Social Hall SF,63.01,54.0,3,16.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,18,,,,,,,
+9508081,2016-04-09T20:00:00-0700,Dreamers with The Arkells,Social Hall SF,61.67,53.0,3,16.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,27,,,,,,,
+9508084,2016-04-23T21:00:00-0700,Blackbird Blackbird with Chad Valley,Social Hall SF,60.3,51.3,3,12.0,San Francisco,CA,Songkick Tickets,$23.75,0,3347666,41,1153,38,1,0.4448450088822397,0.511228,0.543084,6
+9508686,2016-03-19T21:00:00-0700,Blue Bear School of Music 10th Annual Benefit Concert Featuring Allen Stone,Fillmore San Francisco,57.96,193.0,10,59.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,6,,,,,,,
+9508689,2016-04-09T21:00:00-0700,Moe.,Fillmore San Francisco,178.32,167.0,3,9.0,San Francisco,CA,Live Nation,NoPriceClass,0,183105,27,,,,,,,
+9509036,2016-06-03T19:30:00-0700,At The Drive-In,The Warfield,73.3,1000.0,96,282.0,San Francisco,CA,Songkick Tickets,$72.00,0,206412,82,65,50,46,0.4192674645956971,0.589587,0.576816,22
+9509206,2016-05-08T19:30:00-0700,Magic Man & The Griswolds,Fillmore San Francisco,90.99,75.0,3,18.0,San Francisco,CA,Live Nation,NoPriceClass,0,699966,56,,,,,,,
+9509234,2016-04-17T20:00:00-0700,Lush,The Warfield,120.49,248.0,5,15.0,San Francisco,CA,Songkick Tickets,$57.00,0,20179,35,551,39,20,0.35046372062147807,0.616095,0.503572,29
+9509417,2016-11-05T21:00:00-0700,Peter Hook and The Light,Fillmore San Francisco,56.78,80.0,8,33.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,37055,237,,,,,,,
+9509766,2016-04-16T21:00:00-0700,Pete Yorn,The Independent,72.89,125.0,7,34.0,San Francisco,CA,Ticketfly,$36.50,1,2030465,34,752,132,58,0.37327171340775345,0.614141,0.534594,16
+9510205,2016-04-16T20:30:00-0700,St Germain,Mezzanine,79.2,104.99,7,24.0,San Francisco,CA,Ticketmaster,$45.00,0,521797,34,1054,40,18,0.43107805291783624,0.619458,0.622915,21
+9510356,2016-07-14T21:00:00-0700,Babymetal,Regency Ballroom,147.46,250.0,8,29.0,San Francisco,CA,Songkick Tickets,$48.50,0,5643294,123,427,73,5,0.4893052527262379,0.550324,0.633144,6
+9510363,2016-05-20T20:00:00-0700,Amon Amarth,The Warfield,59.14,85.0,8,49.0,San Francisco,CA,Songkick Tickets,$34.00,0,216859,68,2596,584,43,0.370391035382396,0.691542,0.609883,24
+9510772,2016-03-18T21:00:00-0700,Goldfish,Mezzanine,47.93,40.0,2,7.0,San Francisco,CA,Ticketfly,$21.50,0,549752,5,852,62,0,0.4451778708804146,0.568692,0.592562,10
+9510817,2016-10-13T20:00:00-0700,Brian Wilson Performs Pet Sounds,Nob Hill Masonic Auditorium,160.62,980.0,47,130.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,214,,,,,,,
+9511028,2016-04-15T21:00:00-0700,The Arcs,Fillmore San Francisco,93.54,200.0,28,63.0,San Francisco,CA,Live Nation,NoPriceClass,0,16288,33,,,,,,,
+9511217,2016-04-04T20:00:00-0700,Yung Lean,Fillmore San Francisco,46.75,61.0,6,29.0,San Francisco,CA,Live Nation,NoPriceClass,0,7120994,22,,,,,,,
+9511223,2016-04-22T21:00:00-0700,Boyce Avenue,Fillmore San Francisco,50.03,56.0,4,24.0,San Francisco,CA,Live Nation,$25.00,0,608550,40,228,37,0,0.4280020362602742,0.610056,0.608825,12
+9511990,2016-03-31T20:00:00-0700,Iggy Pop,Nob Hill Masonic Auditorium,144.1,539.0,59,144.0,San Francisco,CA,Live Nation,NoPriceClass,0,170739,18,,,,,,,
+9512023,2016-04-17T20:00:00-0700,The Last Shadow Puppets,Fillmore San Francisco,73.58,250.0,30,111.0,San Francisco,CA,Live Nation,NoPriceClass,0,2332472,35,,,,,,,
+9512086,2016-07-09T20:00:00-0700,Brit Floyd,The Warfield,101.62,250.0,24,90.0,San Francisco,CA,AXS,$47.50,0,3705716,118,21,0,0,0.0,0.280415,0.365798,
+9512206,2016-03-21T20:00:00-0700,Chairlift,The Independent,29.64,199.0,14,55.0,San Francisco,CA,Ticketfly,$20.00,1,567624,8,3240,515,44,0.4018193147689098,0.598469,0.560804,11
+9512207,2016-04-07T20:00:00-0700,The Wild Feathers,The Independent,64.14,90.0,4,24.0,San Francisco,CA,Ticketfly,$17.00,0,3589121,25,187,64,5,0.48179604113008373,0.409725,0.510053,
+9512209,2016-05-01T20:00:00-0700,Gin Wigmore,The Independent,33.52,64.0,7,36.0,San Francisco,CA,Ticketfly,$18.00,0,2501116,49,192,34,5,0.5695339478351304,0.520768,0.705092,8
+9512210,2016-05-22T21:00:00-0700,Big WIld,The Independent,53.23,100.0,15,72.0,San Francisco,CA,Ticketfly,$15.00,1,8351553,70,153,14,0,0.4062161895812619,0.305084,0.424366,3
+9512211,2016-05-27T21:00:00-0700,Brian Jonestown Massacre,The Independent,106.93,128.0,4,22.0,San Francisco,CA,Ticketfly,$25.00,1,73973,75,999,86,130,0.41623998835332304,0.638522,0.621462,28
+9512212,2016-05-28T21:00:00-0700,Brian Jonestown Massacre,The Independent,108.11,98.0,4,26.0,San Francisco,CA,Ticketfly,$25.00,1,73973,76,999,86,130,0.41623998835332304,0.638522,0.621462,28
+9512235,2016-03-23T19:30:00-0700,Slayer,The Warfield,107.51,328.88,14,55.0,San Francisco,CA,Songkick Tickets,$61.75,0,36137,10,5874,1406,82,0.2747790076125085,0.823262,0.623082,33
+9512338,2016-04-20T17:30:00-0700,"Cypress Hill with Berner, Juicy J and more",Bill Graham Civic Auditorium,81.86,149.0,11,44.0,San Francisco,CA,Ticketmaster,$49.50,0,500307,38,2644,496,68,0.33883878087602126,0.738233,0.615059,28
+9512440,2016-03-25T20:00:00-0700,Warren Haynes,Fillmore San Francisco,72.97,85.5,8,34.0,San Francisco,CA,Live Nation,NoPriceClass,0,538056,12,,,,,,,
+9512698,2016-06-04T21:00:00-0700,At The Drive-In,The Warfield,80.38,802.97,114,473.0,San Francisco,CA,Songkick Tickets,$72.00,0,206412,83,65,50,46,0.4192674645956971,0.589587,0.576816,22
+9512944,2016-04-20T20:00:00-0700,Lapsley,The Independent,47.1,90.0,12,48.0,San Francisco,CA,Ticketfly,$15.00,1,8068588,38,446,24,1,0.6548093250186046,0.400897,0.684904,3
+9513447,2016-05-17T20:00:00-0700,Charles Bradley And His Extraordinaires,Fillmore San Francisco,56.58,80.0,9,48.0,San Francisco,CA,Live Nation,NoPriceClass,0,4755323,65,,,,,,,
+9513840,2016-04-13T19:30:00-0700,Filter,Slims,114.6,99.0,2,9.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,188715,31,,,,,,,
+9514235,2016-04-04T20:00:00-0700,Santigold,Nob Hill Masonic Auditorium,67.4,259.0,41,141.0,San Francisco,CA,Live Nation,NoPriceClass,0,2385431,22,,,,,,,
+9514268,2016-04-06T20:00:00-0700,Aurora,The Independent,41.02,90.0,10,60.0,San Francisco,CA,Ticketfly,$15.00,0,3187671,24,84,9,0,0.3693589763180954,0.303166,0.385862,3
+9514292,2016-03-25T20:00:00-0700,The Smashing Pumpkins,Nob Hill Masonic Auditorium,94.3,600.0,82,238.0,San Francisco,CA,Live Nation,NoPriceClass,0,233074,12,,,,,,,
+9514301,2016-08-09T19:00:00-0700,Bryan Ferry,Nob Hill Masonic Auditorium,80.73,371.0,105,322.0,San Francisco,CA,Live Nation,NoPriceClass,0,408487,149,,,,,,,
+9514302,2016-03-20T20:00:00-0700,Lust For Youth,Rickshaw Stop,49.58,39.9,1,4.0,San Francisco,CA,Ticketfly,NoPriceClass,0,3548996,7,,,,,,,
+9514727,2016-05-20T20:00:00-0700,Disclosure,Bill Graham Civic Auditorium,75.66,1111.0,173,794.0,San Francisco,CA,Ticketmaster,$45.00,0,771160,68,15805,2825,37,0.5326435101034225,0.668865,0.839905,6
+9515886,2016-04-08T21:00:00-0700,The English Beat,Bimbos 365 Club,61.49,50.0,2,12.0,San Francisco,CA,Ticketfly,$25.00,0,2955121,26,620,64,14,0.4150477150142191,0.520165,0.51338,38
+9515887,2016-05-14T21:00:00-0700,Wild Belle,Bimbos 365 Club,37.9,60.0,3,8.0,San Francisco,CA,Ticketfly,$18.00,0,4828533,62,990,200,12,0.4731569371145233,0.517425,0.582906,5
+9515888,2016-05-25T20:00:00-0700,James Hunter Six,Bimbos 365 Club,107.52,89.0,1,4.0,San Francisco,CA,Ticketfly,$28.00,0,6359744,73,62,13,1,0.4818029594782253,0.362434,0.50333,
+9516001,2016-05-05T20:00:00-0700,Kverlertak,The Independent,61.49,49.99,1,6.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,53,,,,,,,
+9516002,2016-05-12T21:00:00-0700,Mura Masa,The Independent,67.99,140.95,11,33.0,San Francisco,CA,Ticketfly,$15.00,1,8054163,60,660,9,0,0.4581782429482714,0.457261,0.517955,3
+9516498,2016-03-18T21:00:00-0700,The Brothers Comatose with The Good Luck Thrift Store Outfit,Fillmore San Francisco,45.92,72.0,6,29.0,San Francisco,CA,Live Nation,NoPriceClass,0,2336572,5,,,,,,,
+9517606,2016-04-16T20:00:00-0700,Blackberry Smoke,Fillmore San Francisco,53.31,69.54,8,33.0,San Francisco,CA,Live Nation,NoPriceClass,0,568895,34,,,,,,,
+9519081,2016-05-21T20:00:00-0700,Disclosure,Bill Graham Civic Auditorium,73.29,245.95,163,860.0,San Francisco,CA,Ticketmaster,$45.00,0,771160,69,15805,2825,37,0.5326435101034225,0.668865,0.839905,6
+9519227,2016-07-18T19:30:00-0700,Phish,Bill Graham Civic Auditorium,103.98,2999.0,129,411.0,San Francisco,CA,Ticketmaster,$65.00,0,46745,127,5729,2931,123,0.3218130011539002,0.734903,0.579851,33
+9519228,2016-07-19T19:30:00-0700,Phish,Bill Graham Civic Auditorium,108.76,2999.0,94,287.0,San Francisco,CA,Ticketmaster,$65.00,0,46745,128,5729,2931,123,0.3218130011539002,0.734903,0.579851,33
+9519229,2016-07-20T19:30:00-0700,Phish,Bill Graham Civic Auditorium,106.35,2999.0,118,407.0,San Francisco,CA,Ticketmaster,$65.00,0,46745,129,5729,2931,123,0.3218130011539002,0.734903,0.579851,33
+9519257,2016-05-12T20:00:00-0700,Jai Wolf,Regency Ballroom,43.67,199.99,23,114.0,San Francisco,CA,Songkick Tickets,$27.75,0,8041093,60,205,13,0,0.26662801370080136,0.176166,0.278541,
+9520087,2016-09-20T19:30:00-0700,Micky Dolenz and Peter Torks The Monkees 50th Anniversary Tour,The Warfield,155.9,274.0,6,18.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,191,,,,,,,
+9520118,2016-03-13T20:00:00-0700,Esperanza Spalding,Mezzanine,38.43,86.06,5,13.0,San Francisco,CA,Ticketmaster,$35.00,0,560672,0,1143,656,35,0.41028390819950983,0.598612,0.572751,16
+9520209,2016-04-19T20:00:00-0700,Savages,Fillmore San Francisco,43.8,84.99,13,62.0,San Francisco,CA,Live Nation,NoPriceClass,0,242996,37,,,,,,,
+9521440,2016-04-08T21:00:00-0700,Goldroom,Mezzanine,55.59,122.0,12,36.0,San Francisco,CA,Eventbrite,NoPriceClass,0,8606954,26,,,,,,,
+9521467,2016-05-16T20:00:00-0700,Andrew Bird,Nob Hill Masonic Auditorium,85.08,595.0,19,77.0,San Francisco,CA,Live Nation,NoPriceClass,0,395944,64,,,,,,,
+9521923,2016-05-05T20:00:00-0700,Tommy Emmanuel,Palace of Fine Arts,109.09,177.0,7,20.0,San Francisco,CA,Ticketmaster,$39.50,0,216176,53,232,18,8,0.41279769689355084,0.596615,0.574393,54
+9522150,2019-04-15T17:47:00-0700,SH-Event-09520,SH-Venue-58519,3.51,6.0,3,3.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,1128,,,,,,,
+9522573,2016-05-02T20:00:00-0700,Apocalyptica,Fillmore San Francisco,58.55,89.0,9,38.0,San Francisco,CA,Live Nation,NoPriceClass,0,216253,50,,,,,,,
+9522829,2016-03-28T19:00:00-0700,Porches with Alex G,Rickshaw Stop,62.67,144.0,7,15.0,San Francisco,CA,Ticketfly,NoPriceClass,1,8670199,15,,,,,,,
+9523007,2016-05-06T21:00:00-0700,Four Tet and Ben UFO,Mezzanine,102.68,188.0,8,22.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,54,,,,,,,
+9523076,2016-04-26T20:00:00-0700,The Heavy,The Independent,49.69,199.99,8,32.0,San Francisco,CA,Ticketfly,NoPriceClass,1,348524,44,,,,,,,
+9523286,2016-04-08T21:00:00-0700,Diarrhea Planet,The Independent,57.65,90.0,3,18.0,San Francisco,CA,Ticketfly,NoPriceClass,0,3043121,26,,,,,,,
+9523287,2016-04-22T21:00:00-0700,Wild Nothing,The Independent,79.2,114.55,11,53.0,San Francisco,CA,Ticketfly,$20.00,1,2958061,40,2798,315,42,0.5110117504211314,0.56493,0.676227,7
+9523290,2016-05-07T21:00:00-0700,Rogue Wave,The Independent,43.8,90.0,5,26.0,San Francisco,CA,Ticketfly,$26.00,0,437758,55,1242,106,74,0.4016036007911621,0.584717,0.548228,14
+9523291,2016-05-19T20:00:00-0700,Fruit Bats,The Independent,58.51,90.0,5,28.0,San Francisco,CA,Ticketfly,NoPriceClass,0,500479,67,,,,,,,
+9523292,2016-05-29T21:00:00-0700,Breakbot,The Independent,61.43,99.0,3,12.0,San Francisco,CA,Ticketfly,NoPriceClass,0,604584,77,,,,,,,
+9523576,2016-04-10T16:00:00-0700,The Lets Dance Tour feasturing Silento and more,Nob Hill Masonic Auditorium,74.46,595.0,13,60.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,28,,,,,,,
+9523580,2016-05-20T20:00:00-0700,The Sonics with The Woggles and Barrence Whitfield and the Savages,Fillmore San Francisco,66.42,79.8,7,30.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,62227,68,,,,,,,
+9523991,2016-04-14T20:00:00-0700,Lukas Graham,Rickshaw Stop,89.8,199.0,12,49.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,4801228,32,,,,,,,
+9524107,2016-03-25T21:00:00-0700,Wave Racer,Mezzanine,34.36,44.99,5,36.0,San Francisco,CA,Ticketmaster,$20.00,0,7198494,12,1017,40,0,0.46332962905979497,0.469773,0.533054,6
+9526769,2016-03-25T21:00:00-0700,Selena Tribute Night,Mighty San Francisco,67.4,55.0,1,3.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,12,,,,,,,
+9527228,2016-04-08T21:00:00-0700,Eden,Rickshaw Stop,79.07,98.0,7,31.0,San Francisco,CA,Snagtickets,$13.00,0,8709723,26,error_5,error_5,error_5,error_5,error_5,error_5,error_5
+9527488,2016-03-27T20:00:00-0700,CocoRosie,Regency Ballroom,60.26,78.0,6,25.0,San Francisco,CA,Songkick Tickets,$36.50,0,476377,14,1544,132,76,0.3577053729404801,0.686114,0.582802,13
+9527734,2016-10-12T20:00:00-0700,Brian Wilson Performs Pet Sounds,Nob Hill Masonic Auditorium,102.8,735.0,209,610.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,213,,,,,,,
+9527831,2016-04-12T20:00:00-0700,Jack U,Bill Graham Civic Auditorium,64.9,999.0,216,1049.0,San Francisco,CA,Ticketmaster,$49.50,0,6806704,30,542,41,5,0.5334272931265779,0.560776,0.701372,3
+9527963,2016-03-14T21:00:00-0700,Majid Jordan,The Chapel San Francisco,148.76,229.0,16,48.0,San Francisco,CA,Ticketfly,NoPriceClass,1,8373298,1,,,,,,,
+9528668,2016-03-26T22:00:00-0700,FKJ,1015 Folsom,88.26,73.0,3,8.0,San Francisco,CA,Eventbrite,$15.00,0,6310939,13,450,6,0,0.47565482690335864,0.481521,0.556405,
+9528787,2016-04-13T20:00:00-0700,Jack U,Bill Graham Civic Auditorium,82.74,500.0,133,741.0,San Francisco,CA,Ticketmaster,$49.50,0,6806704,31,542,41,5,0.5334272931265779,0.560776,0.701372,3
+9529155,2016-05-26T20:00:00-0700,Refused,Fillmore San Francisco,74.49,125.0,9,46.0,San Francisco,CA,Live Nation,NoPriceClass,0,88426,74,,,,,,,
+9529380,2016-06-14T20:00:00-0700,Emblem3,Fillmore San Francisco,49.0,122.0,16,83.0,San Francisco,CA,Live Nation,NoPriceClass,0,6439724,93,,,,,,,
+9529768,2016-05-25T21:00:00-0700,Bob Moses,Mezzanine,55.47,100.0,21,63.0,San Francisco,CA,Ticketmaster,$25.00,0,457177,73,492,54,12,0.4900092994396904,0.483553,0.574855,36
+9530041,2016-03-31T21:00:00-0700,Pegboard Nerds,Ruby Skye Nightclub,144.09,120.0,2,6.0,San Francisco,CA,Eventbrite,$5.00,0,6134219,18,403,25,0,0.5265708216950666,0.496,0.628843,11
+9530074,2016-03-29T20:00:00-0700,Hinds,Rickshaw Stop,82.81,199.0,5,19.0,San Francisco,CA,Ticketfly,NoPriceClass,1,8400833,16,,,,,,,
+9530340,2016-04-01T21:00:00-0700,Gryffin,Rickshaw Stop,70.57,150.0,12,34.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,8501183,19,,,,,,,
+9530341,2016-04-27T20:00:00-0700,Gryffin,Rickshaw Stop,60.25,120.0,18,73.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,8501183,45,,,,,,,
+9530456,2016-05-26T19:00:00-0700,Frightened Rabbit,Regency Ballroom,60.03,95.0,7,26.0,San Francisco,CA,Songkick Tickets,$34.00,0,364665,74,4319,658,99,0.4079484742643696,0.618127,0.588173,13
+9530468,2016-05-26T21:00:00-0700,Bob Moses,Mezzanine,59.36,456.99,15,83.0,San Francisco,CA,Ticketmaster,$25.00,0,457177,74,492,54,12,0.4900092994396904,0.483553,0.574855,36
+9530525,2016-05-13T21:00:00-0700,Hot Buttered Rum,Fillmore San Francisco,95.72,79.0,1,8.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,24435,61,,,,,,,
+9530975,2016-03-26T21:00:00-0700,Selena Tribute Night,Mighty San Francisco,67.4,60.0,2,6.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,13,,,,,,,
+9531012,2016-03-19T21:30:00-0700,The Official Future Afterparty,1015 Folsom,101.54,132.0,10,40.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,6,,,,,,,
+9531191,2016-05-10T20:00:00-0700,Violent Femmes,Fillmore San Francisco,102.75,1000.0,18,94.0,San Francisco,CA,Live Nation,NoPriceClass,0,135837,58,,,,,,,
+9531192,2016-05-11T20:00:00-0700,Violent Femmes,Fillmore San Francisco,96.9,456.99,20,101.0,San Francisco,CA,Live Nation,NoPriceClass,0,135837,59,,,,,,,
+9531967,2016-05-10T20:00:00-0700,Elliphant,The Independent,73.29,105.95,8,28.0,San Francisco,CA,Ticketfly,$15.00,0,5327228,58,1062,52,1,0.49054326576721097,0.547683,0.632205,4
+9532976,2016-07-18T19:29:00-0700,Phish 3 Day Pass,Bill Graham Civic Auditorium,335.65,449.0,14,33.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,127,,,,,,,
+9533025,2016-05-15T20:00:00-0700,Yuna,Great American Music Hall,79.19,64.99,1,8.0,San Francisco,CA,Eventbrite,$27.50,0,425237,63,1256,153,5,0.3979918512985334,0.591405,0.549148,8
+9533102,2016-04-30T20:00:00-0700,DJ Snake,Bill Graham Civic Auditorium,90.93,200.0,73,335.0,San Francisco,CA,Ticketmaster,$39.50,0,297319,48,2370,210,0,0.5787100973954252,0.612088,0.825988,7
+9533236,2016-04-16T21:00:00-0700,Break Science,The Chapel San Francisco,86.65,68.98,1,2.0,San Francisco,CA,Ticketfly,$21.00,0,2368166,34,390,295,2,0.46720562219786105,0.457594,0.528406,7
+9534028,2016-04-02T21:00:00-0700,Tritonal,Ruby Skye Nightclub,72.11,199.99,7,30.0,San Francisco,CA,Eventbrite,$25.00,0,2631576,20,3506,37,0,0.5036565609385315,0.580033,0.682445,8
+9534034,2016-05-02T19:30:00-0700,Keith Jarrett,Davies Symphony Hall,358.07,325.0,2,10.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,182208,50,,,,,,,
+9534265,2016-03-19T21:00:00-0700,faUSt,The Chapel San Francisco,87.25,95.0,2,8.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,6,,,,,,,
+9534267,2016-05-28T20:00:00-0700,Macklemore and Ryan Lewis,Bill Graham Civic Auditorium,78.02,219.99,77,444.0,San Francisco,CA,Ticketmaster,$55.00,0,3015056,76,3094,4346,6,0.5929895480008207,0.593557,0.821049,
+9534340,2016-06-27T20:00:00-0700,Flight of the Conchords,Nob Hill Masonic Auditorium,209.0,9790.69,29,81.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,510659,106,,,,,,,
+9534599,2016-06-01T21:00:00-0700,Chelsea Wolfe,The Chapel San Francisco,75.12,64.98,3,14.0,San Francisco,CA,Ticketfly,$25.00,0,183260,80,1765,231,35,0.4165534647552937,0.590233,0.573677,7
+9534600,2016-06-02T21:00:00-0700,Chelsea Wolfe,The Chapel San Francisco,76.39,66.12,3,12.0,San Francisco,CA,Ticketfly,$25.00,0,183260,81,1765,231,35,0.4165534647552937,0.590233,0.573677,7
+9535309,2016-04-21T21:00:00-0700,Crystal Fighters,The Independent,73.24,122.0,5,22.0,San Francisco,CA,Ticketfly,$20.00,0,2331800,39,1783,165,9,0.45116516797215356,0.569059,0.600875,8
+9535332,2016-06-21T20:00:00-0700,Twin Peaks,The Independent,59.73,75.0,3,14.0,San Francisco,CA,Ticketfly,NoPriceClass,0,296530,100,,,,,,,
+9535390,2016-06-08T20:00:00-0700,Mutual Benefit,Rickshaw Stop,83.92,69.0,1,6.0,San Francisco,CA,Ticketfly,NoPriceClass,0,3836411,87,,,,,,,
+9535725,2016-07-21T20:00:00-0700,Streetlight Manifesto,Regency Ballroom,53.1,65.0,7,30.0,San Francisco,CA,AXS,$20.00,0,22900,130,384,82,15,0.42215910562936654,0.593816,0.584763,14
+9535883,2016-03-22T20:00:00-0700,The Naked and Famous,The Independent,85.04,194.44,17,53.0,San Francisco,CA,Ticketfly,$29.50,1,2478496,9,1296,269,28,0.45410136404215173,0.578283,0.613599,
+9535886,2016-04-11T20:00:00-0700,Edward Sharpe and the Magnetic Zeros,The Independent,92.18,2000.0,23,82.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,2432936,29,,,,,,,
+9535888,2016-05-18T20:00:00-0700,Vetiver,The Independent,64.91,75.0,3,14.0,San Francisco,CA,Ticketfly,NoPriceClass,0,4974,66,,,,,,,
+9535889,2016-06-11T21:00:00-0700,Lyrics Born,The Independent,69.04,75.0,2,12.0,San Francisco,CA,Ticketfly,$20.00,0,355671,90,611,53,52,0.38374028785936337,0.572886,0.514142,24
+9536081,2016-04-16T19:00:00-0700,Gareth Emery,Audio Nightclub San Francisco,73.25,149.0,12,48.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,34,,,,,,,
+9536645,2016-06-05T20:00:00-0700,Modern Baseball with Joyce Manor and Thin Lips,Fillmore San Francisco,69.13,65.0,6,23.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,84,,,,,,,
+9537182,2016-03-22T20:00:00-0700,Celebrating David Bowie with Gary Oldman and Friends,Regency Ballroom,119.32,185.0,5,17.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,9,,,,,,,
+9537187,2016-04-14T20:00:00-0700,B.A.P.,The Warfield,118.14,269.0,8,39.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,32,,,,,,,
+9537819,2016-05-31T20:00:00-0700,Yeasayer,Fillmore San Francisco,70.9,61.33,6,26.0,San Francisco,CA,Live Nation,NoPriceClass,0,112691,79,,,,,,,
+9537896,2016-03-25T21:00:00-0700,The Sword,Slims,33.18,26.0,1,1.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,69617,12,,,,,,,
+9538323,2016-03-24T22:00:00-0700,Stormzy,1015 Folsom,61.44,49.95,1,5.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,11,,,,,,,
+9538492,2016-06-02T20:00:00-0700,Baroness,Regency Ballroom,77.81,63.84,2,10.0,San Francisco,CA,AXS,$25.00,0,184832,81,2871,682,109,0.4290564825635997,0.631153,0.632467,13
+9538493,2016-04-29T20:00:00-0700,OMI,Regency Ballroom,92.63,76.38,1,6.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,47,,,,,,,
+9538509,2016-04-02T20:30:00-0700,Allan Rayman,Milk Bar,37.9,35.0,2,8.0,San Francisco,CA,Eventbrite,$10.00,0,7141674,20,43,0,0,0.0,0.104369,0.0,
+9538728,2016-08-14T18:30:00-0700,311,Nob Hill Masonic Auditorium,95.72,225.0,6,23.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,486064,154,,,,,,,
+9539567,2016-06-01T21:00:00-0700,Digitalism,The Independent,88.64,74.1,2,14.0,San Francisco,CA,Ticketfly,NoPriceClass,0,11927,80,,,,,,,
+9540811,2016-05-14T19:00:00-0700,Illenium,Slims,85.04,69.99,2,16.0,San Francisco,CA,NoVendorClass,NoPriceClass,NoSoldOutClass,7668859,62,,,,,,,
+9542218,2016-04-13T20:00:00-0700,Bunny Wailer,Regency Ballroom,81.87,67.26,1,6.0,San Francisco,CA,AXS,$29.50,0,380385,31,333,63,21,0.4550623601257308,0.514001,0.557811,56
+9542226,2016-04-30T21:30:00-0700,Markus Schulz,Audio Nightclub San Francisco,114.12,120.0,7,40.0,San Francisco,CA,NoResults,NoResults,NoResults,NoResults,48,,,,,,,

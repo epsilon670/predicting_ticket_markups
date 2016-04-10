@@ -1,0 +1,107 @@
+event_id,date,artist,venue,min_price,max_price,total_postings,total_tickets,city,state,ticket_vendor,face_value,sold_out,sk_artist_id,days_to_show
+9295580,2016-03-18T13:00:00-0400,Ultra Music Festival 3 Day Pass,Bayfront Park Miami,512.65,100000.0,221,481.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,5
+9392051,2016-03-16T20:00:00-0400,Vance Joy,Fillmore Miami Beach at Jackie Gleason Theater,28.58,110.0,43,178.0,Miami Beach,FL,Live Nation,NoPriceClass,0,6148694,3
+9400047,2016-04-08T20:00:00-0400,Ricardo Montaner,American Airlines Arena,138.59,1096.0,54,218.0,Miami,FL,Ticketmaster,$68.00,0,254050,26
+9408916,2016-06-11T19:30:00-0400,Selena Gomez,American Airlines Arena,64.13,1255.99,404,1656.0,Miami,FL,Ticketmaster,$36.50,0,1059348,90
+9432550,2016-06-03T19:00:00-0400,Ellie Goulding,American Airlines Arena,50.09,501.0,156,848.0,Miami,FL,Ticketmaster,$31.75,0,2332047,82
+9439471,2016-09-07T19:30:00-0400,Maroon 5,American Airlines Arena,77.61,4410.0,1126,3957.0,Miami,FL,Ticketmaster,$27.50,0,181875,178
+9443712,2016-06-26T19:00:00-0400,The Cure,Bayfront Park Miami,55.6,2020.0,160,532.0,Miami,FL,Live Nation,NoPriceClass,0,474439,105
+9445394,2016-07-02T19:30:00-0400,Justin Bieber,American Airlines Arena,129.65,5555.0,606,1696.0,Miami,FL,Ticketmaster,$50.50,0,2596951,111
+9455710,2016-07-03T19:30:00-0400,Justin Bieber,American Airlines Arena,118.05,9999.99,452,1527.0,Miami,FL,Ticketmaster,$50.50,0,2596951,112
+9456686,2016-06-27T19:00:00-0400,The Cure,Bayfront Park Miami,45.51,3236.86,441,1218.0,Miami,FL,Live Nation,NoPriceClass,0,474439,106
+9459683,2016-03-19T15:59:00-0400,Jazz in the Gardens 2 Day Pass,Sun Life Stadium,151.98,1500.0,64,229.0,Miami Gardens,FL,NoResults,NoResults,NoResults,NoResults,6
+9459696,2016-03-19T16:00:00-0400,Jazz in the Gardens Saturday,Sun Life Stadium,76.05,528.0,49,192.0,Miami Gardens,FL,NoResults,NoResults,NoResults,NoResults,6
+9459697,2016-03-20T16:00:00-0400,Jazz in the Gardens Sunday,Sun Life Stadium,118.52,900.0,26,110.0,Miami Gardens,FL,NoRegexp,NoRegexp,NoRegexp,NoRegexp,7
+9461598,2016-03-15T19:30:00-0400,Rihanna,American Airlines Arena,97.7,1648.0,175,522.0,Miami,FL,Ticketmaster,$31.00,0,139648,2
+9463629,2016-03-13T20:00:00-0400,Troye Sivan,Fillmore Miami Beach at Jackie Gleason Theater,85.04,149.05,12,41.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,0
+9468070,2016-04-29T20:00:00-0400,Julio Iglesias,American Airlines Arena,110.27,740.0,89,359.0,Miami,FL,Ticketmaster,$75.00,0,369708,47
+9469928,2016-05-11T20:00:00-0400,The 1975,Bayfront Park Miami,60.32,441.0,169,571.0,Miami,FL,Live Nation,NoPriceClass,0,66370,59
+9478459,2016-10-25T19:30:00-0400,Adele,American Airlines Arena,256.2,5000.0,307,707.0,Miami,FL,Ticketmaster,$36.95,0,537914,226
+9478460,2016-10-26T19:30:00-0400,Adele,American Airlines Arena,220.8,9900.0,321,707.0,Miami,FL,Ticketmaster,$36.95,0,537914,227
+9483201,2016-03-15T19:30:00-0400,Kirk Franklin,Fillmore Miami Beach at Jackie Gleason Theater,46.15,73.01,6,21.0,Miami Beach,FL,Live Nation,NoPriceClass,0,115247,2
+9484163,2016-07-19T19:30:00-0400,Chris Tomlin,American Airlines Arena,71.54,525.0,43,216.0,Miami,FL,Ticketmaster,$25.75,0,355463,128
+9484743,2016-04-01T20:00:00-0400,Duran Duran with CHIC featuring Nile Rogers,Bayfront Park Miami,315.2,265.0,1,4.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,19
+9490692,2016-04-15T20:00:00-0400,Air Supply,Magic City Casino,182.25,550.0,4,13.0,Miami,FL,NoVendorClass,NoPriceClass,NoSoldOutClass,112504,33
+9493503,2016-06-10T20:00:00-0500,Loretta Lynn,Buffalo Run Casino,181.07,149.0,1,2.0,Miami,OK,NoVendorClass,NoPriceClass,NoSoldOutClass,321136,89
+9500647,2016-05-13T19:30:00-0400,Florence and the Machine,American Airlines Arena,50.88,584.0,352,1614.0,Miami,FL,Ticketmaster,$27.50,0,595947,61
+9500876,2016-04-17T20:00:00-0400,Tori Kelly,Fillmore Miami Beach at Jackie Gleason Theater,60.32,450.0,30,116.0,Miami Beach,FL,Live Nation,NoPriceClass,0,1054791,35
+9501060,2016-04-16T20:30:00-0400,The Cult,Fillmore Miami Beach at Jackie Gleason Theater,60.32,150.0,36,132.0,Miami Beach,FL,Live Nation,NoPriceClass,0,397363,34
+9503264,2016-06-14T19:00:00-0400,Weezer and Panic! At The Disco with Andrew McMahon in the Wilderness,Bayfront Park Miami,63.27,468.0,142,586.0,Miami,FL,Live Nation,NoPriceClass,0,544909,93
+9506577,2016-04-09T20:00:00-0400,Pearl Jam,American Airlines Arena,80.3,1556.0,700,1902.0,Miami,FL,Ticketmaster,$67.00,0,312553,27
+9507383,2016-05-06T20:00:00-0400,Carlos Vives,American Airlines Arena,59.14,836.0,80,326.0,Miami,FL,Ticketmaster,$21.00,0,193958,54
+9510992,2016-07-08T19:00:00-0400,Brand New and Modest Mouse,Bayfront Park Miami,48.51,1234.56,341,1146.0,Miami,FL,Live Nation,NoPriceClass,0,535518,117
+9512005,2016-04-19T21:00:00-0400,Iggy Pop,Fillmore Miami Beach at Jackie Gleason Theater,121.56,393.75,40,148.0,Miami Beach,FL,Live Nation,NoPriceClass,0,170739,37
+9512559,2016-03-18T11:59:00-0400,No Sugar Added 2 Day Pass,Nikki Beach,144.1,150.0,2,5.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,5
+9513613,2016-08-13T20:00:00-0400,Ray LaMontagne,Fillmore Miami Beach at Jackie Gleason Theater,73.82,290.0,70,273.0,Miami Beach,FL,Live Nation,NoPriceClass,0,107918,153
+9513848,2016-04-08T20:00:00-0400,Vanessa Williams,Knight Concert Hall at Adrienne Arsht Center,107.52,173.0,5,29.0,Miami,FL,NoVendorClass,NoPriceClass,NoSoldOutClass,3208561,26
+9514468,2016-04-22T20:30:00-0400,Bush,Fillmore Miami Beach at Jackie Gleason Theater,72.0,124.99,20,81.0,Miami Beach,FL,Live Nation,NoPriceClass,0,478333,40
+9515807,2016-03-23T20:30:00-0400,New Order,Fillmore Miami Beach at Jackie Gleason Theater,133.6,299.0,23,105.0,Miami Beach,FL,Live Nation,NoPriceClass,0,434538,10
+9516994,2016-03-17T12:00:00-0400,All Gone Pete Tong Pool Party,Surfcomber Hotel Miami Beach,61.5,249.0,16,39.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,4
+9517091,2016-03-14T21:00:00-0400,Bro Safari's Animal House,The Hangar Miami,114.82,95.19,1,8.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,1
+9519808,2016-04-27T18:00:00-0400,Beyoncé,Marlins Park,40.26,10000.0,2422,8334.0,Miami,FL,Ticketmaster,$45.00,0,553938,45
+9520478,2016-03-17T22:00:00-0400,XXYYXX,Bardot,43.74,97.0,6,30.0,Miami,FL,ShowClix,$12.00,0,4971388,4
+9521455,2016-09-13T20:00:00-0400,Leon Bridges,Fillmore Miami Beach at Jackie Gleason Theater,68.71,199.01,33,136.0,Miami Beach,FL,Live Nation,NoPriceClass,0,8205063,184
+9521703,2016-04-01T20:00:00-0400,Duran Duran with CHIC featuring Nile Rogers,Bayfront Park Miami,61.13,614.25,118,414.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,19
+9521977,2016-10-29T20:30:00-0400,Mana,American Airlines Arena,73.3,9000.0,516,2346.0,Miami,FL,Ticketmaster,$46.00,0,106220,230
+9522363,2016-04-02T20:00:00-0400,De Mocedades A El Consorcio,Dade County Auditorium,98.47,99.0,3,24.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,20
+9522364,2016-05-14T20:00:00-0400,Charlie Zaa En Concierto,Dade County Auditorium,98.47,183.75,5,38.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,62
+9522367,2016-10-22T20:00:00-0400,Danny Rivera,Dade County Auditorium,98.47,136.5,4,32.0,Miami,FL,Ticketmaster,$36.00,0,359484,223
+9522488,2016-03-17T23:00:00-0400,Eric Prydz and Cirez D,MAPS Backlot,102.8,199.0,16,38.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,4
+9522592,2016-06-15T20:30:00-0400,Lord Huron,Fillmore Miami Beach at Jackie Gleason Theater,78.02,100.0,7,35.0,Miami Beach,FL,Live Nation,NoPriceClass,0,3447511,94
+9528223,2016-03-20T12:00:00-0400,Anjunabeats,Raleigh Hotel Miami Beach,44.85,139.0,11,31.0,Miami,FL,NoVendorClass,NoPriceClass,NoSoldOutClass,116734,7
+9528308,2016-03-17T22:00:00-0400,Above and Beyond,RC Cola Plant,79.18,124.99,19,50.0,Miami,FL,Wantickets,$35.00,0,81224,4
+9528752,2016-03-19T23:00:00-0400,MUSIC ON Closing Party with Marco Carola and Paco Osuna,Story Nightclub,167.7,185.0,5,11.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,6
+9528753,2016-03-19T23:30:00-0400,Miami Music Week 2016 with Nervo and Kap Slap,Wall Miami,232.6,199.95,2,5.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,6
+9528777,2016-03-18T13:00:00-0400,MAD DECENT Pool Party,Shelborne Beach Resort,108.58,150.0,14,29.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,5
+9528778,2016-03-17T12:00:00-0400,Oliver Heldens,MAPS Backlot,64.25,124.49,6,17.0,Miami,FL,Wantickets,$50.00,0,7776184,4
+9528799,2016-06-03T20:00:00-0400,Ha Ash,Fillmore Miami Beach at Jackie Gleason Theater,126.4,212.0,5,20.0,Miami Beach,FL,Live Nation,NoPriceClass,0,192385,82
+9529102,2016-03-17T22:00:00-0400,The Dirtybird Players,Trade Miami,50.88,99.95,2,4.0,Miami,FL,NoVendorClass,NoPriceClass,NoSoldOutClass,7136369,4
+9529113,2016-03-17T22:00:00-0400,Markus Schulz and more,Club Space Miami,90.4,74.49,1,2.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,4
+9529119,2016-03-17T12:00:00-0400,Steve Aoki,Nikki Beach,161.8,140.0,2,9.0,Miami Beach,FL,Wantickets,$30.00,0,567464,4
+9529123,2016-03-17T12:00:00-0400,MixMash Miami Pool Party,Miami National Hotel,108.7,169.0,4,13.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,4
+9529130,2016-03-18T12:00:00-0400,No Sugar Added Friday Only,Nikki Beach,166.52,139.0,1,4.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,5
+9529133,2016-03-19T12:00:00-0400,No Sugar Added Saturday Only,Nikki Beach,165.33,138.0,2,8.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,6
+9529143,2016-03-18T12:00:00-0400,10 Years of Juicy Beach with Robbie Rivera,Epic Hotel Miami,72.65,59.95,2,4.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,5
+9529153,2016-03-18T12:00:00-0400,Toolroom in Stereo with Mark Knight,Raleigh Hotel Miami Beach,101.62,129.0,5,26.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,5
+9529162,2016-03-19T22:00:00-0400,John Digweed,Treehouse Miami,131.12,124.95,2,6.0,Miami Beach,FL,Wantickets,$40.00,0,12448,6
+9529166,2016-03-19T14:00:00-0400,Anjunadeep in Miami,Cafeina Wynwood Lounge,61.5,99.95,2,3.0,Miami,FL,Wantickets,$40.00,0,6321339,6
+9529168,2016-03-19T12:00:00-0400,Sander van Doorn,Nautilus,118.14,99.95,2,6.0,Miami Beach,FL,Wantickets,$30.00,0,274629,6
+9529170,2016-03-19T12:00:00-0400,Get Wet with Boris and Friends,Surfcomber Hotel Miami Beach,118.13,199.0,4,14.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,6
+9529172,2016-03-19T23:00:00-0400,Paul van Dyk presents VONYC SESSIONS 500,Club Space Miami,149.94,124.95,1,2.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,6
+9529297,2016-03-22T22:00:00-0400,Majid Jordan,Bardot,91.0,191.69,11,31.0,Miami,FL,ShowClix,$15.00,0,8373298,9
+9529581,2016-03-19T12:00:00-0400,Punks Label Showcase Pool Party!,Congress Hotel South Beach,149.94,124.95,1,2.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,6
+9529582,2016-03-19T12:00:00-0400,Sexy By Nature Pool Party with Sunnery James and Ryan Marciano,Shelborne Beach Resort,96.86,145.0,2,2.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,6
+9529584,2016-03-20T12:00:00-0400,Miami Music Week featuring Carnage,Hyde Beach at SLS Hotel South Beach,148.82,199.0,2,4.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,7
+9529586,2016-03-20T11:00:00-0400,DogEatDog Records Miami Pool Party with DJ Icey,Congress Hotel South Beach,96.84,79.95,1,2.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,7
+9529587,2016-03-20T11:30:00-0400,Last Resort,Cafeina Wynwood Lounge,108.64,89.95,1,2.0,Miami,FL,NoVendorClass,NoPriceClass,NoSoldOutClass,179528,7
+9529592,2016-03-20T12:00:00-0400,Spinnin Deep Pool Party,Nautilus,125.22,104.0,1,4.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,7
+9529594,2016-03-20T12:00:00-0400,Buygore Pool Party with Borgore,Miami National Hotel,95.72,79.97,2,6.0,Miami,FL,Wantickets,$25.00,0,2426086,7
+9530349,2016-05-14T20:00:00-0400,Fonseca,Fillmore Miami Beach at Jackie Gleason Theater,166.52,363.0,4,10.0,Miami Beach,FL,Live Nation,NoPriceClass,0,101022,62
+9530553,2016-03-20T22:00:00-0400,MAU5TRAP Presents MAU5HAX BU5 TOUR,Treehouse Miami,96.9,200.0,10,25.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,7
+9530587,2016-03-18T23:00:00-0400,Martin Garrix,Story Nightclub,177.14,250.0,7,17.0,Miami Beach,FL,Flavorus,$90.00,0,5003643,5
+9530881,2016-09-02T19:00:00-0400,Goo Goo Dolls and Collective Soul,Bayfront Park Miami,41.44,419.0,113,547.0,Miami,FL,Live Nation,NoPriceClass,0,145102,173
+9530966,2016-03-18T22:00:00-0400,Maceo Plex and Friends,Trade Miami,61.5,50.0,1,1.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,5
+9530967,2016-03-18T12:00:00-0400,Nervo and Friends,Hyde Beach at SLS Hotel South Beach,114.6,95.0,1,2.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,5
+9530969,2016-03-19T22:00:00-0400,Erick Morillo 24hr Birthday Bash,Club Space Miami,155.9,130.0,1,4.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,6
+9531167,2016-03-18T18:30:00-0400,Wild Life Miami with Disclosure and more,MAPS Backlot,79.2,65.0,1,2.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,5
+9531224,2016-03-19T22:00:00-0400,Nicky Romeo,ICON - Miami Beach,67.4,100.0,3,13.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,6
+9531225,2016-03-18T22:00:00-0400,Dimitri Vegas and Like Mike,ICON - Miami Beach,90.99,129.0,5,18.0,Miami Beach,FL,Wantickets,$60.00,0,6268089,5
+9531409,2016-03-15T22:00:00-0400,Afrojack,LIV Nightclub,88.63,299.0,6,21.0,Miami Beach,FL,Flavorus,$60.00,0,2479031,2
+9531465,2016-03-16T12:00:00-0400,Hardwell presents Revealed Miami Edition 2016,Nikki Beach,61.5,150.0,5,13.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,3
+9531778,2016-03-20T14:00:00-0400,Axtone Miami Pool Party,Delano Beachside,120.48,129.95,4,13.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,7
+9531864,2016-03-19T23:00:00-0400,Calvin Harris,LIV Nightclub,402.52,650.0,7,18.0,Miami Beach,FL,Flavorus,$200.00,0,82547,6
+9531929,2016-05-21T21:00:00-0400,Zhu,Fillmore Miami Beach at Jackie Gleason Theater,71.53,219.0,16,97.0,Miami Beach,FL,Live Nation,NoPriceClass,0,1183857,69
+9532239,2016-06-10T20:00:00-0400,Weird Al Yankovic,Ziff Ballet Opera House at Adrienne Arsht Center,119.32,179.99,11,36.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,89
+9532453,2016-03-20T12:00:00-0400,Chuckie and Friends with Lil Jon,Nikki Beach,108.64,89.95,1,2.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,7
+9532853,2016-03-16T23:00:00-0400,Cedric Gervais and Nervo,LIV Nightclub,83.92,198.0,5,16.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,3
+9533089,2016-03-17T23:00:00-0400,Tiesto,LIV Nightclub,213.72,999.99,12,37.0,Miami Beach,FL,Flavorus,$150.00,0,152971,4
+9534097,2016-03-17T12:00:00-0400,Afrojack Pool Party,SLS Hotel South Beach,183.03,198.0,4,20.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,4
+9534098,2016-03-18T12:00:00-0400,Nice Day Party with Ingrosso,Surfcomber Hotel Miami Beach,81.55,95.0,5,25.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,5
+9534286,2016-03-19T12:00:00-0400,DADA Life's Magnificent Rave Spa,Raleigh Hotel Miami Beach,107.51,89.0,2,14.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,6
+9535359,2016-04-16T20:00:00-0400,Caetano Veloso and Gilberto Gil,Bayfront Park Miami,87.25,150.0,3,10.0,Miami,FL,Live Nation,NoPriceClass,0,409402,34
+9535481,2016-03-18T23:00:00-0400,David Guetta,LIV Nightclub,206.64,249.0,6,27.0,Miami Beach,FL,Flavorus,$250.00,0,149066,5
+9536535,2016-04-24T20:00:00-0400,Melendi,Fillmore Miami Beach at Jackie Gleason Theater,113.42,250.0,8,28.0,Miami Beach,FL,Live Nation,NoPriceClass,0,497023,42
+9539482,2016-03-16T12:00:00-0400,Dash Berlin and New World Punx,Hyde Beach at SLS Hotel South Beach,212.54,178.0,1,2.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,3
+9539486,2016-03-15T22:00:00-0400,Ferry Corsten presents FULL ON,ICON - Miami Beach,20.2,15.0,1,2.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,2
+9540471,2016-04-23T20:00:00-0400,MiamiBash featuring J Balvin,American Airlines Arena,78.88,551.0,75,381.0,Miami,FL,NoResults,NoResults,NoResults,NoResults,41
+9540748,2016-03-16T12:00:00-0400,Spinnin Sessions,Nautilus,61.5,50.0,1,1.0,Miami Beach,FL,NoResults,NoResults,NoResults,NoResults,3
