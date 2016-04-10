@@ -44,10 +44,10 @@ Once a clean and processed dataset was created, I then used the RandomForestRegr
 
 In order to try and get more accuracy in the predictions, I then tried to build a classification model to predict the dollar range that a concert ticket’s markup would be in. This followed the same process as in regression, except I used RandomForestClassifier from sklearn.ensemble in order  to classify each concert into one of the following buckets:
 
-Bucket 1: Ticket markup between $0 - $25 
-Bucket 2: $25 - $37
-Bucket 3: $37-$52
-Bucket 4: >$52
+Bucket 1: Ticket markup between $0 - $25 <br>
+Bucket 2: $25 - $37 <br>
+Bucket 3: $37-$52 <br>
+Bucket 4: >$52 <br>
 
 The code for the classification model can be viewed in the Ticket Markup Classification Model.ipynb notebook.
 
@@ -59,12 +59,12 @@ I also used Lasso and Linear Regression on the data in order to see whether ther
 
 I used the following libraries in this project:
 
-Pandas
-sklearn
-NumPy
-Matplotlib
-statsmodels.formula.api
-Beautiful Soup (for web scraping)
+Pandas<br>
+sklearn<br>
+NumPy<br>
+Matplotlib<br>
+statsmodels.formula.api<br>
+Beautiful Soup (for web scraping)<br>
 
 Suggestions, feedback, comments, and pull requests are all welcome.
 
