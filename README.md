@@ -5,7 +5,8 @@ https://www.linkedin.com/in/evan-paul-b4b94a55
 
 GitHub link: https://github.com/epsilon670/predicting_ticket_markups 
 
-PDF file with project outline and findings: <b>Analyzing Concert Data to Predict Ticket Price Markups.pdf</b>
+Presentation Slides URL: http://res.cloudinary.com/general-assembly-profiles/image/upload/v1460329211/bmgg4spyiq520hhq1hki.pdf
+
 <h3>Overview</h3>
 This was my final project for General Assembly’s part time Data Science class given in San Francisco from January-April 2016 (https://generalassemb.ly/education/data-science).
 
