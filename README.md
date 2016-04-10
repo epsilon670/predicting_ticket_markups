@@ -1,16 +1,17 @@
-Analyzing Concert Data to Predict Ticket Price Markups
+<h1>Analyzing Concert Data to Predict Ticket Price Markups</h1>
 
 Author: Evan Paul
 https://www.linkedin.com/in/evan-paul-b4b94a55 
 
 GitHub link: https://github.com/epsilon670/predicting_ticket_markups 
-Overview
+<h3>Overview</h3>
 This was my final project for General Assembly’s part time Data Science class given in San Francisco from January-April 2016 (https://generalassemb.ly/education/data-science).
 
 The goal was to build a model that could predict the ticket markup of a concert on StubHub.com (an online ticket re-selling marketplace) given inputs about the concert. If these values could be predicted, a ticket re-seller could use the prediction to estimate an ideal selling price when posting their tickets on StubHub. Similarly, a concertgoer could use the predictions to estimate how much they would need to pay in order to buy tickets for a given show from StubHub.
 
 A slideshow deck outlining this project, its scope, and my key findings can be viewed in the Analyzing Concert Data to Predict Ticket Price Markups.pdf file.
-Data Collection
+
+<h3>Data Collection</h3>
 I collected the data for this project from 3 primary sources:
 
 StubHub’s Web API (to get StubHub ticket price data for concerts)
@@ -21,7 +22,7 @@ I collected this data for concerts in 16 metropolitan areas across the United St
 
 In total, I collected data for 3,126 concerts. This raw, unprocessed data can be found in the Data/MasterTicketData.csv file.
 
-Data Processing and Cleaning
+<h3>Data Processing and Cleaning</h3>
 Once the data was collected, I ran Python code to process the data and clean it. This included:
 
 Removing concerts with non-numeric ticket prices
@@ -34,19 +35,28 @@ The code for the processing and cleaning can be found in the Process TicketData.
 The final processed data set of 1,192 concerts is in the Data/ProcessedTicketDataLogs.csv file.
 
 Noteworthy problem with data - the web scrapes of SongKick did not always yield the correct “sold out” values. Only 80 out of 1,192 concerts are listed as “sold out” in the data. I’ve confirmed that at least 1 show (and likely many more) marked as “not sold out” in the dataset was actually sold out in reality. Therefore, it is highly likely that the dataset underrepresents the true number of sold out shows (meaning that the impact of a show being sold out is underestimated in the resulting models).
-Regression Model
+
+<h3>Regression Model</h3>
+
 Once a clean and processed dataset was created, I then used the RandomForestRegressor package from sklearn.ensemble to build a Random Forest model for ticket markup prediction. The code for this can be viewed in the Ticket Markup Prediction Model.ipynb notebook.
-Classification Model
+
+<h3>Classification Model</h3>
+
 In order to try and get more accuracy in the predictions, I then tried to build a classification model to predict the dollar range that a concert ticket’s markup would be in. This followed the same process as in regression, except I used RandomForestClassifier from sklearn.ensemble in order  to classify each concert into one of the following buckets:
 
 Bucket 1: Ticket markup between $0 - $25 
 Bucket 2: $25 - $37
 Bucket 3: $37-$52
 Bucket 4: >$52
+
 The code for the classification model can be viewed in the Ticket Markup Classification Model.ipynb notebook.
-Linear Regression
+
+<h3>Linear Regression</h3>
+
 I also used Lasso and Linear Regression on the data in order to see whether there were any interesting insights that could be gleaned from the dataset. The code for this can be found in the Linear Regression for Stubhub Markup.ipynb notebook. See the Analyzing Concert Data to Predict Ticket Price Markups.pdf file for the results.
-Libraries and 3rd Party Packages
+
+<h3>Libraries and 3rd Party Packages</h3>
+
 I used the following libraries in this project:
 
 Pandas
