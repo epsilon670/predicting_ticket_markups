@@ -63,7 +63,7 @@ I also used Lasso and Linear Regression on the data in order to see whether ther
 I used the following libraries in this project:
 
 Pandas<br>
-sklearn<br>
+scikit-learn<br>
 NumPy<br>
 Matplotlib<br>
 statsmodels.formula.api<br>
